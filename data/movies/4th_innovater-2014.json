@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_4th_innovater_2014",
+  "title": "The 4th INNOVATER",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21060240",
+    "tmdb": 1144151
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-18"
+}

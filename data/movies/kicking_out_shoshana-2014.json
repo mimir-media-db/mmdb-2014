@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kicking_out_shoshana_2014",
+  "title": "Kicking Out Shoshana",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18192199",
+    "imdb": "tt3421738",
+    "tmdb": 314041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 100
+}

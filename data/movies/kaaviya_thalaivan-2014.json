@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kaaviya_thalaivan_2014",
+  "title": "Kaaviya Thalaivan",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17061142",
+    "imdb": "tt2624704",
+    "tmdb": 280959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 150
+}

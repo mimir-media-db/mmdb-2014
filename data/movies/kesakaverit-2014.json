@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kesakaverit_2014",
+  "title": "Kesäkaverit",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18674914",
+    "imdb": "tt3097490",
+    "tmdb": 287301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

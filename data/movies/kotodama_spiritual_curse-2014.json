@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kotodama_spiritual_curse_2014",
+  "title": "Kotodama – Spiritual Curse",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17222201",
+    "imdb": "tt3652664",
+    "tmdb": 402257
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 105
+}

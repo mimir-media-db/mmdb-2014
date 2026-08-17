@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_knife_that_killed_me_2014",
+  "title": "The Knife That Killed Me",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7744829",
+    "imdb": "tt2087982",
+    "tmdb": 297693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 101
+}

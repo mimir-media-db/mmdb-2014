@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kano_2014",
+  "title": "Kano",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10851237",
+    "imdb": "tt2247566",
+    "tmdb": 256930
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 185
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kung_fu_angels_2014",
+  "title": "Kung Fu Angels",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18110091",
+    "imdb": "tt4539364",
+    "tmdb": 308899
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 87
+}

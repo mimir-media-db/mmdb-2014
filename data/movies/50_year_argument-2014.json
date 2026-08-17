@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_50_year_argument_2014",
+  "title": "The 50 Year Argument",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17155624",
+    "imdb": "tt3510820",
+    "tmdb": 274906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 97
+}

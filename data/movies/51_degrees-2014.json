@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_51_degrees_2014",
+  "title": "51 Degrees",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4640065",
+    "imdb": "tt2374721",
+    "tmdb": 262542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

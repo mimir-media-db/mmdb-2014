@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alias_loner_2014",
+  "title": "Alias Loner",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27901731",
+    "imdb": "tt4571862",
+    "tmdb": 365749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

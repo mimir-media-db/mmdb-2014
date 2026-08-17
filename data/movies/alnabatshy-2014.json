@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alnabatshy_2014",
+  "title": "Alnabatshy",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20405040",
+    "imdb": "tt4081818",
+    "tmdb": 344965
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-04"
+}

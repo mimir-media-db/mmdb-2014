@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alien_contact_ufo_invaders_2014",
+  "title": "Alien Contact: UFO Invaders",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130559285",
+    "imdb": "tt5299166",
+    "tmdb": 304033
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-11-14"
+}

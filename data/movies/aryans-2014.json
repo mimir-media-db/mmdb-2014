@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aryans_2014",
+  "title": "The Aryans",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17122811",
+    "imdb": "tt3509420",
+    "tmdb": 267430
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-07",
+  "runtime_minutes": 92
+}

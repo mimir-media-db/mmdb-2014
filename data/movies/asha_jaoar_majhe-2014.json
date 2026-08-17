@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_asha_jaoar_majhe_2014",
+  "title": "Asha Jaoar Majhe",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19882121",
+    "imdb": "tt3843088",
+    "tmdb": 292391
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 84
+}

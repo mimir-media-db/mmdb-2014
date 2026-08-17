@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_actress_2014",
+  "title": "Actress",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19961243",
+    "imdb": "tt3212392",
+    "tmdb": 257407
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

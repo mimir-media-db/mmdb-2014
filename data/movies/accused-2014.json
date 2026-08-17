@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_accused_2014",
+  "title": "Accused",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16467423",
+    "imdb": "tt1800338",
+    "tmdb": 242065
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-03"
+}

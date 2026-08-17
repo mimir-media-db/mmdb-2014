@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_amma_appa_2014",
+  "title": "Amma & Appa",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19844909",
+    "imdb": "tt3412858",
+    "tmdb": 274524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-09"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_arts_home_is_my_kassel_2014",
+  "title": "Art's Home is my Kassel",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17521367",
+    "tmdb": 281986
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-10",
+  "runtime_minutes": 90
+}

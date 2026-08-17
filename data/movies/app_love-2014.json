@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_app_love_2014",
+  "title": "App Love",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19752324",
+    "imdb": "tt4222700",
+    "tmdb": 398770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

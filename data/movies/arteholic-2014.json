@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_arteholic_2014",
+  "title": "Arteholic",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106719265",
+    "imdb": "tt4152950",
+    "tmdb": 327716
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

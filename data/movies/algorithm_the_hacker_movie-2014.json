@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_algorithm_the_hacker_movie_2014",
+  "title": "Algorithm: The Hacker Movie",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28129029",
+    "imdb": "tt3293462",
+    "tmdb": 281826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amazing_spiderman_2014",
+  "title": "The Amazing Spider-Man",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q229808",
+    "imdb": "tt0948470",
+    "tmdb": 1930
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-01",
+  "runtime_minutes": 136
+}

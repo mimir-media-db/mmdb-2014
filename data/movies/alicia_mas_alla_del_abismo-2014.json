@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alicia_mas_alla_del_abismo_2014",
+  "title": "Alicia más allá del abismo",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21999979",
+    "imdb": "tt5268858",
+    "tmdb": 317939
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 65
+}

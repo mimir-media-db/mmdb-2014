@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alfonso_sansone_produttore_per_caso_2014",
+  "title": "Alfonso Sansone produttore per caso",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21187855",
+    "imdb": "tt4030206",
+    "tmdb": 1113699
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 56
+}

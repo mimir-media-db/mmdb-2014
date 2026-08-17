@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_is_lost_2014",
+  "title": "All Is Lost",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2837490",
+    "imdb": "tt2017038",
+    "tmdb": 152747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-09",
+  "runtime_minutes": 106
+}

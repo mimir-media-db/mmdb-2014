@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_austin_to_boston_2014",
+  "title": "Austin to Boston",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50414259",
+    "imdb": "tt3722248",
+    "tmdb": 296082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 72
+}

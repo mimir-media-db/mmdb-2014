@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aftermath_2014",
+  "title": "Aftermath",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18755814",
+    "imdb": "tt4026852",
+    "tmdb": 290002
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 193
+}

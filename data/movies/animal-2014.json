@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_animal_2014",
+  "title": "Animal",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18052794",
+    "imdb": "tt2573746",
+    "tmdb": 415171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-02"
+}

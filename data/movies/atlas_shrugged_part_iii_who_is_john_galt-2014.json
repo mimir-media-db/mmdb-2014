@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_atlas_shrugged_part_iii_who_is_john_galt_2014",
+  "title": "Atlas Shrugged Part III: Who Is John Galt?",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4816836",
+    "imdb": "tt2800038",
+    "tmdb": 199933
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-12",
+  "runtime_minutes": 99
+}

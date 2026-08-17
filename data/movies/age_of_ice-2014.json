@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_age_of_ice_2014",
+  "title": "Age of Ice",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23307867",
+    "imdb": "tt3924510",
+    "tmdb": 297544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

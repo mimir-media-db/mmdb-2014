@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_anne_des_vingt_jours_2014",
+  "title": "Anne des vingt jours",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59683942"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

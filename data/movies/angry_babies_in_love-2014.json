@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_angry_babies_in_love_2014",
+  "title": "Angry Babies in Love",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16828565",
+    "imdb": "tt3805054",
+    "tmdb": 283669
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-14"
+}

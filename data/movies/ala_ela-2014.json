@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ala_ela_2014",
+  "title": "Ala Ela",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959622",
+    "imdb": "tt4465570",
+    "tmdb": 335363
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-11-28"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_airplane_vs_volcano_2014",
+  "title": "Airplane vs. Volcano",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19258667",
+    "imdb": "tt3417334",
+    "tmdb": 258210
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-28",
+  "runtime_minutes": 91
+}

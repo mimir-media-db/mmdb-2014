@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ao_haru_ride_2014",
+  "title": "Ao Haru Ride",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21337326",
+    "imdb": "tt6075718",
+    "tmdb": 283727
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-13",
+  "runtime_minutes": 122
+}

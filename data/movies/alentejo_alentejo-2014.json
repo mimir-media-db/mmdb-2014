@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alentejo_alentejo_2014",
+  "title": "Alentejo, Alentejo",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26453873",
+    "imdb": "tt3600370",
+    "tmdb": 293274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 98
+}

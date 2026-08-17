@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aadim_vichar_2014",
+  "title": "Aadim Vichar",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60738189",
+    "imdb": "tt9866712",
+    "tmdb": 1024673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_about_my_parents_2014",
+  "title": "All About My Parents",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30904914",
+    "imdb": "tt3700338",
+    "tmdb": 317736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-25",
+  "runtime_minutes": 90
+}

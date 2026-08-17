@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ask_me_anything_2014",
+  "title": "Ask Me Anything",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19363543",
+    "imdb": "tt2505294",
+    "tmdb": 271185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-19",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_frontera_2014",
+  "title": "Frontera",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16250591",
+    "imdb": "tt2510028",
+    "tmdb": 259611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

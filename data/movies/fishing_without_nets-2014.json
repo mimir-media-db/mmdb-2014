@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fishing_without_nets_2014",
+  "title": "Fishing Without Nets",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16740153",
+    "imdb": "tt3469718",
+    "tmdb": 245829
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

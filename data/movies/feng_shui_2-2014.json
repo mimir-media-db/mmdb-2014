@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_feng_shui_2_2014",
+  "title": "Feng Shui 2",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18611434",
+    "imdb": "tt3837198",
+    "tmdb": 315776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

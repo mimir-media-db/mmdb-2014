@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fantastic_ghost_wedding_2014",
+  "title": "A Fantastic Ghost Wedding",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18669214",
+    "imdb": "tt3460062",
+    "tmdb": 454016
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

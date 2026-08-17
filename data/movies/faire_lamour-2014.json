@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_faire_lamour_2014",
+  "title": "Faire: L'amour",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17075459",
+    "imdb": "tt3732268",
+    "tmdb": 284344
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 168
+}

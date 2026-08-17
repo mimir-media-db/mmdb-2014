@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_for_a_handful_of_kisses_2014",
+  "title": "For a Handful of Kisses",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16938173",
+    "imdb": "tt3028412",
+    "tmdb": 258751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fairytale_wedding_2014",
+  "title": "A Fairy-Tale Wedding",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16937203",
+    "imdb": "tt3351004",
+    "tmdb": 264001
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 91
+}

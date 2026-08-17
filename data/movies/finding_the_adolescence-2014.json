@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_finding_the_adolescence_2014",
+  "title": "Finding the Adolescence",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17992584",
+    "imdb": "tt3949648",
+    "tmdb": 329949
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_french_dolls_2014",
+  "title": "French Dolls",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18633955",
+    "imdb": "tt3645154",
+    "tmdb": 302627
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 92
+}

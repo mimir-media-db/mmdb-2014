@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gaming_in_color_2014",
+  "title": "Gaming in Color",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17002315",
+    "imdb": "tt3654026",
+    "tmdb": 266241
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

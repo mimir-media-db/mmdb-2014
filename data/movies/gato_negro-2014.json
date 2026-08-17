@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gato_negro_2014",
+  "title": "Gato negro",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16766099",
+    "imdb": "tt3594812",
+    "tmdb": 298740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 120
+}

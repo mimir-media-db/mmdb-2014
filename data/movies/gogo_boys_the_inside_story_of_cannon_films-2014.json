@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gogo_boys_the_inside_story_of_cannon_films_2014",
+  "title": "The Go-Go Boys: The Inside Story of Cannon Films",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18389754",
+    "imdb": "tt3571904",
+    "tmdb": 295099
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 88
+}

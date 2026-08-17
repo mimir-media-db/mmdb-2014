@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_glow_of_the_firefly_2014",
+  "title": "Glow of the Firefly",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18125136",
+    "imdb": "tt3902286",
+    "tmdb": 295617
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

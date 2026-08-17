@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_get_on_up_2014",
+  "title": "Get on Up",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15726752",
+    "imdb": "tt2473602",
+    "tmdb": 239566
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 139
+}

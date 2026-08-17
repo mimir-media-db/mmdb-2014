@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goodbye_to_language_2014",
+  "title": "Goodbye to Language",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4682732",
+    "imdb": "tt2400275",
+    "tmdb": 114982
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 69
+}

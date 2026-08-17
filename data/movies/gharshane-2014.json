@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gharshane_2014",
+  "title": "Gharshane",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17053518",
+    "imdb": "tt3499616",
+    "tmdb": 511709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

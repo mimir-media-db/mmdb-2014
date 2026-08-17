@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goob_2014",
+  "title": "The Goob",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18331896",
+    "imdb": "tt3009070",
+    "tmdb": 289232
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 84
+}

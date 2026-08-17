@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_girls_robbery_2014",
+  "title": "Girls' Robbery",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17450822",
+    "imdb": "tt3463940",
+    "tmdb": 271955
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

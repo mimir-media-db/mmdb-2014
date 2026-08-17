@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mystery_girls",
+  "title": "Mystery Girls",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17304975",
+    "imdb": "tt3310544",
+    "tmdb": 60859
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 10
+}

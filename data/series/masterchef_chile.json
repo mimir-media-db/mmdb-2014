@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_masterchef_chile",
+  "title": "MasterChef Chile",
+  "start_year": 2014,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q18397916",
+    "imdb": "tt6151452",
+    "tmdb": 236720
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 111
+}

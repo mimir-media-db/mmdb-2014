@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_midas_tvb",
+  "title": "Midas (TVB)",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15730315",
+    "tmdb": 84809
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 30
+}

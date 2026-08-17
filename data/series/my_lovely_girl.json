@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_my_lovely_girl",
+  "title": "My Lovely Girl",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17481109",
+    "imdb": "tt4065400",
+    "tmdb": 61487
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 16
+}

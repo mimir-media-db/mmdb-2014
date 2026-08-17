@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_marta_a_vera",
+  "title": "Marta a Vera",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q17573647",
+    "imdb": "tt3601366",
+    "tmdb": 85478
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

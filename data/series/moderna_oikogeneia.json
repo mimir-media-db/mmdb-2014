@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_moderna_oikogeneia",
+  "title": "Moderna Oikogeneia",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17636554",
+    "imdb": "tt3649128",
+    "tmdb": 102126
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 43
+}

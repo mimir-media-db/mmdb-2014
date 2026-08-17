@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_my_sweet_city",
+  "title": "My Sweet City",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18815416"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

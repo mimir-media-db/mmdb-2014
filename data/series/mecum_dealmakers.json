@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mecum_dealmakers",
+  "title": "Mecum Dealmakers",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q20925584",
+    "imdb": "tt3905632"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

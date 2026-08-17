@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_manzod_with_children",
+  "title": "Manzo'd with Children",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q18645271",
+    "imdb": "tt3976068",
+    "tmdb": 63359
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

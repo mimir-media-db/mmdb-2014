@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mr_back",
+  "title": "Mr. Back",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17564509",
+    "imdb": "tt4284152",
+    "tmdb": 61721
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

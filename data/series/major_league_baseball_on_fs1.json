@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_major_league_baseball_on_fs1",
+  "title": "Major League Baseball on FS1",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q111955519"
+  },
+  "last_updated": "2026-08-17"
+}

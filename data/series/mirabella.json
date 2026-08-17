@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mirabella",
+  "title": "Mirabella",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15858704",
+    "imdb": "tt4003316",
+    "tmdb": 221694
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 73
+}

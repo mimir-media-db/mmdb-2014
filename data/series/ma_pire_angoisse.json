@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ma_pire_angoisse",
+  "title": "Ma pire angoisse",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24933748",
+    "imdb": "tt4110672",
+    "tmdb": 71047
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 58
+}

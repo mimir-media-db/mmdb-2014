@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_metastasis",
+  "title": "Metástasis",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17057981",
+    "imdb": "tt3190448",
+    "tmdb": 72812
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 62
+}

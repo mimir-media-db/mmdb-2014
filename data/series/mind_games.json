@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mind_games",
+  "title": "Mind Games",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q13217433",
+    "imdb": "tt2751064",
+    "tmdb": 51170
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

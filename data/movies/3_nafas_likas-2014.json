@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_3_nafas_likas_2014",
+  "title": "3 Nafas Likas",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17997505",
+    "imdb": "tt3680174",
+    "tmdb": 388161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

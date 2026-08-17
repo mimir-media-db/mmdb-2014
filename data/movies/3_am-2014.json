@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_3_am_2014",
+  "title": "3 A.M.",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18109304",
+    "imdb": "tt3720634",
+    "tmdb": 298787
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

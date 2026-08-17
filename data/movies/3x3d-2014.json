@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_3x3d_2014",
+  "title": "3x3D",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16741153",
+    "imdb": "tt2693702",
+    "tmdb": 196327
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 70
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_only_lovers_left_alive_2014",
+  "title": "Only Lovers Left Alive",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3352751",
+    "imdb": "tt1714915",
+    "tmdb": 152603
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-17",
+  "runtime_minutes": 123
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_our_huff_and_puff_journey_2014",
+  "title": "Our Huff and Puff Journey",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28685296",
+    "imdb": "tt4181938",
+    "tmdb": 369699
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

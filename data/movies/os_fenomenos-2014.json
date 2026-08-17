@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_os_fenomenos_2014",
+  "title": "Os fenómenos",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19609892",
+    "imdb": "tt3589172",
+    "tmdb": 256755
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 109
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_obhishopto_nighty_2014",
+  "title": "Obhishopto Nighty",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15731589",
+    "imdb": "tt3221900",
+    "tmdb": 304384
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-14"
+}

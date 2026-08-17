@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_october_gale_2014",
+  "title": "October Gale",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19961353",
+    "imdb": "tt2691734",
+    "tmdb": 285843
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

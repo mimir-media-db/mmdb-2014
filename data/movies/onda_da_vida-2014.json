@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_onda_da_vida_2014",
+  "title": "A Onda da Vida",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43303125",
+    "imdb": "tt2076788",
+    "tmdb": 279383
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-03",
+  "runtime_minutes": 84
+}

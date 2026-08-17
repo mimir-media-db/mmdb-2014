@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_on_a_marche_sur_bangkok_2014",
+  "title": "On a marché sur Bangkok",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16668025",
+    "imdb": "tt3985434",
+    "tmdb": 295087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-22",
+  "runtime_minutes": 93
+}

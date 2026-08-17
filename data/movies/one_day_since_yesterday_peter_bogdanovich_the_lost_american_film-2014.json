@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_day_since_yesterday_peter_bogdanovich_the_lost_american_film_2014",
+  "title": "One Day Since Yesterday: Peter Bogdanovich & the Lost American Film",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131828548",
+    "imdb": "tt3920572",
+    "tmdb": 353746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 97
+}

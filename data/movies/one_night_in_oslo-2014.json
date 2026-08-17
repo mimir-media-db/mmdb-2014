@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_night_in_oslo_2014",
+  "title": "One Night in Oslo",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16063774",
+    "imdb": "tt3115864",
+    "tmdb": 253018
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-04",
+  "runtime_minutes": 83
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_chance_2014",
+  "title": "One Chance",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14833091",
+    "imdb": "tt1196956",
+    "tmdb": 209361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-06",
+  "runtime_minutes": 103
+}

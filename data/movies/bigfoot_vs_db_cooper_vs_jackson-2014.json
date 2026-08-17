@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bigfoot_vs_db_cooper_vs_jackson_2014",
+  "title": "Bigfoot vs. D.B. Cooper vs. Jackson",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65920331",
+    "imdb": "tt3588938",
+    "tmdb": 275420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-01",
+  "runtime_minutes": 77
+}

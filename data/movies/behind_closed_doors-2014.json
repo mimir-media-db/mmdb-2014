@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_behind_closed_doors_2014",
+  "title": "Behind Closed Doors",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28807091",
+    "imdb": "tt2825466",
+    "tmdb": 721827
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-15"
+}

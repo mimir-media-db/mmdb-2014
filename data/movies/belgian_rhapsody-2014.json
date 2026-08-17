@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_belgian_rhapsody_2014",
+  "title": "Belgian Rhapsody",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19280247",
+    "imdb": "tt3459472",
+    "tmdb": 282116
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-02",
+  "runtime_minutes": 100
+}

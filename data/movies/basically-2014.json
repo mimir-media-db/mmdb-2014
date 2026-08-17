@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_basically_2014",
+  "title": "Basically",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131763343",
+    "imdb": "tt2776890",
+    "tmdb": 334381
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-25"
+}

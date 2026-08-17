@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bound_by_flesh_2014",
+  "title": "Bound By Flesh",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19967522",
+    "imdb": "tt2357003",
+    "tmdb": 224414
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-27",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bollywood_villa_2014",
+  "title": "Bollywood Villa",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17020393",
+    "imdb": "tt3748000",
+    "tmdb": 372091
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-11"
+}

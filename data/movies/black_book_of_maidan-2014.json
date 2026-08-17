@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_book_of_maidan_2014",
+  "title": "The Black Book of Maidan",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575978",
+    "imdb": "tt17279614",
+    "tmdb": 954165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-01",
+  "runtime_minutes": 76
+}

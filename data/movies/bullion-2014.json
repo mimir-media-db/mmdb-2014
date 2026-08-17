@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bullion_2014",
+  "title": "Bullion",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100742932",
+    "imdb": "tt13161184"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

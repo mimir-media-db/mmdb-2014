@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brick_mansions_2014",
+  "title": "Brick Mansions",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13435412",
+    "imdb": "tt1430612",
+    "tmdb": 254473
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-23",
+  "runtime_minutes": 90
+}

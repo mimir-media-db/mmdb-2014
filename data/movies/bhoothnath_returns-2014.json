@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bhoothnath_returns_2014",
+  "title": "Bhoothnath Returns",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16291648",
+    "imdb": "tt3531852",
+    "tmdb": 264085
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-10",
+  "runtime_minutes": 155
+}

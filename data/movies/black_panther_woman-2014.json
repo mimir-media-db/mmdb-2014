@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_panther_woman_2014",
+  "title": "Black Panther Woman",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59626918",
+    "imdb": "tt4151104",
+    "tmdb": 328475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 52
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_meets_girl_2014",
+  "title": "Boy Meets Girl",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19818662",
+    "imdb": "tt3007302",
+    "tmdb": 263105
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-28",
+  "runtime_minutes": 99
+}

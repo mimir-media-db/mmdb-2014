@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boys_on_film_11_we_are_animals_2014",
+  "title": "Boys On Film 11: We Are Animals",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43303239",
+    "imdb": "tt5574046",
+    "tmdb": 420859
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 138
+}

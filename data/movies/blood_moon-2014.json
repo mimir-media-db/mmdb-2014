@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_moon_2014",
+  "title": "Blood Moon",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108146993",
+    "imdb": "tt3529110",
+    "tmdb": 280005
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_banksy_does_new_york_2014",
+  "title": "Banksy Does New York",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48742674",
+    "imdb": "tt3995006",
+    "tmdb": 299729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-11",
+  "runtime_minutes": 79
+}

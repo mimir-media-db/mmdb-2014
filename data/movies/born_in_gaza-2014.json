@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_born_in_gaza_2014",
+  "title": "Born in Gaza",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98153120",
+    "imdb": "tt4205416",
+    "tmdb": 300521
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-12",
+  "runtime_minutes": 73
+}

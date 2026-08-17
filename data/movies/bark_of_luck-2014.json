@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bark_of_luck_2014",
+  "title": "Bark of Luck",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50507698",
+    "imdb": "tt3661710"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-12"
+}

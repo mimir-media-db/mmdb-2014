@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brand_new_you_2014",
+  "title": "A Brand New You",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26720467",
+    "imdb": "tt2166226",
+    "tmdb": 538129
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-06",
+  "runtime_minutes": 83
+}

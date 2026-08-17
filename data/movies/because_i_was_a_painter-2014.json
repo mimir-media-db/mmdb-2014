@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_because_i_was_a_painter_2014",
+  "title": "Because I Was a Painter",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18415001",
+    "imdb": "tt3342998",
+    "tmdb": 317980
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-16",
+  "runtime_minutes": 104
+}

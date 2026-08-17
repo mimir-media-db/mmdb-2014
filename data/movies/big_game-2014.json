@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_big_game_2014",
+  "title": "Big Game",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15243037",
+    "imdb": "tt2088003",
+    "tmdb": 230179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-05",
+  "runtime_minutes": 90
+}

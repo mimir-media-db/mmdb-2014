@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bruce_springsteens_high_hopes_2014",
+  "title": "Bruce Springsteen's High Hopes",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17093764",
+    "imdb": "tt3838796",
+    "tmdb": 263156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-04",
+  "runtime_minutes": 28
+}

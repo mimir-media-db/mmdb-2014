@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_banished_2014",
+  "title": "Banished",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56874160",
+    "imdb": "tt3562252",
+    "tmdb": 389911
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 79
+}

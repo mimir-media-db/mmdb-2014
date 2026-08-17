@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_behind_the_wall_2014",
+  "title": "Behind the Wall",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132643450",
+    "imdb": "tt3153974"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 45
+}

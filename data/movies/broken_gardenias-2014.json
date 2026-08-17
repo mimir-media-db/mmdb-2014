@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_broken_gardenias_2014",
+  "title": "Broken Gardenias",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116978366",
+    "imdb": "tt2994576",
+    "tmdb": 473298
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 88
+}

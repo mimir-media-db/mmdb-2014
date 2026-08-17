@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_before_snowfall_2014",
+  "title": "Before Snowfall",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18912791",
+    "imdb": "tt2560440",
+    "tmdb": 159088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-11",
+  "runtime_minutes": 96
+}

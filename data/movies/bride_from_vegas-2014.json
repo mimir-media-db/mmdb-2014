@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bride_from_vegas_2014",
+  "title": "The Bride From Vegas",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28967146",
+    "imdb": "tt3299996",
+    "tmdb": 672577
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-25"
+}

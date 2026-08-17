@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bredo_greve_filmrebell_2014",
+  "title": "Bredo Greve – Filmrebell",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23705698",
+    "imdb": "tt3665412",
+    "tmdb": 401683
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-24",
+  "runtime_minutes": 80
+}

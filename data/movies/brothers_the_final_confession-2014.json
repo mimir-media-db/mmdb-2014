@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brothers_the_final_confession_2014",
+  "title": "Brothers. The final confession",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16693156",
+    "imdb": "tt2328529",
+    "tmdb": 263814
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-18",
+  "runtime_minutes": 120
+}

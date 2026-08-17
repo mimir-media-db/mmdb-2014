@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bitter_blood",
+  "title": "Bitter Blood",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15915042",
+    "imdb": "tt3502954",
+    "tmdb": 62296
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

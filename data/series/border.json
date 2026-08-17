@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_border",
+  "title": "BORDER",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112428910",
+    "imdb": "tt3512088",
+    "tmdb": 64031
+  },
+  "last_updated": "2026-08-17"
+}

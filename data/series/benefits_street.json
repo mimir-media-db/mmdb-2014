@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_benefits_street",
+  "title": "Benefits Street",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q15618496",
+    "imdb": "tt3406870",
+    "tmdb": 155293
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 5
+}

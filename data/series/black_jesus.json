@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_black_jesus",
+  "title": "Black Jesus",
+  "start_year": 2014,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q18203048",
+    "imdb": "tt3589872",
+    "tmdb": 61161
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 31
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bienvenidos_al_lolita",
+  "title": "Bienvenidos al Lolita",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15613233",
+    "imdb": "tt3091322",
+    "tmdb": 62434
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 8
+}

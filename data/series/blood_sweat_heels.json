@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_blood_sweat_heels",
+  "title": "Blood, Sweat & Heels",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16952292",
+    "imdb": "tt3437610",
+    "tmdb": 62446
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

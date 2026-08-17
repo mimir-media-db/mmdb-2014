@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bluf",
+  "title": "Bluf",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q18421632",
+    "imdb": "tt4025456",
+    "tmdb": 65037
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

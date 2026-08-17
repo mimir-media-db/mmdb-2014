@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_beneath_the_lies_the_series",
+  "title": "Beneath The Lies - The Series",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q25051932",
+    "imdb": "tt5263082",
+    "tmdb": 69482
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

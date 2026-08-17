@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_brokenwood_mysteries",
+  "title": "The Brokenwood Mysteries",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17462701",
+    "imdb": "tt3640276",
+    "tmdb": 61565
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10,
+  "total_episodes": 48
+}

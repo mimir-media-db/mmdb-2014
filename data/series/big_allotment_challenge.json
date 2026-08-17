@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_big_allotment_challenge",
+  "title": "The Big Allotment Challenge",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16953744",
+    "imdb": "tt3686234"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

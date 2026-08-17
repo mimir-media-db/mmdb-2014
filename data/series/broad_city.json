@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_broad_city",
+  "title": "Broad City",
+  "start_year": 2014,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q16155320",
+    "imdb": "tt2578560",
+    "tmdb": 60839
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 50
+}

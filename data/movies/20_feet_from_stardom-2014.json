@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_20_feet_from_stardom_2014",
+  "title": "20 Feet from Stardom",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15052276",
+    "imdb": "tt2396566",
+    "tmdb": 159014
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-24",
+  "runtime_minutes": 91
+}

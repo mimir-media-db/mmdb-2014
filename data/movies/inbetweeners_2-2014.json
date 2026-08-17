@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inbetweeners_2_2014",
+  "title": "The Inbetweeners 2",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16985835",
+    "imdb": "tt3097204",
+    "tmdb": 242022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-05",
+  "runtime_minutes": 96
+}

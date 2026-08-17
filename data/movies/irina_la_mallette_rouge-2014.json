@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_irina_la_mallette_rouge_2014",
+  "title": "Irina, la Mallette rouge",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124748150",
+    "imdb": "tt3917514",
+    "tmdb": 288877
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-03",
+  "runtime_minutes": 87
+}

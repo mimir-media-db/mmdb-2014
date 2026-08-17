@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_incident_2014",
+  "title": "The Incident",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47408279",
+    "imdb": "tt3528756",
+    "tmdb": 264397
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-21",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ivory_tower_2014",
+  "title": "Ivory Tower",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16466379",
+    "imdb": "tt3263520",
+    "tmdb": 250660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-18",
+  "runtime_minutes": 90
+}

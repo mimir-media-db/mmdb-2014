@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ironclad_battle_for_blood_2014",
+  "title": "Ironclad: Battle for Blood",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18161160",
+    "imdb": "tt2404583",
+    "tmdb": 258251
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-14",
+  "runtime_minutes": 108
+}

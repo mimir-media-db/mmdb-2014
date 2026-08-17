@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iceman_3d_2014",
+  "title": "Iceman 3D",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14948568",
+    "imdb": "tt2557256",
+    "tmdb": 105001
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-17",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ishq_brandy_2014",
+  "title": "Ishq Brandy",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17067411",
+    "imdb": "tt3533614",
+    "tmdb": 256405
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-21"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ines_recuerdos_de_una_vida_2014",
+  "title": "Inés, Recuerdos de una vida",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135788965",
+    "imdb": "tt13889940"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 68
+}

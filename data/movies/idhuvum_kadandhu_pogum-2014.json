@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_idhuvum_kadandhu_pogum_2014",
+  "title": "Idhuvum Kadandhu Pogum",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16249114",
+    "imdb": "tt3505060",
+    "tmdb": 264960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-14"
+}

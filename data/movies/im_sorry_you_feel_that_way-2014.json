@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_im_sorry_you_feel_that_way_2014",
+  "title": "I'm Sorry You Feel That Way",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25999723",
+    "imdb": "tt3823690",
+    "tmdb": 308571
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-05"
+}

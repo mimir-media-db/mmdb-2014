@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ivanov_2014",
+  "title": "Ivanov",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16654837",
+    "imdb": "tt2890340",
+    "tmdb": 70958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-14",
+  "runtime_minutes": 168
+}

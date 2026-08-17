@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ibong_adarna_the_pinoy_adventure_2014",
+  "title": "Ibong Adarna: The Pinoy Adventure",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132128277",
+    "imdb": "tt4077382",
+    "tmdb": 298572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-01"
+}

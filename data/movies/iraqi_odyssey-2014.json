@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iraqi_odyssey_2014",
+  "title": "Iraqi Odyssey",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20240920",
+    "imdb": "tt3904176",
+    "tmdb": 292436
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-06",
+  "runtime_minutes": 162
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_it_can_pass_through_the_wall_2014",
+  "title": "It Can Pass Through the Wall",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44875299",
+    "imdb": "tt3752932",
+    "tmdb": 272361
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 17
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iboga_nights_2014",
+  "title": "Iboga Nights",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130237268",
+    "imdb": "tt3510950",
+    "tmdb": 594799
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 98
+}

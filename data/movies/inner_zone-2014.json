@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inner_zone_2014",
+  "title": "The Inner Zone",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106719270",
+    "imdb": "tt3325802",
+    "tmdb": 283799
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-31",
+  "runtime_minutes": 93
+}

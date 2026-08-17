@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_record_of_sweet_murder_2014",
+  "title": "A Record of Sweet Murder",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17025972",
+    "imdb": "tt3689908",
+    "tmdb": 291492
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

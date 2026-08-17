@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ra_ra_krishnayya_2014",
+  "title": "Ra Ra Krishnayya",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17073413",
+    "imdb": "tt3822606",
+    "tmdb": 304791
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

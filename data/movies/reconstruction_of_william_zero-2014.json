@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reconstruction_of_william_zero_2014",
+  "title": "The Reconstruction of William Zero",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18153459",
+    "imdb": "tt1867091",
+    "tmdb": 282313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 98
+}

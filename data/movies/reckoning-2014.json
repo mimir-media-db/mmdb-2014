@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reckoning_2014",
+  "title": "The Reckoning",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14921984",
+    "imdb": "tt2452470",
+    "tmdb": 137876
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 86
+}

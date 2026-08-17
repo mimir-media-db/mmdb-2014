@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rowdy_fellow_2014",
+  "title": "Rowdy Fellow",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16253720",
+    "imdb": "tt4087914",
+    "tmdb": 301668
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

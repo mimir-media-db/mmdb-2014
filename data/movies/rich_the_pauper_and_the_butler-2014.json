@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rich_the_pauper_and_the_butler_2014",
+  "title": "The Rich, the Pauper and the Butler",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18224443",
+    "imdb": "tt4229938",
+    "tmdb": 310126
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 102
+}

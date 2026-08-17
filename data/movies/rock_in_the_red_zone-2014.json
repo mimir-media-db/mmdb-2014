@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rock_in_the_red_zone_2014",
+  "title": "Rock in the Red Zone",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7439739",
+    "imdb": "tt3462834",
+    "tmdb": 368343
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

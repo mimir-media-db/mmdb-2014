@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fair_play_2014",
+  "title": "Fair Play",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15627005",
+    "imdb": "tt2199448",
+    "tmdb": 282113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-06",
+  "runtime_minutes": 100
+}

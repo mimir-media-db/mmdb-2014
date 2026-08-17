@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flower_and_snake_zero_2014",
+  "title": "Flower and Snake: Zero",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18124860",
+    "imdb": "tt3421616",
+    "tmdb": 292777
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-17",
+  "runtime_minutes": 113
+}

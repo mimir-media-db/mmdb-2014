@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fakat_muzeyyen_bu_derin_bir_tutku_2014",
+  "title": "Fakat Müzeyyen Bu Derin Bir Tutku",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19945435",
+    "imdb": "tt4178986",
+    "tmdb": 310993
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 106
+}

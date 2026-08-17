@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_foryannfromrose_2014",
+  "title": "foryannfromrose",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59639766",
+    "imdb": "tt12324822",
+    "tmdb": 435781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 3
+}

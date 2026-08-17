@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fine_step_2014",
+  "title": "A Fine Step",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21512662",
+    "imdb": "tt1604100",
+    "tmdb": 248402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 111
+}

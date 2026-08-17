@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_faand_the_trap_2014",
+  "title": "Faand: The Trap",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31734319",
+    "imdb": "tt3593810"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-25",
+  "runtime_minutes": 130
+}

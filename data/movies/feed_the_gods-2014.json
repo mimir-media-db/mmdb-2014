@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_feed_the_gods_2014",
+  "title": "Feed the Gods",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25415155",
+    "imdb": "tt3138024",
+    "tmdb": 286371
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-26",
+  "runtime_minutes": 84
+}

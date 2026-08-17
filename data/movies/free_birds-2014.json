@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_free_birds_2014",
+  "title": "Free Birds",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6378736",
+    "imdb": "tt1621039",
+    "tmdb": 175574
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-06",
+  "runtime_minutes": 91
+}

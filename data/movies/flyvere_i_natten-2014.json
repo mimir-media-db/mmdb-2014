@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flyvere_i_natten_2014",
+  "title": "Flyvere i natten",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33533646",
+    "imdb": "tt4253464",
+    "tmdb": 350066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 37
+}

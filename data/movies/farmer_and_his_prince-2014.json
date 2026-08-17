@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_farmer_and_his_prince_2014",
+  "title": "The Farmer and His Prince",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19801778",
+    "imdb": "tt2905364",
+    "tmdb": 418151
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-11-20",
+  "runtime_minutes": 80
+}

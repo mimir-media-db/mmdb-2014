@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fires_on_the_plain_2014",
+  "title": "Fires on the Plain",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17601375",
+    "imdb": "tt3893038",
+    "tmdb": 283710
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-02",
+  "runtime_minutes": 87
+}

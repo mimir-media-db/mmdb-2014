@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_forest_2014",
+  "title": "The Forest",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25414617",
+    "imdb": "tt3592218",
+    "tmdb": 314471
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_family_united_2014",
+  "title": "Family United",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q9019307",
+    "imdb": "tt2252680",
+    "tmdb": 215848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-02",
+  "runtime_minutes": 95
+}

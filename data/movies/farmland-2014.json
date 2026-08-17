@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_farmland_2014",
+  "title": "Farmland",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16975730",
+    "imdb": "tt3631430",
+    "tmdb": 264471
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-18",
+  "runtime_minutes": 77
+}

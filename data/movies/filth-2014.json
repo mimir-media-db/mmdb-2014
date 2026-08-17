@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_filth_2014",
+  "title": "Filth",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3072241",
+    "imdb": "tt1450321",
+    "tmdb": 85889
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-30",
+  "runtime_minutes": 97
+}

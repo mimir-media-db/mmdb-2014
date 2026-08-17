@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_faux_accords_2014",
+  "title": "Faux Accords",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30728574",
+    "imdb": "tt4008962",
+    "tmdb": 346319
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

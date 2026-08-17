@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spark_2014",
+  "title": "Spark",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18811638",
+    "imdb": "tt3893476",
+    "tmdb": 548402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-02"
+}

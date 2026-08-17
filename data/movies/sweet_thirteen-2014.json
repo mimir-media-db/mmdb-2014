@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_thirteen_2014",
+  "title": "Sweet Thirteen",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55596439",
+    "imdb": "tt4263852",
+    "tmdb": 997600
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

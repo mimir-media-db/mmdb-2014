@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stripped_2014",
+  "title": "Stripped",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17149485",
+    "imdb": "tt2488042",
+    "tmdb": 218482
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-26",
+  "runtime_minutes": 85
+}

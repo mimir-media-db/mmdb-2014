@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_selfless_portrait_2014",
+  "title": "Self(less) Portrait",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59690934",
+    "imdb": "tt4511772",
+    "tmdb": 268270
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 98
+}

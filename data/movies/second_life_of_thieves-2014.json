@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_second_life_of_thieves_2014",
+  "title": "The Second Life of Thieves",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104158478",
+    "imdb": "tt4006676",
+    "tmdb": 318065
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-10"
+}

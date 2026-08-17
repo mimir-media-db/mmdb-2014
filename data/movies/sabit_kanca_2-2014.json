@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sabit_kanca_2_2014",
+  "title": "Sabit Kanca 2",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27703648",
+    "imdb": "tt4062524",
+    "tmdb": 334661
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-24",
+  "runtime_minutes": 94
+}

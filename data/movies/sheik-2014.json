@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sheik_2014",
+  "title": "The Sheik",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112259119",
+    "imdb": "tt3607812",
+    "tmdb": 261906
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 95
+}

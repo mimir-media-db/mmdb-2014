@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_starving_games_2014",
+  "title": "The Starving Games",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15117319",
+    "imdb": "tt2403029",
+    "tmdb": 225703
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-09",
+  "runtime_minutes": 83
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saldano_el_sueno_dorado_2014",
+  "title": "Saldaño, el sueño dorado",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48817062",
+    "imdb": "tt4483410",
+    "tmdb": 338793
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

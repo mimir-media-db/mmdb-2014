@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_solid_ground_2014",
+  "title": "Solid Ground",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65055312",
+    "imdb": "tt5183438",
+    "tmdb": 625565
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 75
+}

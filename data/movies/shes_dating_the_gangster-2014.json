@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shes_dating_the_gangster_2014",
+  "title": "She's Dating the Gangster",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17586640",
+    "imdb": "tt3772640",
+    "tmdb": 282761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-16",
+  "runtime_minutes": 150
+}

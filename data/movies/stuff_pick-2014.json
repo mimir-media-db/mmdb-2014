@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_stuff_pick_2014",
+  "title": "Stuff Pick",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117757825"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

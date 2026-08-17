@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_single_by_contract_2014",
+  "title": "Single by Contract",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20092714",
+    "imdb": "tt4499304",
+    "tmdb": 638995
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-04",
+  "runtime_minutes": 90
+}

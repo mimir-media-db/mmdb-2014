@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_star_wars_rebels_spark_of_rebellion_2014",
+  "title": "Star Wars Rebels: Spark of Rebellion",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123289786",
+    "imdb": "tt3816564",
+    "tmdb": 287663
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

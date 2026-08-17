@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_schogebete_2014",
+  "title": "Schoßgebete",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47117883",
+    "imdb": "tt2131628",
+    "tmdb": 293301
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-18",
+  "runtime_minutes": 89
+}

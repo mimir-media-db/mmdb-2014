@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sexy_shop_2014",
+  "title": "Sexy Shop",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20006266",
+    "imdb": "tt3688034",
+    "tmdb": 269138
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 94
+}

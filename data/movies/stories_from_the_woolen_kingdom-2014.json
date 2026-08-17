@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stories_from_the_woolen_kingdom_2014",
+  "title": "Stories From the Woolen Kingdom",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57627717",
+    "imdb": "tt5348322"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 22
+}

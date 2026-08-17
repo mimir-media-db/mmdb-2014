@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_simple_life_2014",
+  "title": "A Simple Life",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q167432",
+    "imdb": "tt2008006",
+    "tmdb": 91186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-24",
+  "runtime_minutes": 114
+}

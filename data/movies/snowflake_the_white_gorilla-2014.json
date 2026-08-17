@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snowflake_the_white_gorilla_2014",
+  "title": "Snowflake, the White Gorilla",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1764687",
+    "imdb": "tt1429433",
+    "tmdb": 85439
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-19",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_song_of_my_mother_2014",
+  "title": "Song of My Mother",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31191976",
+    "imdb": "tt3982854",
+    "tmdb": 308986
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

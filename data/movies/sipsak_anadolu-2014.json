@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sipsak_anadolu_2014",
+  "title": "Sipsak Anadolu",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25474259",
+    "imdb": "tt4706306",
+    "tmdb": 380335
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 92
+}

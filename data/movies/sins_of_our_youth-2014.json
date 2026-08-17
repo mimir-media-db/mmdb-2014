@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sins_of_our_youth_2014",
+  "title": "Sins of our Youth",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20800605",
+    "imdb": "tt3110982",
+    "tmdb": 428583
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 93
+}

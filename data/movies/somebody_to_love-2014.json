@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_somebody_to_love_2014",
+  "title": "Somebody to Love",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18786706",
+    "imdb": "tt3825662",
+    "tmdb": 297451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

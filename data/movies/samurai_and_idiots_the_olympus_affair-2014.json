@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_samurai_and_idiots_the_olympus_affair_2014",
+  "title": "Samurai and Idiots: The Olympus Affair",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56034490",
+    "imdb": "tt4079490",
+    "tmdb": 327715
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 76
+}

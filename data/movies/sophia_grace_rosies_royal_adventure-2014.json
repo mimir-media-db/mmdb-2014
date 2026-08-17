@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sophia_grace_rosies_royal_adventure_2014",
+  "title": "Sophia Grace & Rosie's Royal Adventure",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97960881",
+    "imdb": "tt3604950",
+    "tmdb": 268778
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

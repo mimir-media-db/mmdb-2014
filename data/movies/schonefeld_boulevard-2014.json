@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_schonefeld_boulevard_2014",
+  "title": "Schönefeld Boulevard",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42945729",
+    "imdb": "tt3892778",
+    "tmdb": 281673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-18",
+  "runtime_minutes": 102
+}

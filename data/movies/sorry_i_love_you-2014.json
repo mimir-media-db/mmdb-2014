@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sorry_i_love_you_2014",
+  "title": "Sorry, I Love You",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19961452",
+    "imdb": "tt3473390",
+    "tmdb": 335205
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-03"
+}

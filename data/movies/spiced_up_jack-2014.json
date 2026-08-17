@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spiced_up_jack_2014",
+  "title": "Spiced Up Jack",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23563857",
+    "imdb": "tt2448912",
+    "tmdb": 261364
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-12",
+  "runtime_minutes": 96
+}

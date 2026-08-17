@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snails_in_the_rain_2014",
+  "title": "Snails in the Rain",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18378805",
+    "imdb": "tt2924590",
+    "tmdb": 202570
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-13",
+  "runtime_minutes": 82
+}

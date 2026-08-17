@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sutrula_2014",
+  "title": "Sutrula",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18786719",
+    "imdb": "tt6821932",
+    "tmdb": 324005
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

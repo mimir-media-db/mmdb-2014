@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_samurai_of_the_dead_2014",
+  "title": "Samurai of the Dead",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20045021",
+    "imdb": "tt3913200",
+    "tmdb": 308186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-01",
+  "runtime_minutes": 72
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stoleti_miroslava_zikmunda_2014",
+  "title": "Století Miroslava Zikmunda",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20799427",
+    "imdb": "tt4240038",
+    "tmdb": 511132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-04",
+  "runtime_minutes": 97
+}

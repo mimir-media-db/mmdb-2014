@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sacree_croissance_2014",
+  "title": "Sacrée croissance!",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22000916",
+    "imdb": "tt10973948",
+    "tmdb": 635267
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

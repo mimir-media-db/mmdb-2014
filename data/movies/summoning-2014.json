@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_summoning_2014",
+  "title": "The Summoning",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97310818",
+    "imdb": "tt1880379",
+    "tmdb": 431948
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_saint_seiya_legend_of_sanctuary_2014",
+  "title": "Saint Seiya: Legend of Sanctuary",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7402171",
+    "imdb": "tt2231489",
+    "tmdb": 287590
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-21",
+  "runtime_minutes": 93
+}

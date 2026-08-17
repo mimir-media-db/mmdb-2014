@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_saul_the_journey_to_damascus_2014",
+  "title": "Saul: The Journey to Damascus",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23900104",
+    "imdb": "tt3112206",
+    "tmdb": 301872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-01",
+  "runtime_minutes": 86
+}

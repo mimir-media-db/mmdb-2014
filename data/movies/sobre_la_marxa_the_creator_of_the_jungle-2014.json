@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sobre_la_marxa_the_creator_of_the_jungle_2014",
+  "title": "Sobre la marxa: The Creator of the Jungle",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19716821",
+    "imdb": "tt3395594",
+    "tmdb": 250294
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 77
+}

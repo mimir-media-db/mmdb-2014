@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_samige_kathawa_2014",
+  "title": "Samige Kathawa",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29830606",
+    "imdb": "tt2355825",
+    "tmdb": 381195
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-28"
+}

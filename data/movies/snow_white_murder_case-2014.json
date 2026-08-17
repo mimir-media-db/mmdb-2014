@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_snow_white_murder_case_2014",
+  "title": "The Snow White Murder Case",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16765209",
+    "imdb": "tt3096712",
+    "tmdb": 253454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-29",
+  "runtime_minutes": 126
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_standard_le_film_2014",
+  "title": "Standard Le Film",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20004226",
+    "imdb": "tt4136720",
+    "tmdb": 412040
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

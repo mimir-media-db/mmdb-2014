@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_selfie_2014",
+  "title": "Selfie",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28726631",
+    "imdb": "tt3102208",
+    "tmdb": 317467
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-09",
+  "runtime_minutes": 123
+}

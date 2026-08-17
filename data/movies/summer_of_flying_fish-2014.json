@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_summer_of_flying_fish_2014",
+  "title": "The Summer of Flying Fish",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13370925",
+    "imdb": "tt2884186",
+    "tmdb": 191719
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-04",
+  "runtime_minutes": 87
+}

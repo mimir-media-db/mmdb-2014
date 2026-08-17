@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spiderman_xxx_2_an_axel_braun_parody_2014",
+  "title": "Spider-Man XXX 2: An Axel Braun Parody",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117865341",
+    "imdb": "tt3798010",
+    "tmdb": 270551
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-13",
+  "runtime_minutes": 89
+}

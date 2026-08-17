@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_special_need_2014",
+  "title": "The Special Need",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19963491",
+    "imdb": "tt2387601",
+    "tmdb": 215646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-11",
+  "runtime_minutes": 84
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sailors_song_2014",
+  "title": "Sailor's Song",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33572714",
+    "imdb": "tt3642332",
+    "tmdb": 403326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 17
+}

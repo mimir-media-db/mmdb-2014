@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sin_city_a_dame_to_kill_for_2014",
+  "title": "Sin City: A Dame to Kill For",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1653396",
+    "imdb": "tt0458481",
+    "tmdb": 189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-21",
+  "runtime_minutes": 102
+}

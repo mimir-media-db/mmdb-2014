@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sand_castles_2014",
+  "title": "Sand Castles",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18611435",
+    "imdb": "tt2233170",
+    "tmdb": 266425
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-21"
+}

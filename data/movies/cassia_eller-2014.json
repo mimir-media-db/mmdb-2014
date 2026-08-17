@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cassia_eller_2014",
+  "title": "Cássia Eller",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q85870878",
+    "imdb": "tt3096778",
+    "tmdb": 310534
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

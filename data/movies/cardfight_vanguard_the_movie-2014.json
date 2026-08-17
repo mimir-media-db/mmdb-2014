@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_cardfight_vanguard_the_movie_2014",
+  "title": "Cardfight!! Vanguard: The Movie",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55639409",
+    "imdb": "tt16310786",
+    "tmdb": 287098
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

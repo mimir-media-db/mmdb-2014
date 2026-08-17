@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cathedrals_of_culture_2014",
+  "title": "Cathedrals of Culture",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20756747",
+    "imdb": "tt2713778",
+    "tmdb": 255289
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 26
+}

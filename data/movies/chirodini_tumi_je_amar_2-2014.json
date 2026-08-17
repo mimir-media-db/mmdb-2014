@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chirodini_tumi_je_amar_2_2014",
+  "title": "Chirodini Tumi Je Amar 2",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16957851",
+    "imdb": "tt3579644",
+    "tmdb": 519274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-11"
+}

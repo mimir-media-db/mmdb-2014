@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_caleg_by_accident_2014",
+  "title": "Caleg By Accident",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19724638",
+    "tmdb": 1010247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 115
+}

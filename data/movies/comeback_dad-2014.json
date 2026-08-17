@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_comeback_dad_2014",
+  "title": "Comeback Dad",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q83809046",
+    "imdb": "tt3809972",
+    "tmdb": 340181
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

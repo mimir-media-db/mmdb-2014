@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_christmas_dragon_2014",
+  "title": "The Christmas Dragon",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21869235",
+    "imdb": "tt3918686",
+    "tmdb": 309770
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

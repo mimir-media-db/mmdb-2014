@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_corner_2014",
+  "title": "The Corner",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97357106",
+    "imdb": "tt12300346",
+    "tmdb": 1252900
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-07"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ciutat_morta_2014",
+  "title": "Ciutat morta",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17625326",
+    "imdb": "tt3638598",
+    "tmdb": 276860
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-24",
+  "runtime_minutes": 120
+}

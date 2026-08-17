@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_champagne_2014",
+  "title": "Champagne",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19864116",
+    "imdb": "tt15432236",
+    "tmdb": 1566819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cure_the_life_of_another_2014",
+  "title": "Cure - The Life of Another",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98554958",
+    "imdb": "tt1554929",
+    "tmdb": 282374
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-11",
+  "runtime_minutes": 83
+}

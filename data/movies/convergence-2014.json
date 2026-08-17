@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_convergence_2014",
+  "title": "Convergence",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27959515",
+    "imdb": "tt3148552",
+    "tmdb": 341050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-26"
+}

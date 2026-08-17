@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_celebrated_gisaeng_2014",
+  "title": "The Celebrated Gisaeng",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140405011",
+    "imdb": "tt8674092",
+    "tmdb": 314987
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-30"
+}

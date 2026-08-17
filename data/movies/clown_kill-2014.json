@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_clown_kill_2014",
+  "title": "Clown Kill",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28132678",
+    "imdb": "tt3443208",
+    "tmdb": 459982
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

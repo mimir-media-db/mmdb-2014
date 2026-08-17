@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chal_bhaag_2014",
+  "title": "Chal Bhaag",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21203434",
+    "imdb": "tt3542028",
+    "tmdb": 327905
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

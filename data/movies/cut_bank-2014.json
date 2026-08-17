@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cut_bank_2014",
+  "title": "Cut Bank",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16249654",
+    "imdb": "tt1661820",
+    "tmdb": 276902
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-16",
+  "runtime_minutes": 93
+}

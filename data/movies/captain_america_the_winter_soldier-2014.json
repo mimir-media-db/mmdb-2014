@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_captain_america_the_winter_soldier_2014",
+  "title": "Captain America: The Winter Soldier",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1765358",
+    "imdb": "tt1843866",
+    "tmdb": 100402
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-26",
+  "runtime_minutes": 136
+}

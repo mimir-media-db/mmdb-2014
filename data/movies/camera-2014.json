@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_camera_2014",
+  "title": "Camera",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25217937",
+    "imdb": "tt3853736",
+    "tmdb": 301851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-19"
+}

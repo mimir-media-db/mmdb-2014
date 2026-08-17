@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_closer_to_god_2014",
+  "title": "Closer to God",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672386",
+    "imdb": "tt3457486",
+    "tmdb": 266882
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-25",
+  "runtime_minutes": 81
+}

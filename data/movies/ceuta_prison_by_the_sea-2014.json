@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ceuta_prison_by_the_sea_2014",
+  "title": "Ceuta, Prison By The Sea",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116195096",
+    "imdb": "tt2747058",
+    "tmdb": 284412
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

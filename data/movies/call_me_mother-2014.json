@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_call_me_mother_2014",
+  "title": "Call Me Mother",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140278814",
+    "imdb": "tt4054578",
+    "tmdb": 1272340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-27",
+  "runtime_minutes": 106
+}

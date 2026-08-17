@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_common_denominator_2014",
+  "title": "Common Denominator",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123755212",
+    "imdb": "tt3098754",
+    "tmdb": 297419
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-11",
+  "runtime_minutes": 77
+}

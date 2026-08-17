@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_camp_belvidere_2014",
+  "title": "Camp Belvidere",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21028908",
+    "imdb": "tt3104062",
+    "tmdb": 325592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 38
+}

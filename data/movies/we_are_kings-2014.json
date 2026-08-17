@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_we_are_kings_2014",
+  "title": "We Are Kings",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18155689",
+    "imdb": "tt3529260",
+    "tmdb": 293155
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

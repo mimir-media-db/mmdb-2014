@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_why_horror_2014",
+  "title": "Why Horror?",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18611464",
+    "imdb": "tt3135424",
+    "tmdb": 291540
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 81
+}

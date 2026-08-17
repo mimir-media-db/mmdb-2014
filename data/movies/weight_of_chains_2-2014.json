@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_weight_of_chains_2_2014",
+  "title": "The Weight of Chains 2",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19363977",
+    "imdb": "tt4733046",
+    "tmdb": 408053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 124
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_walt_disney_and_italy_a_love_story_2014",
+  "title": "Walt Disney and Italy: A Love Story",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16622965",
+    "imdb": "tt3460944",
+    "tmdb": 254547
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 60
+}

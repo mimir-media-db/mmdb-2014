@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_when_i_was_alive_2014",
+  "title": "When I Was Alive",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15550924",
+    "imdb": "tt2463692",
+    "tmdb": 230714
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 108
+}

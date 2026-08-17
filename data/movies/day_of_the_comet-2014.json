@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_day_of_the_comet_2014",
+  "title": "Day of the Comet",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104147274",
+    "imdb": "tt3229778",
+    "tmdb": 386780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-28",
+  "runtime_minutes": 103
+}

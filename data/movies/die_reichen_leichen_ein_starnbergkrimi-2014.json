@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_reichen_leichen_ein_starnbergkrimi_2014",
+  "title": "Die reichen Leichen. Ein Starnbergkrimi",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28086686",
+    "imdb": "tt3820374",
+    "tmdb": 225842
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 89
+}

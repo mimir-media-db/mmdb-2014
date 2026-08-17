@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dhoom_3_2014",
+  "title": "Dhoom 3",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14948561",
+    "imdb": "tt1833673",
+    "tmdb": 44977
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-09",
+  "runtime_minutes": 172
+}

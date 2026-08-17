@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dead_snow_red_vs_dead_2014",
+  "title": "Dead Snow: Red vs. Dead",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15733825",
+    "imdb": "tt2832470",
+    "tmdb": 241842
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-19",
+  "runtime_minutes": 100
+}

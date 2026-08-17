@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_discoverers_2014",
+  "title": "The Discoverers",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19877386",
+    "imdb": "tt1715876",
+    "tmdb": 137960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

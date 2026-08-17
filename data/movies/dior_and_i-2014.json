@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dior_and_i_2014",
+  "title": "Dior and I",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20993872",
+    "imdb": "tt3539664",
+    "tmdb": 261860
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-17",
+  "runtime_minutes": 89
+}

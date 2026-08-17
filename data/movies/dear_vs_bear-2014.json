@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dear_vs_bear_2014",
+  "title": "Dear vs Bear",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649736",
+    "imdb": "tt10346016",
+    "tmdb": 694084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

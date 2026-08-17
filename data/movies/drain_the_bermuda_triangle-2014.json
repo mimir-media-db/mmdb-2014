@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_drain_the_bermuda_triangle_2014",
+  "title": "Drain the Bermuda Triangle",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101131260",
+    "imdb": "tt4266692",
+    "tmdb": 423431
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 50
+}

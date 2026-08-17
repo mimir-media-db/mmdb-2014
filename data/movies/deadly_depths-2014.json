@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deadly_depths_2014",
+  "title": "Deadly Depths",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23706321",
+    "imdb": "tt3920732",
+    "tmdb": 521253
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

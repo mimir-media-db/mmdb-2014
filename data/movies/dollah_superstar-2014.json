@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dollah_superstar_2014",
+  "title": "Dollah Superstar",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52170007",
+    "imdb": "tt8252792",
+    "tmdb": 298872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-02"
+}

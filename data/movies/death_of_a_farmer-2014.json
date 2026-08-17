@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_death_of_a_farmer_2014",
+  "title": "Death of a Farmer",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23210588",
+    "imdb": "tt2994642",
+    "tmdb": 396081
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

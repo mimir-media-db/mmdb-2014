@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_deadly_virtues_lovehonourobey_2014",
+  "title": "Deadly Virtues: Love.Honour.Obey.",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18350789",
+    "imdb": "tt2824852",
+    "tmdb": 258947
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-11",
+  "runtime_minutes": 87
+}

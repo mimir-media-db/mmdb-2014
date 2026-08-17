@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_des_gens_qui_sembrassent_2014",
+  "title": "Des gens qui s'embrassent",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3024113",
+    "imdb": "tt2295750",
+    "tmdb": 184020
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-03",
+  "runtime_minutes": 100
+}

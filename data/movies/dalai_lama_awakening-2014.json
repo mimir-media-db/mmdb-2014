@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dalai_lama_awakening_2014",
+  "title": "Dalai Lama Awakening",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23023101",
+    "imdb": "tt3325392",
+    "tmdb": 321828
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-02"
+}

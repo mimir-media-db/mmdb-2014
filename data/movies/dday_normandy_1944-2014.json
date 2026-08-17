@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dday_normandy_1944_2014",
+  "title": "D-Day: Normandy 1944",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19608818",
+    "imdb": "tt3635920",
+    "tmdb": 270457
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

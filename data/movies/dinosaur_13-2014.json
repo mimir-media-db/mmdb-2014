@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dinosaur_13_2014",
+  "title": "Dinosaur 13",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16249901",
+    "imdb": "tt3090252",
+    "tmdb": 249170
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-16",
+  "runtime_minutes": 95
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dumbbells_2014",
+  "title": "Dumbbells",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16250042",
+    "imdb": "tt1978428",
+    "tmdb": 233564
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-10",
+  "runtime_minutes": 100
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_don_peyote_2014",
+  "title": "Don Peyote",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19868144",
+    "imdb": "tt1828968",
+    "tmdb": 249169
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-09",
+  "runtime_minutes": 98
+}

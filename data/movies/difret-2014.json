@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_difret_2014",
+  "title": "Difret",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16991774",
+    "imdb": "tt2611390",
+    "tmdb": 245855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-18",
+  "runtime_minutes": 99
+}

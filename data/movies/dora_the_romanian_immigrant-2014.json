@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dora_the_romanian_immigrant_2014",
+  "title": "D'ORA: The Romanian Immigrant",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44862636",
+    "imdb": "tt1877624",
+    "tmdb": 325713
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

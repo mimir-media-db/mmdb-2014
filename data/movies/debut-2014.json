@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_debut_2014",
+  "title": "Debut",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33529794",
+    "imdb": "tt4373686",
+    "tmdb": 704522
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 22
+}

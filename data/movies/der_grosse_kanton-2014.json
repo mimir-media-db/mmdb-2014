@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_der_grosse_kanton_2014",
+  "title": "Der grosse Kanton",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15805266",
+    "imdb": "tt2889820",
+    "tmdb": 282550
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-17",
+  "runtime_minutes": 85
+}

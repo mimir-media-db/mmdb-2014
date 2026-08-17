@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_draft_day_2014",
+  "title": "Draft Day",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15985322",
+    "imdb": "tt2223990",
+    "tmdb": 200505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-11",
+  "runtime_minutes": 109
+}

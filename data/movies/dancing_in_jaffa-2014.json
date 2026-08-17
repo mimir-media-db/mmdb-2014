@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dancing_in_jaffa_2014",
+  "title": "Dancing in Jaffa",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16545925",
+    "imdb": "tt2125480",
+    "tmdb": 174368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-16",
+  "runtime_minutes": 90
+}

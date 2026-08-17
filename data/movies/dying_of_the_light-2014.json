@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dying_of_the_light_2014",
+  "title": "Dying of the Light",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16679516",
+    "imdb": "tt1274586",
+    "tmdb": 297596
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-05",
+  "runtime_minutes": 94
+}

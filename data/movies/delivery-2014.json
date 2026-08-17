@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_delivery_2014",
+  "title": "Delivery",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50414281",
+    "imdb": "tt2949984",
+    "tmdb": 294302
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_danceoff_2014",
+  "title": "Dance-Off",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48839512",
+    "imdb": "tt3024964",
+    "tmdb": 296370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 95
+}

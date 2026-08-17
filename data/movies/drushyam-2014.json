@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_drushyam_2014",
+  "title": "Drushyam",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16248158",
+    "imdb": "tt3810932",
+    "tmdb": 279450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-11",
+  "runtime_minutes": 150
+}

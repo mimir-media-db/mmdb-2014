@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_3_scream_queens_2014",
+  "title": "3 Scream Queens",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86667788",
+    "imdb": "tt3743206",
+    "tmdb": 287318
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

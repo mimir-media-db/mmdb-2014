@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_3e_page_apres_le_soleil_2014",
+  "title": "3e page après le soleil",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q59619224",
+    "imdb": "tt3995728",
+    "tmdb": 300134
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 6
+}

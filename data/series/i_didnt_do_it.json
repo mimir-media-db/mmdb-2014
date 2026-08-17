@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_didnt_do_it",
+  "title": "I Didn't Do It",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q13564523",
+    "imdb": "tt2996052",
+    "tmdb": 54327
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 39
+}

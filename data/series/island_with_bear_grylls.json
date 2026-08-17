@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_island_with_bear_grylls",
+  "title": "The Island with Bear Grylls",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17060809",
+    "imdb": "tt3725394",
+    "tmdb": 62177
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4
+}

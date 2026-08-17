@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_is_there_a_vet_in_the_house",
+  "title": "Is There a Vet in the House?",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17212449",
+    "imdb": "tt3727848",
+    "tmdb": 104790
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

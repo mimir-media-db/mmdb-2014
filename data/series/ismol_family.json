@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ismol_family",
+  "title": "Ismol Family",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q18352331",
+    "imdb": "tt4208842"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 125
+}

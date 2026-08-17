@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_i_wrecked_my_house",
+  "title": "I Wrecked My House",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20710490",
+    "imdb": "tt3644816",
+    "tmdb": 282210
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 15
+}

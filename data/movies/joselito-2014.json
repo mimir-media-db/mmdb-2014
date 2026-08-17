@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joselito_2014",
+  "title": "Joselito",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20000986",
+    "imdb": "tt3822882",
+    "tmdb": 572009
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 64
+}

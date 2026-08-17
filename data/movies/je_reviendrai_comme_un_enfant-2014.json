@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_je_reviendrai_comme_un_enfant_2014",
+  "title": "Je reviendrai comme un enfant",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q86667902",
+    "imdb": "tt3558212",
+    "tmdb": 309845
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 92
+}

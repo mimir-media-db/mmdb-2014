@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joy_of_mans_desiring_2014",
+  "title": "Joy of Man's Desiring",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50225615",
+    "imdb": "tt3478868",
+    "tmdb": 254358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 69
+}

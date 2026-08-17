@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jilmil_jonak_2014",
+  "title": "Jilmil Jonak",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15943540",
+    "imdb": "tt8690202",
+    "tmdb": 551878
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-30"
+}

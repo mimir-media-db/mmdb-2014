@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jimmys_hall_2014",
+  "title": "Jimmy's Hall",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16028587",
+    "imdb": "tt3110960",
+    "tmdb": 262958
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-02",
+  "runtime_minutes": 109
+}

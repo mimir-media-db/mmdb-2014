@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_joy_2014",
+  "title": "Joy",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20165064",
+    "imdb": "tt4449502"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

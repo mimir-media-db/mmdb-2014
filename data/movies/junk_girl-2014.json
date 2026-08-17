@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_junk_girl_2014",
+  "title": "Junk Girl",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20987854",
+    "imdb": "tt4105504"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

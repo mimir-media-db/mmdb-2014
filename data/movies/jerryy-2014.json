@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jerryy_2014",
+  "title": "Jerryy",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20800517",
+    "imdb": "tt4620528",
+    "tmdb": 416802
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

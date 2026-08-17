@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jesus_liebt_mich_2014",
+  "title": "Jesus liebt mich",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1665634",
+    "imdb": "tt1920976",
+    "tmdb": 150056
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-14",
+  "runtime_minutes": 100
+}

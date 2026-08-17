@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_journeys_of_apollo_2014",
+  "title": "The Journeys of Apollo",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124477353",
+    "imdb": "tt7455908"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

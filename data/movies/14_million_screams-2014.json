@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_14_million_screams_2014",
+  "title": "14 Million Screams",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16509895",
+    "imdb": "tt4126122",
+    "tmdb": 470729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 5
+}

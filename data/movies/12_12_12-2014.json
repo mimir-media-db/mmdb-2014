@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_12_12_12_2014",
+  "title": "12 12 12",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3597306",
+    "imdb": "tt2353755",
+    "tmdb": 336066
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 100
+}

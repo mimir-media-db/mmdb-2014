@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_new_leaf",
+  "title": "A New Leaf",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15982594",
+    "imdb": "tt3715110",
+    "tmdb": 63101
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

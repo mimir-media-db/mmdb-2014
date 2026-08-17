@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_czar_of_black_hollywood_2014",
+  "title": "The Czar of Black Hollywood",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18148313",
+    "imdb": "tt3501904",
+    "tmdb": 640978
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

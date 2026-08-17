@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_california_scheming_2014",
+  "title": "California Scheming",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703019",
+    "imdb": "tt1918908",
+    "tmdb": 229314
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 99
+}

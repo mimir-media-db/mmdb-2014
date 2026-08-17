@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chauranga_2014",
+  "title": "Chauranga",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5088357",
+    "imdb": "tt3777164",
+    "tmdb": 339325
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

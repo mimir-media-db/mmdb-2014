@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_camus_sartre_une_amitie_dechiree_2014",
+  "title": "Camus, Sartre : une amitié déchirée",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17175531",
+    "imdb": "tt5760130",
+    "tmdb": 768601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

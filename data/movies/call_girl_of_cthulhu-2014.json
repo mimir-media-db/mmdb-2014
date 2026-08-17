@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_call_girl_of_cthulhu_2014",
+  "title": "Call Girl of Cthulhu",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18169951",
+    "imdb": "tt2689354",
+    "tmdb": 285598
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

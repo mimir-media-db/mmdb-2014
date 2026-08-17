@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_colt_45_2014",
+  "title": "Colt 45",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12143588",
+    "imdb": "tt2113636",
+    "tmdb": 285387
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 85
+}

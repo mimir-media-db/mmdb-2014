@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_copa_de_elite_2014",
+  "title": "Copa de Elite",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15858284",
+    "imdb": "tt3666526",
+    "tmdb": 243451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

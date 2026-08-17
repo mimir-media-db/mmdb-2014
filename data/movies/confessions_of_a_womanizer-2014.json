@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_confessions_of_a_womanizer_2014",
+  "title": "Confessions of a Womanizer",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19363571",
+    "imdb": "tt2368908",
+    "tmdb": 257130
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

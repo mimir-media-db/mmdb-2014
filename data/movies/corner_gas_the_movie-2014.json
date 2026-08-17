@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_corner_gas_the_movie_2014",
+  "title": "Corner Gas: The Movie",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18611363",
+    "imdb": "tt3788052",
+    "tmdb": 298533
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

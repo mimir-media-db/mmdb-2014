@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_creed_of_gold_2014",
+  "title": "Creed of Gold",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17511872",
+    "imdb": "tt1980942",
+    "tmdb": 316390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

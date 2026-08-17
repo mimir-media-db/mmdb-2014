@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cesars_last_fast_2014",
+  "title": "Cesar's Last Fast",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16249179",
+    "imdb": "tt3460082",
+    "tmdb": 250652
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 100
+}

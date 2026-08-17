@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chb_2014",
+  "title": "Ch/B",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16716103",
+    "imdb": "tt4312536",
+    "tmdb": 335819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 92
+}

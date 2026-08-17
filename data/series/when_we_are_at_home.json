@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_when_we_are_at_home",
+  "title": "When We Are at Home",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20077850",
+    "imdb": "tt4791164"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5
+}

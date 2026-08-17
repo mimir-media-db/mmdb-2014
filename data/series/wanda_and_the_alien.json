@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wanda_and_the_alien",
+  "title": "Wanda and the Alien",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q124613629",
+    "imdb": "tt4543878",
+    "tmdb": 247316
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 52
+}

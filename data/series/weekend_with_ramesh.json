@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_weekend_with_ramesh",
+  "title": "Weekend with Ramesh",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18394760",
+    "imdb": "tt5636354",
+    "tmdb": 91021
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 60
+}

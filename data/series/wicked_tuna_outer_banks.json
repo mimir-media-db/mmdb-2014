@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_wicked_tuna_outer_banks",
+  "title": "Wicked Tuna: Outer Banks",
+  "start_year": 2014,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q26966314",
+    "imdb": "tt4248510",
+    "tmdb": 64054
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cosita_linda",
+  "title": "Cosita Linda",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q14780332",
+    "imdb": "tt3452952",
+    "tmdb": 55029
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 146
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cunning_single_lady",
+  "title": "Cunning Single Lady",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15453341",
+    "imdb": "tt3566838",
+    "tmdb": 61150
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

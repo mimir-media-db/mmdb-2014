@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cronica_de_castas",
+  "title": "Crónica de castas",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17628192",
+    "imdb": "tt2958722",
+    "tmdb": 304145
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

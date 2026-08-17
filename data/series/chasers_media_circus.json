@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_chasers_media_circus",
+  "title": "The Chaser's Media Circus",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18712157",
+    "imdb": "tt4094910",
+    "tmdb": 204549
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

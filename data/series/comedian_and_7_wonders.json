@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_comedian_and_7_wonders",
+  "title": "Comedian and 7 Wonders",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q21043756",
+    "imdb": "tt4068932",
+    "tmdb": 77373
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

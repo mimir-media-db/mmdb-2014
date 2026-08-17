@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_cycle_around_japan",
+  "title": "Cycle Around Japan",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q118353183",
+    "tmdb": 103374
+  },
+  "last_updated": "2026-08-17"
+}

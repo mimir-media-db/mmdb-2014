@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_old_boys_the_way_of_the_dragon_2014",
+  "title": "Old Boys: The Way of the Dragon",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17340966",
+    "imdb": "tt3872008",
+    "tmdb": 289449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

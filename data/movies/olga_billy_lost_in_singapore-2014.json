@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_olga_billy_lost_in_singapore_2014",
+  "title": "Olga & Billy Lost in Singapore",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19729884",
+    "imdb": "tt9015740",
+    "tmdb": 537981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

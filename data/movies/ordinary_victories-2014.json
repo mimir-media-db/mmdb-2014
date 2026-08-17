@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ordinary_victories_2014",
+  "title": "Ordinary Victories",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17632515",
+    "imdb": "tt3982760",
+    "tmdb": 348193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 101
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_otoko_no_issho_2014",
+  "title": "Otoko no Isshō",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11447680",
+    "imdb": "tt3814950",
+    "tmdb": 338400
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

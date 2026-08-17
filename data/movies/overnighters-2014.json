@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_overnighters_2014",
+  "title": "The Overnighters",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17073603",
+    "imdb": "tt3263996",
+    "tmdb": 250666
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

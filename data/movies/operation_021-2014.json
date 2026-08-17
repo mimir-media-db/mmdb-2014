@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_operation_021_2014",
+  "title": "Operation 021",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17069192",
+    "imdb": "tt3395608",
+    "tmdb": 308274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

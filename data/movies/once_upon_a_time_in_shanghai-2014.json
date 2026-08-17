@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_a_time_in_shanghai_2014",
+  "title": "Once Upon a Time in Shanghai",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16914780",
+    "imdb": "tt2290567",
+    "tmdb": 248376
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 96
+}

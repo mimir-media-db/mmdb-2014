@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_o_ultimo_cine_drivein_2014",
+  "title": "O Último Cine Drive-in",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18479117",
+    "imdb": "tt3445484",
+    "tmdb": 314563
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 100
+}

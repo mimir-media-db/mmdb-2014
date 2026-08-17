@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_vdova",
+  "title": "Vdova",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15138262",
+    "imdb": "tt4885384",
+    "tmdb": 88317
+  },
+  "last_updated": "2026-08-17"
+}

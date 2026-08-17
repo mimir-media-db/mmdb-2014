@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_v_republic",
+  "title": "V Republic",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q85812622",
+    "imdb": "tt8592910",
+    "tmdb": 238979
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 26
+}

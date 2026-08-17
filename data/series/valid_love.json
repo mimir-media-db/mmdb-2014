@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_valid_love",
+  "title": "Valid Love",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18118498",
+    "imdb": "tt4275548",
+    "tmdb": 61655
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

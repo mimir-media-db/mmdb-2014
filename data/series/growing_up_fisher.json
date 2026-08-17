@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_growing_up_fisher",
+  "title": "Growing Up Fisher",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15131236",
+    "imdb": "tt2698984",
+    "tmdb": 58838
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

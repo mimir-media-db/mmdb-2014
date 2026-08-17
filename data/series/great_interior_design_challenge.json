@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_great_interior_design_challenge",
+  "title": "The Great Interior Design Challenge",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16993261",
+    "imdb": "tt4695902",
+    "tmdb": 79217
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 43
+}

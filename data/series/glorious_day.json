@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_glorious_day",
+  "title": "Glorious Day",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15962468",
+    "imdb": "tt5145650",
+    "tmdb": 77704
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 44
+}

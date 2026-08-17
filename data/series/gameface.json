@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gameface",
+  "title": "GameFace",
+  "start_year": 2014,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q42531133",
+    "imdb": "tt6620620",
+    "tmdb": 88471
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

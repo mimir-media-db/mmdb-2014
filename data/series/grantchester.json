@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_grantchester",
+  "title": "Grantchester",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18345914",
+    "imdb": "tt3747572",
+    "tmdb": 61457
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 11,
+  "total_episodes": 75
+}

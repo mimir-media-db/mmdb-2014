@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_grade_one",
+  "title": "Grade One",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18228444",
+    "imdb": "tt4514178"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 11
+}

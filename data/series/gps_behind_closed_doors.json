@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_gps_behind_closed_doors",
+  "title": "GPs: Behind Closed Doors",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q107022144",
+    "imdb": "tt3713810",
+    "tmdb": 85867
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8
+}

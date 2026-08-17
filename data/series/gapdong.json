@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_gapdong",
+  "title": "Gap-dong",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15933234",
+    "imdb": "tt3633394",
+    "tmdb": 60748
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

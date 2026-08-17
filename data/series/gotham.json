@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gotham",
+  "title": "Gotham",
+  "start_year": 2014,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q15726959",
+    "imdb": "tt3749900",
+    "tmdb": 60708
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 100
+}

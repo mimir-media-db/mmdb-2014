@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_road_to_whakarae_2014",
+  "title": "the road to Whakarae",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q72882180",
+    "imdb": "tt3826394"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 3
+}

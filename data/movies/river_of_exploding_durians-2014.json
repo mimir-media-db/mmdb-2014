@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_river_of_exploding_durians_2014",
+  "title": "River of Exploding Durians",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20925603",
+    "imdb": "tt4006746",
+    "tmdb": 314615
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 128
+}

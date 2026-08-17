@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_rakesh_bariha_2014",
+  "title": "Rakesh Bariha",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18127183",
+    "imdb": "tt4183862"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-29"
+}

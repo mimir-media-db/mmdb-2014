@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rover_2014",
+  "title": "The Rover",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5042347",
+    "imdb": "tt2345737",
+    "tmdb": 157845
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-18",
+  "runtime_minutes": 103
+}

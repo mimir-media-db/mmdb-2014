@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_reason_to_fight_2014",
+  "title": "A Reason to Fight",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20005816",
+    "imdb": "tt2551842",
+    "tmdb": 420896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 85
+}

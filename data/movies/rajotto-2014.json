@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rajotto_2014",
+  "title": "Rajotto",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16253469",
+    "imdb": "tt3179004",
+    "tmdb": 1033475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-07"
+}

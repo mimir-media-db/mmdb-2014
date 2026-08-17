@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_raskortet_2014",
+  "title": "Raskortet",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31886918",
+    "imdb": "tt3972854",
+    "tmdb": 324627
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-04",
+  "runtime_minutes": 60
+}

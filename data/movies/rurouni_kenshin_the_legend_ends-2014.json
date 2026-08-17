@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rurouni_kenshin_the_legend_ends_2014",
+  "title": "Rurouni Kenshin: The Legend Ends",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15284388",
+    "imdb": "tt3029556",
+    "tmdb": 221732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-13",
+  "runtime_minutes": 136
+}

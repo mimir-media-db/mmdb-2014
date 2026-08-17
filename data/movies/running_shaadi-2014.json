@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_running_shaadi_2014",
+  "title": "Running Shaadi",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17080263",
+    "imdb": "tt6296236",
+    "tmdb": 442247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-18"
+}

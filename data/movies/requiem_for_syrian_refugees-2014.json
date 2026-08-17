@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_requiem_for_syrian_refugees_2014",
+  "title": "A Requiem for Syrian Refugees",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130235388",
+    "imdb": "tt4065394",
+    "tmdb": 297601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-17",
+  "runtime_minutes": 101
+}

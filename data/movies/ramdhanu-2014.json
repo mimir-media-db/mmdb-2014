@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ramdhanu_2014",
+  "title": "Ramdhanu",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170317",
+    "imdb": "tt3811914",
+    "tmdb": 320660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-06",
+  "runtime_minutes": 135
+}

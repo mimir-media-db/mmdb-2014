@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_riyasat_2014",
+  "title": "Riyasat",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170341",
+    "imdb": "tt2283894",
+    "tmdb": 495599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-18"
+}

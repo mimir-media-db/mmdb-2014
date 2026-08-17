@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ranja_2014",
+  "title": "Ranja",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672423",
+    "imdb": "tt6943870",
+    "tmdb": 1608916
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-28"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rebel_2014",
+  "title": "Rebel",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55631288",
+    "imdb": "tt4362656",
+    "tmdb": 388696
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

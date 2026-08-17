@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rose_colors_buko_2014",
+  "title": "Rose Color's Buko",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22126989",
+    "imdb": "tt3718018",
+    "tmdb": 435004
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

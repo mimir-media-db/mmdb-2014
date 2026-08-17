@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rowdy_2014",
+  "title": "Rowdy",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16253712",
+    "imdb": "tt3657434",
+    "tmdb": 262487
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-04"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_p_se_pm_tak_2014",
+  "title": "P Se PM Tak",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252686",
+    "imdb": "tt3255586",
+    "tmdb": 351182
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_party_girl_2014",
+  "title": "Party Girl",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16736815",
+    "imdb": "tt3660370",
+    "tmdb": 266030
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 96
+}

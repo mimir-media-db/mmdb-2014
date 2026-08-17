@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pandavulu_pandavulu_tummeda_2014",
+  "title": "Pandavulu Pandavulu Tummeda",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15694547",
+    "imdb": "tt3353850",
+    "tmdb": 253047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

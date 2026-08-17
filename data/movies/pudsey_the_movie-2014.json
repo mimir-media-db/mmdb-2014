@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pudsey_the_movie_2014",
+  "title": "Pudsey: The Movie",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17112826",
+    "imdb": "tt3171246",
+    "tmdb": 283237
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 97
+}

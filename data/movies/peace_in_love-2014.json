@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_peace_in_love_2014",
+  "title": "Peace in Love",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17370560",
+    "imdb": "tt7870252",
+    "tmdb": 1719913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

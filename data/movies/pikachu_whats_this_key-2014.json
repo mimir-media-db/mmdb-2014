@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pikachu_whats_this_key_2014",
+  "title": "Pikachu, What's This Key?",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18338966",
+    "imdb": "tt4422136",
+    "tmdb": 332485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pak_van_mijn_hart_2014",
+  "title": "Pak van mijn hart",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18434554",
+    "imdb": "tt3800028",
+    "tmdb": 293974
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 86
+}

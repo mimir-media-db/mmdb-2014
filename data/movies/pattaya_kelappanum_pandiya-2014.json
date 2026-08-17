@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pattaya_kelappanum_pandiya_2014",
+  "title": "Pattaya Kelappanum Pandiya",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252897",
+    "imdb": "tt8076978",
+    "tmdb": 280944
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

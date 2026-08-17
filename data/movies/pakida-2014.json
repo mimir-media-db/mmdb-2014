@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pakida_2014",
+  "title": "Pakida",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252758",
+    "imdb": "tt3567368",
+    "tmdb": 256828
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

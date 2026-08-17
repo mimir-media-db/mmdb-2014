@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_after_school_horror_2014",
+  "title": "After School Horror",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17997771",
+    "imdb": "tt11738424",
+    "tmdb": 388475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

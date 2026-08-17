@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_akhire_akhire_2014",
+  "title": "Akhire Akhire",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16826520",
+    "imdb": "tt3444514",
+    "tmdb": 496007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

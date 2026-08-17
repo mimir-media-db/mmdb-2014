@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_azhagiya_pandipuram_2014",
+  "title": "Azhagiya Pandipuram",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16983427",
+    "imdb": "tt4535782",
+    "tmdb": 324007
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

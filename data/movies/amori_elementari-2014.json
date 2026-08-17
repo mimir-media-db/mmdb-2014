@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amori_elementari_2014",
+  "title": "Amori elementari",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16488007",
+    "imdb": "tt3462828",
+    "tmdb": 256449
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 94
+}

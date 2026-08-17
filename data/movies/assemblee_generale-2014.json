@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_assemblee_generale_2014",
+  "title": "Assemblée générale",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17494219",
+    "imdb": "tt3450114",
+    "tmdb": 478694
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

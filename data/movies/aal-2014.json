@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aal_2014",
+  "title": "Aal",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16057854",
+    "imdb": "tt3646288",
+    "tmdb": 272519
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

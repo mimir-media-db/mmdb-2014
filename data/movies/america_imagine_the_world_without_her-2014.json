@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_america_imagine_the_world_without_her_2014",
+  "title": "America: Imagine the World Without Her",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17511620",
+    "imdb": "tt2785390",
+    "tmdb": 276918
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 107
+}

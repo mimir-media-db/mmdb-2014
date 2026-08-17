@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_andin_armenian_journey_chronicles_2014",
+  "title": "Andin. Armenian Journey Chronicles",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18396499",
+    "imdb": "tt4060466",
+    "tmdb": 558798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

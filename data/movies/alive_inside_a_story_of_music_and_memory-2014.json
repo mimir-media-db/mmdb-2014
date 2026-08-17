@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_alive_inside_a_story_of_music_and_memory_2014",
+  "title": "Alive Inside: A Story of Music and Memory",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16960995",
+    "imdb": "tt2593392",
+    "tmdb": 250643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 78
+}

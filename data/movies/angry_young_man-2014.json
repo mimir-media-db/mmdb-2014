@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_angry_young_man_2014",
+  "title": "Angry Young Man",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16246674",
+    "imdb": "tt3617048"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

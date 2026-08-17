@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_execution_2014",
+  "title": "The Execution",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17128136",
+    "imdb": "tt3672624",
+    "tmdb": 488515
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-23"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_elvira_i_will_give_you_my_life_but_im_using_it_2014",
+  "title": "Elvira I Will Give You My Life But I'm Using It",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19961277",
+    "imdb": "tt3576842",
+    "tmdb": 267797
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-22",
+  "runtime_minutes": 108
+}

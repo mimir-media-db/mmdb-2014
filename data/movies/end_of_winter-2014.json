@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_end_of_winter_2014",
+  "title": "End of Winter",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23999996",
+    "imdb": "tt4108740",
+    "tmdb": 297740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 102
+}

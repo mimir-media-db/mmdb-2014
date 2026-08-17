@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_cielo_otra_vez_2014",
+  "title": "El cielo otra vez",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q130341244",
+    "imdb": "tt3755872",
+    "tmdb": 1091829
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 66
+}

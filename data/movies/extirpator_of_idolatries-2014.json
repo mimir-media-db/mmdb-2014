@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_extirpator_of_idolatries_2014",
+  "title": "Extirpator of Idolatries",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25819555",
+    "imdb": "tt3010990",
+    "tmdb": 495587
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 86
+}

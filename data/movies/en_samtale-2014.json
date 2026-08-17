@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_en_samtale_2014",
+  "title": "En samtale",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33532512",
+    "imdb": "tt4066328",
+    "tmdb": 704934
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 19
+}

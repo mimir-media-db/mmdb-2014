@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ek_hazarachi_note_2014",
+  "title": "Ek Hazarachi Note",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17054690",
+    "imdb": "tt2937158",
+    "tmdb": 318654
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-09",
+  "runtime_minutes": 89
+}

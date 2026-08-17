@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_echoes_2014",
+  "title": "Echoes",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21527630",
+    "imdb": "tt3033948",
+    "tmdb": 328763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-05",
+  "runtime_minutes": 93
+}

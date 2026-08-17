@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_emergency_call_a_murder_mystery_2014",
+  "title": "Emergency Call: A Murder Mystery",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5403098",
+    "imdb": "tt2712884",
+    "tmdb": 293489
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-03"
+}

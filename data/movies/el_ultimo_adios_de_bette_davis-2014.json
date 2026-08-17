@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_ultimo_adios_de_bette_davis_2014",
+  "title": "El último adiós de Bette Davis",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98314223",
+    "imdb": "tt4040892",
+    "tmdb": 291894
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-22",
+  "runtime_minutes": 76
+}

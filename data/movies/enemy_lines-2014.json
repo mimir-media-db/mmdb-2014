@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_enemy_lines_2014",
+  "title": "Enemy Lines",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16919039",
+    "imdb": "tt3575362",
+    "tmdb": 732882
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-15"
+}

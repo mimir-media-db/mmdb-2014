@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_east_jerusalemwest_jerusalem_2014",
+  "title": "East Jerusalem/West Jerusalem",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50408880",
+    "imdb": "tt3604958",
+    "tmdb": 417535
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_exodus_gods_and_kings_2014",
+  "title": "Exodus: Gods and Kings",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14942871",
+    "imdb": "tt1528100",
+    "tmdb": 147441
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-03",
+  "runtime_minutes": 150
+}

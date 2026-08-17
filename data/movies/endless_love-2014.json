@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_endless_love_2014",
+  "title": "Endless Love",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q109155536",
+    "imdb": "tt2318092",
+    "tmdb": 226857
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

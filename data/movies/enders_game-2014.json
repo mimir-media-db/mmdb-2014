@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_enders_game_2014",
+  "title": "Ender's Game",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1758112",
+    "imdb": "tt1731141",
+    "tmdb": 80274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-07",
+  "runtime_minutes": 114
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_everything_that_rises_must_converge_2014",
+  "title": "Everything That Rises Must Converge",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106719231",
+    "imdb": "tt3538544",
+    "tmdb": 322478
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

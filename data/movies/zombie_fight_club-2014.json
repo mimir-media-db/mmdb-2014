@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zombie_fight_club_2014",
+  "title": "Zombie Fight Club",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22098805",
+    "imdb": "tt3560742",
+    "tmdb": 289732
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

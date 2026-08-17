@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zwei_mitten_im_leben_2014",
+  "title": "Zwei mitten im Leben",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46387847",
+    "imdb": "tt3512000",
+    "tmdb": 254165
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

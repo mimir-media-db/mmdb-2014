@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_z_zed_2014",
+  "title": "Z ~Zed~",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22131537",
+    "imdb": "tt3661698",
+    "tmdb": 297120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

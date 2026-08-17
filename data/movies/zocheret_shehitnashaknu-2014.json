@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_zocheret_shehitnashaknu_2014",
+  "title": "Zocheret Shehitnashaknu",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q49959365",
+    "imdb": "tt4674784"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

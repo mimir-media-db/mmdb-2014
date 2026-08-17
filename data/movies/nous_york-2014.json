@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nous_york_2014",
+  "title": "Nous York",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3344957",
+    "imdb": "tt2094898",
+    "tmdb": 141581
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-27",
+  "runtime_minutes": 98
+}

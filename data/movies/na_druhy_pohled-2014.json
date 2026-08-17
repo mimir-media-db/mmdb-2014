@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_na_druhy_pohled_2014",
+  "title": "Na druhý pohled",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10855352",
+    "imdb": "tt3588810",
+    "tmdb": 446075
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-09",
+  "runtime_minutes": 70
+}

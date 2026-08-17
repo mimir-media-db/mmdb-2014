@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_land_no_food_no_life_2014",
+  "title": "No Land No Food No Life",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116196379",
+    "imdb": "tt3244744",
+    "tmdb": 322226
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 75
+}

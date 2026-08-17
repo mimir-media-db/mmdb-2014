@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ninaithathu_yaaro_2014",
+  "title": "Ninaithathu Yaaro",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252411",
+    "imdb": "tt3569828",
+    "tmdb": 259041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-30"
+}

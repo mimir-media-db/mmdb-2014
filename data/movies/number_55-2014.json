@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_number_55_2014",
+  "title": "Number 55",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20049233",
+    "imdb": "tt2993698",
+    "tmdb": 301932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

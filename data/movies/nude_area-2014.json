@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nude_area_2014",
+  "title": "Nude Area",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21694716",
+    "imdb": "tt2352044",
+    "tmdb": 182981
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 80
+}

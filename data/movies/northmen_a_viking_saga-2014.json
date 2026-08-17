@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_northmen_a_viking_saga_2014",
+  "title": "Northmen: A Viking Saga",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17142919",
+    "imdb": "tt2290553",
+    "tmdb": 286873
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-09",
+  "runtime_minutes": 97
+}

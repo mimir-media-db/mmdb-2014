@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_night_has_settled_2014",
+  "title": "Night Has Settled",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q42096156",
+    "imdb": "tt2141941",
+    "tmdb": 314885
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_need_for_speed_2014",
+  "title": "Need for Speed",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13374569",
+    "imdb": "tt2369135",
+    "tmdb": 136797
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-12",
+  "runtime_minutes": 130
+}

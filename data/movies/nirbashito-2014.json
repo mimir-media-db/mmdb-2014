@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nirbashito_2014",
+  "title": "Nirbashito",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21869679",
+    "imdb": "tt4378690",
+    "tmdb": 386756
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-01"
+}

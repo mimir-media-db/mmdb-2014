@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ninja_war_of_torakage_2014",
+  "title": "The Ninja War of Torakage",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20041714",
+    "imdb": "tt3685756",
+    "tmdb": 338124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-22",
+  "runtime_minutes": 94
+}

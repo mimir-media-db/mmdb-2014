@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_norway_2014",
+  "title": "Norway",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121000316",
+    "imdb": "tt3779814",
+    "tmdb": 285554
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-07",
+  "runtime_minutes": 73
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nozoki_ana_2014",
+  "title": "Nozoki Ana",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107080227",
+    "imdb": "tt3620346",
+    "tmdb": 279281
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-28"
+}

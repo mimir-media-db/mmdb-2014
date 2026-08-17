@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nymphomaniac_volume_i_2014",
+  "title": "Nymphomaniac: Volume I",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21468403",
+    "imdb": "tt1937390",
+    "tmdb": 258216
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-16",
+  "runtime_minutes": 117
+}

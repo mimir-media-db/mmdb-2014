@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_novembre_84_2014",
+  "title": "Novembre 84",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20004177",
+    "imdb": "tt3186298",
+    "tmdb": 963237
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 123
+}

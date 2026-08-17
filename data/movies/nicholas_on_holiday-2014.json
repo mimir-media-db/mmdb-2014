@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nicholas_on_holiday_2014",
+  "title": "Nicholas on Holiday",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16655418",
+    "imdb": "tt3019796",
+    "tmdb": 277368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-09",
+  "runtime_minutes": 97
+}

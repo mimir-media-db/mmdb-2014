@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_youre_the_worst",
+  "title": "You're the Worst",
+  "start_year": 2014,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q18157123",
+    "imdb": "tt3228420",
+    "tmdb": 61118
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 62
+}

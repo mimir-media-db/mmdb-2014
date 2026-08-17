@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_triangle",
+  "title": "Triangle",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15981174",
+    "imdb": "tt3633462",
+    "tmdb": 61047
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 26
+}

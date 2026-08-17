@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_true_tori",
+  "title": "True Tori",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17014515",
+    "imdb": "tt3679166",
+    "tmdb": 63062
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

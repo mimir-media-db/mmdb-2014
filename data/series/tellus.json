@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_tellus",
+  "title": "Tellus",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q18563162",
+    "imdb": "tt4135682",
+    "tmdb": 64560
+  },
+  "last_updated": "2026-08-17"
+}

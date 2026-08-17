@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_trudes_tier",
+  "title": "Trudes Tier",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q23775121",
+    "imdb": "tt19884350",
+    "tmdb": 82520
+  },
+  "last_updated": "2026-08-17"
+}

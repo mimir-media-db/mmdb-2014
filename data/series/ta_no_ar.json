@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ta_no_ar",
+  "title": "Tá no Ar",
+  "start_year": 2014,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q18761403",
+    "imdb": "tt3748836",
+    "tmdb": 66445
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 23
+}

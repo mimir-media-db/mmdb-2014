@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_three_days",
+  "title": "Three Days",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15149232",
+    "imdb": "tt3580142",
+    "tmdb": 61157
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

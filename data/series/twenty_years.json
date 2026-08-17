@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_twenty_years",
+  "title": "Twenty Years",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q12972219",
+    "tmdb": 229087
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

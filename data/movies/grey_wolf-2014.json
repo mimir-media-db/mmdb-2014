@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_grey_wolf_2014",
+  "title": "Grey Wolf",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22947477",
+    "imdb": "tt2493402",
+    "tmdb": 286794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

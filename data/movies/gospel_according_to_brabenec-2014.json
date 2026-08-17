@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gospel_according_to_brabenec_2014",
+  "title": "The Gospel According to Brabenec",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18517265",
+    "imdb": "tt4152042",
+    "tmdb": 593420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-24",
+  "runtime_minutes": 90
+}

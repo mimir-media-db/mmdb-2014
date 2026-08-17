@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_groomless_bride_2014",
+  "title": "Groomless Bride",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127543721",
+    "imdb": "tt1967690"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gunday_2014",
+  "title": "Gunday",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5618599",
+    "imdb": "tt2574698",
+    "tmdb": 250551
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-13",
+  "runtime_minutes": 152
+}

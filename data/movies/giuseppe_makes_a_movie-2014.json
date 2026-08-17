@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_giuseppe_makes_a_movie_2014",
+  "title": "Giuseppe Makes a Movie",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19824679",
+    "imdb": "tt3661072",
+    "tmdb": 266880
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 82
+}

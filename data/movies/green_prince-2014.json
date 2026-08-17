@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_green_prince_2014",
+  "title": "The Green Prince",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18028465",
+    "imdb": "tt2304915",
+    "tmdb": 250798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-11-27",
+  "runtime_minutes": 95
+}

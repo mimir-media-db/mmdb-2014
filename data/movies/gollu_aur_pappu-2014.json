@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_gollu_aur_pappu_2014",
+  "title": "Gollu Aur Pappu",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19571989",
+    "imdb": "tt4219300",
+    "tmdb": 309138
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

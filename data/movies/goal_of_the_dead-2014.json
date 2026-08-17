@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_goal_of_the_dead_2014",
+  "title": "Goal of the Dead",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16639339",
+    "imdb": "tt2787824",
+    "tmdb": 273467
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-27",
+  "runtime_minutes": 140
+}

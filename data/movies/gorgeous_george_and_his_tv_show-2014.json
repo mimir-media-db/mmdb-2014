@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_gorgeous_george_and_his_tv_show_2014",
+  "title": "Gorgeous George and His TV Show",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124660537",
+    "imdb": "tt4058466"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

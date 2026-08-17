@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_genetic_me_2014",
+  "title": "Genetic Me",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20756430",
+    "imdb": "tt4293698",
+    "tmdb": 334146
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 52
+}

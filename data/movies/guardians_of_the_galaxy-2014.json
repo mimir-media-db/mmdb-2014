@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_guardians_of_the_galaxy_2014",
+  "title": "Guardians of the Galaxy",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5887360",
+    "imdb": "tt2015381",
+    "tmdb": 118340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-31",
+  "runtime_minutes": 121
+}

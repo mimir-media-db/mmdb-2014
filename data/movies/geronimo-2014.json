@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_geronimo_2014",
+  "title": "Geronimo",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16638974",
+    "imdb": "tt3565174",
+    "tmdb": 280640
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-20",
+  "runtime_minutes": 107
+}

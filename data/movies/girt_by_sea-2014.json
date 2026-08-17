@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_girt_by_sea_2014",
+  "title": "Girt by Sea",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27590839",
+    "imdb": "tt3541784",
+    "tmdb": 779014
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-09"
+}

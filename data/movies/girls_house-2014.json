@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_girls_house_2014",
+  "title": "The Girl's House",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20110099",
+    "imdb": "tt5111754",
+    "tmdb": 365556
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_good_luck_finding_yourself_2014",
+  "title": "Good Luck Finding Yourself",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q62503008",
+    "imdb": "tt3717056",
+    "tmdb": 299124
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-28"
+}

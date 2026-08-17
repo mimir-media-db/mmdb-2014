@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_good_girl_2014",
+  "title": "Good Girl",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93738465",
+    "imdb": "tt7391088",
+    "tmdb": 436019
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

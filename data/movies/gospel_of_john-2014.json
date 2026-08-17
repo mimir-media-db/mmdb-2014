@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gospel_of_john_2014",
+  "title": "The Gospel of John",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48674664",
+    "imdb": "tt3454828",
+    "tmdb": 332675
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 160
+}

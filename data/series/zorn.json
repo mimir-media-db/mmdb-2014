@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_zorn",
+  "title": "Zorn",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q23775120",
+    "imdb": "tt13514420",
+    "tmdb": 222448
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 5
+}

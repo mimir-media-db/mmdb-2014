@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_10_rules_2014",
+  "title": "10 Rules",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14970681",
+    "imdb": "tt3021744",
+    "tmdb": 268729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-20",
+  "runtime_minutes": 100
+}

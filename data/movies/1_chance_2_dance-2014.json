@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1_chance_2_dance_2014",
+  "title": "1 Chance 2 Dance",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45378646",
+    "imdb": "tt2388856",
+    "tmdb": 253484
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 89
+}

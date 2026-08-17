@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_13_sins_2014",
+  "title": "13 Sins",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15110422",
+    "imdb": "tt2059171",
+    "tmdb": 155084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-07",
+  "runtime_minutes": 88
+}

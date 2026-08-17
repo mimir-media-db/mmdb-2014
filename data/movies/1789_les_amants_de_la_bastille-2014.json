@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_1789_les_amants_de_la_bastille_2014",
+  "title": "1789 Les Amants De La Bastille",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93111802"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-18",
+  "runtime_minutes": 129
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_100_earthquake_2014",
+  "title": "10.0 Earthquake",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24037200",
+    "imdb": "tt3488056",
+    "tmdb": 302666
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

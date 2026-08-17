@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_10_year_plan_2014",
+  "title": "The 10 Year Plan",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52229952",
+    "imdb": "tt3239442",
+    "tmdb": 267463
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

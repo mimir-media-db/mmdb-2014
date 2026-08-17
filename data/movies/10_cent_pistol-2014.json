@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_10_cent_pistol_2014",
+  "title": "10 Cent Pistol",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q36491762",
+    "imdb": "tt2134170",
+    "tmdb": 346592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 91
+}

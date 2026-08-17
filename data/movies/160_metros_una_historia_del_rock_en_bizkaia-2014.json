@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_160_metros_una_historia_del_rock_en_bizkaia_2014",
+  "title": "160 metros: una historia del rock en Bizkaia",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105748477",
+    "imdb": "tt3565506",
+    "tmdb": 267302
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 67
+}

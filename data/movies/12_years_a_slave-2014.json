@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_12_years_a_slave_2014",
+  "title": "12 Years a Slave",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3023357",
+    "imdb": "tt2024544",
+    "tmdb": 76203
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-02",
+  "runtime_minutes": 133
+}

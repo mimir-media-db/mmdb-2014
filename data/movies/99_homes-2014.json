@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_99_homes_2014",
+  "title": "99 Homes",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16147760",
+    "imdb": "tt2891174",
+    "tmdb": 283235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 112
+}

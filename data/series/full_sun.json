@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_full_sun",
+  "title": "The Full Sun",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15476155",
+    "imdb": "tt3580162",
+    "tmdb": 62778
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

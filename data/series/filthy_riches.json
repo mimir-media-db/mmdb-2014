@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_filthy_riches",
+  "title": "Filthy Riches",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16993288",
+    "imdb": "tt3654672",
+    "tmdb": 64849
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

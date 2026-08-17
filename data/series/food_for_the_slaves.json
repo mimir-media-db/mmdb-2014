@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_food_for_the_slaves",
+  "title": "Food for the Slaves",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q6424910",
+    "imdb": "tt6611066",
+    "tmdb": 88389
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 25
+}

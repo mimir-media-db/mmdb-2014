@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_food_fighters",
+  "title": "Food Fighters",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18150021",
+    "imdb": "tt2805912",
+    "tmdb": 61086
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

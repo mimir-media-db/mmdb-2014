@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_fit_for_fashion",
+  "title": "Fit for Fashion",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18355521",
+    "imdb": "tt9437306"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

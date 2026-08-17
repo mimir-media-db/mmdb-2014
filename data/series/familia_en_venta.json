@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_familia_en_venta",
+  "title": "Familia en venta",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q18417192",
+    "imdb": "tt4331778",
+    "tmdb": 221248
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 13
+}

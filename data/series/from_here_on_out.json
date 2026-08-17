@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_from_here_on_out",
+  "title": "From Here on OUT",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18150115",
+    "imdb": "tt3089724",
+    "tmdb": 94861
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

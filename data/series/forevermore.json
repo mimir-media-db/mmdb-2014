@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_forevermore",
+  "title": "Forevermore",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18341917",
+    "imdb": "tt4183480",
+    "tmdb": 61953
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 148
+}

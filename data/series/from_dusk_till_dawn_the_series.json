@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_from_dusk_till_dawn_the_series",
+  "title": "From Dusk till Dawn: The Series",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q15622760",
+    "imdb": "tt3337194",
+    "tmdb": 60626
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

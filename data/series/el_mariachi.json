@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_el_mariachi",
+  "title": "El Mariachi",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q48804286",
+    "imdb": "tt3135476"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 71
+}

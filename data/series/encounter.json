@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_encounter",
+  "title": "Encounter",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17042298"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 28
+}

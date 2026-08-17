@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_euros_of_hollywood",
+  "title": "Euros of Hollywood",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q18844743",
+    "imdb": "tt3831508",
+    "tmdb": 226744
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 9
+}

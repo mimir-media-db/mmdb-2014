@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_el_laberinto_de_alicia",
+  "title": "El Laberinto de Alicia",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18416120",
+    "imdb": "tt4483522",
+    "tmdb": 290095
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 92
+}

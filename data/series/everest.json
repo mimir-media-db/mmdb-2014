@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_everest",
+  "title": "Everest",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17509774",
+    "imdb": "tt4059976",
+    "tmdb": 228850
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 102
+}

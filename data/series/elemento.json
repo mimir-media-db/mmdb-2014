@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_elemento",
+  "title": "Elemento",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q18713417",
+    "imdb": "tt4123072",
+    "tmdb": 97707
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 4
+}

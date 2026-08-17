@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_everything_kimchi",
+  "title": "Everything Kimchi",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16029859",
+    "imdb": "tt5671914",
+    "tmdb": 128992
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 132
+}

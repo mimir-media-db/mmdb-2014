@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dark_suit",
+  "title": "Dark Suit",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18337179",
+    "imdb": "tt4092684",
+    "tmdb": 118891
+  },
+  "last_updated": "2026-08-17"
+}

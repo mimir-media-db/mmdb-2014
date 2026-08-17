@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dading",
+  "title": "Dading",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17151000",
+    "imdb": "tt3907508",
+    "tmdb": 221575
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 80
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_devils_playground",
+  "title": "Devil's Playground",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17038489",
+    "imdb": "tt3451836",
+    "tmdb": 61446
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

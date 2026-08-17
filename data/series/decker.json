@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_decker",
+  "title": "Decker",
+  "start_year": 2014,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q24807168",
+    "imdb": "tt3908868",
+    "tmdb": 72031
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

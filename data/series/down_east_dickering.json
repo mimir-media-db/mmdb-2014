@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_down_east_dickering",
+  "title": "Down East Dickering",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q20642668",
+    "imdb": "tt3762958",
+    "tmdb": 64943
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

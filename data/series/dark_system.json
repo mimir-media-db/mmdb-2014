@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_dark_system",
+  "title": "DARK SYSTEM",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15642596",
+    "tmdb": 258212
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 10
+}

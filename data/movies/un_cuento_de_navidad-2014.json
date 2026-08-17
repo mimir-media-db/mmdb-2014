@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_cuento_de_navidad_2014",
+  "title": "Un cuento de Navidad",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135720397",
+    "imdb": "tt3311360",
+    "tmdb": 408481
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 96
+}

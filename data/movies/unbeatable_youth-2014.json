@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_unbeatable_youth_2014",
+  "title": "Unbeatable Youth",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100844812",
+    "imdb": "tt3393886",
+    "tmdb": 1268613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-06"
+}

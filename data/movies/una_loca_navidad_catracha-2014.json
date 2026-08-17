@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_una_loca_navidad_catracha_2014",
+  "title": "Una Loca Navidad Catracha",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108130678",
+    "imdb": "tt6036590",
+    "tmdb": 426838
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-04",
+  "runtime_minutes": 95
+}

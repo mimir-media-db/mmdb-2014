@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ultra_violent_people_deluxe_2014",
+  "title": "Ultra Violent People - Deluxe",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17231569",
+    "imdb": "tt17525164",
+    "tmdb": 1166157
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-04"
+}

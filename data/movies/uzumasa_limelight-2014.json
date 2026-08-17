@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uzumasa_limelight_2014",
+  "title": "Uzumasa Limelight",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17989180",
+    "imdb": "tt3290882",
+    "tmdb": 274815
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-19"
+}

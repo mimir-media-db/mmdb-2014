@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_xmen_days_of_future_past_2014",
+  "title": "X-Men: Days of Future Past",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4985891",
+    "imdb": "tt1877832",
+    "tmdb": 127585
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-21",
+  "runtime_minutes": 131
+}

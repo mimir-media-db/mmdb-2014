@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_serie_noire",
+  "title": "Série noire",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q16678592",
+    "imdb": "tt3480144",
+    "tmdb": 64565
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 22
+}

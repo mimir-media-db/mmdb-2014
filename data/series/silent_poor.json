@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_silent_poor",
+  "title": "Silent Poor",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17224290",
+    "imdb": "tt3550940",
+    "tmdb": 101025
+  },
+  "last_updated": "2026-08-17"
+}

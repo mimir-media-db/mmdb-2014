@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sudamerican_rockers",
+  "title": "Sudamerican Rockers",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17630740",
+    "imdb": "tt3955730",
+    "tmdb": 76144
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

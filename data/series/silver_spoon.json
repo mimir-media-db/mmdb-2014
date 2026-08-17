@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_silver_spoon",
+  "title": "Silver Spoon",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19619067",
+    "imdb": "tt4426042",
+    "tmdb": 63435
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 48
+}

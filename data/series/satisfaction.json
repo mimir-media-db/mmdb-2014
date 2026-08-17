@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_satisfaction",
+  "title": "Satisfaction",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17079351",
+    "imdb": "tt3205236",
+    "tmdb": 61213
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

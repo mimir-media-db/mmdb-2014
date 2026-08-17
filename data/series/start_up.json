@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_start_up",
+  "title": "Start Up",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q27645759",
+    "imdb": "tt3118676",
+    "tmdb": 282025
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 52
+}

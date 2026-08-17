@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_suomilove",
+  "title": "SuomiLOVE",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18679871",
+    "imdb": "tt4155738",
+    "tmdb": 194948
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sensitive_skin",
+  "title": "Sensitive Skin",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q17112006",
+    "imdb": "tt2490030",
+    "tmdb": 67714
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

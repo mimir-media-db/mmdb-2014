@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_survivors_remorse",
+  "title": "Survivor's Remorse",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q18274244",
+    "imdb": "tt3231022",
+    "tmdb": 61469
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 36
+}

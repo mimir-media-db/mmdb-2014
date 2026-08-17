@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_shookhi_kardam",
+  "title": "Shookhi Kardam",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16048900",
+    "imdb": "tt3220046",
+    "tmdb": 97545
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 24
+}

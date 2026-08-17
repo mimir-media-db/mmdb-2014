@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_sec_network_football",
+  "title": "SEC Network Football",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18153857"
+  },
+  "last_updated": "2026-08-17"
+}

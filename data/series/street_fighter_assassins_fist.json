@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_street_fighter_assassins_fist",
+  "title": "Street Fighter: Assassin's Fist",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15978300",
+    "imdb": "tt3069212",
+    "tmdb": 61873
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

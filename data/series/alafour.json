@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_alafour",
+  "title": "Al-Afour",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20385233",
+    "imdb": "tt30192871",
+    "tmdb": 201169
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 30
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_amazing_race",
+  "title": "The Amazing Race",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q18118584",
+    "imdb": "tt6095264",
+    "tmdb": 68143
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 30
+}

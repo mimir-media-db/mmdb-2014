@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_agi_bagi",
+  "title": "Agi Bagi",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q31090366",
+    "imdb": "tt5908938",
+    "tmdb": 103371
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 52
+}

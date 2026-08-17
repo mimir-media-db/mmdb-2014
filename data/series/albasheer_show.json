@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_albasheer_show",
+  "title": "Albasheer Show",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q22684860"
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_about_a_boy",
+  "title": "About a Boy",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q13584064",
+    "imdb": "tt2666270",
+    "tmdb": 51388
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 33
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_angel_eyes",
+  "title": "Angel Eyes",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15898803",
+    "imdb": "tt3681890",
+    "tmdb": 63787
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

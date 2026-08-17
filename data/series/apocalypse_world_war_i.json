@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_apocalypse_world_war_i",
+  "title": "Apocalypse: World War I",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16010724",
+    "imdb": "tt3638584",
+    "tmdb": 61314
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 5
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_albi_lumiukko",
+  "title": "Albi Lumiukko",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q56400230",
+    "imdb": "tt6150164",
+    "tmdb": 204169
+  },
+  "last_updated": "2026-08-17"
+}

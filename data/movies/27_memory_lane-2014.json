@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_27_memory_lane_2014",
+  "title": "27, Memory Lane",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19363529",
+    "imdb": "tt2374711",
+    "tmdb": 1058654
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

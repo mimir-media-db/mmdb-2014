@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_22_yards_2014",
+  "title": "22 Yards",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16057457",
+    "imdb": "tt9496212",
+    "tmdb": 587121
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

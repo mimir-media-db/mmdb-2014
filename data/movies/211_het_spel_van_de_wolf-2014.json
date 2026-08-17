@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_211_het_spel_van_de_wolf_2014",
+  "title": "2/11 Het spel van de wolf",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18285681",
+    "imdb": "tt3959094",
+    "tmdb": 293473
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

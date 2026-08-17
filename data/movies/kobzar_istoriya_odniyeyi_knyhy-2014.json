@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_kobzar_istoriya_odniyeyi_knyhy_2014",
+  "title": "Kobzar. Istoriya odniyeyi knyhy",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573803",
+    "imdb": "tt15471888"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-09"
+}

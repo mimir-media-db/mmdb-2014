@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kapgang_2014",
+  "title": "Kapgang",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17518490",
+    "imdb": "tt3360038",
+    "tmdb": 285900
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-28",
+  "runtime_minutes": 108
+}

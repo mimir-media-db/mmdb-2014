@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kaash_tum_hote_2014",
+  "title": "Kaash Tum Hote",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65051770",
+    "imdb": "tt7323822",
+    "tmdb": 346941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-12"
+}

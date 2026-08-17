@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_keeper_of_lost_causes_2014",
+  "title": "The Keeper of Lost Causes",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15676054",
+    "imdb": "tt2438644",
+    "tmdb": 196024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-23",
+  "runtime_minutes": 97
+}

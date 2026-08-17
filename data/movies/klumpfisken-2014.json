@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_klumpfisken_2014",
+  "title": "Klumpfisken",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20495331",
+    "imdb": "tt2941330",
+    "tmdb": 252200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-06",
+  "runtime_minutes": 100
+}

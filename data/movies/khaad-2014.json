@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_khaad_2014",
+  "title": "Khaad",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18611399",
+    "imdb": "tt4183756",
+    "tmdb": 306960
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-11-07",
+  "runtime_minutes": 140
+}

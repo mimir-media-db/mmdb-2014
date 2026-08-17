@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_karolina_2014",
+  "title": "Karolina",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25414041",
+    "imdb": "tt4301600",
+    "tmdb": 390177
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 102
+}

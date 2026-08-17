@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kowalski_2014",
+  "title": "Kowalski",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44867087",
+    "imdb": "tt3721772",
+    "tmdb": 466446
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 18
+}

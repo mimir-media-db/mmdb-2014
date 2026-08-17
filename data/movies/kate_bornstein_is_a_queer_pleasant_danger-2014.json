@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kate_bornstein_is_a_queer_pleasant_danger_2014",
+  "title": "Kate Bornstein is a Queer & Pleasant Danger",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116978378",
+    "imdb": "tt3380016",
+    "tmdb": 260476
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 72
+}

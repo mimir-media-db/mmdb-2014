@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kievmoscow_part_2_2014",
+  "title": "Kiev/Moscow. Part 2",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575623",
+    "imdb": "tt21216998",
+    "tmdb": 954145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-29",
+  "runtime_minutes": 84
+}

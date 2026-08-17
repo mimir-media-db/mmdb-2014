@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_knada_2014",
+  "title": "K-nada",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28494776",
+    "imdb": "tt4012128",
+    "tmdb": 456071
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

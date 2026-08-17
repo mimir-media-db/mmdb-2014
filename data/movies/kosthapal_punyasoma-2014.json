@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kosthapal_punyasoma_2014",
+  "title": "Kosthapal Punyasoma",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29830529",
+    "imdb": "tt7617622",
+    "tmdb": 935173
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-02"
+}

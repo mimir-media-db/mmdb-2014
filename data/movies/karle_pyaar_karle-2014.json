@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_karle_pyaar_karle_2014",
+  "title": "Karle Pyaar Karle",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16250173",
+    "imdb": "tt3465488",
+    "tmdb": 252051
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-17"
+}

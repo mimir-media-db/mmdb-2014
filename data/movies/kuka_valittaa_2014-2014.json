@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kuka_valittaa_2014_2014",
+  "title": "Kuka välittää? (2014)",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111803587",
+    "imdb": "tt3540056"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-06",
+  "runtime_minutes": 54
+}

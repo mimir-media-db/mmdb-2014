@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_one_child",
+  "title": "One Child",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q23001944",
+    "imdb": "tt3864896",
+    "tmdb": 61675
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

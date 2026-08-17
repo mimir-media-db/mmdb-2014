@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_on_assignment",
+  "title": "On Assignment",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16960214",
+    "imdb": "tt3686200",
+    "tmdb": 133928
+  },
+  "last_updated": "2026-08-17"
+}

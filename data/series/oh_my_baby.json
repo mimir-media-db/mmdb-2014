@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_oh_my_baby",
+  "title": "Oh! My Baby",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q16180791",
+    "tmdb": 300457
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 116
+}

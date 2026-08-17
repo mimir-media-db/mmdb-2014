@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_young_mother_2_2014",
+  "title": "Young Mother 2",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22974875",
+    "imdb": "tt7652302",
+    "tmdb": 276126
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-29"
+}

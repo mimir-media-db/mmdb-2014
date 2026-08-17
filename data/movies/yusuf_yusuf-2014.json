@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yusuf_yusuf_2014",
+  "title": "Yusuf Yusuf",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19473483",
+    "imdb": "tt4306526",
+    "tmdb": 334613
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-26",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yagmur_kyamet_cicegi_2014",
+  "title": "Yağmur: Kıyamet Çiçeği",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19473476",
+    "imdb": "tt4307024",
+    "tmdb": 350826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-12"
+}

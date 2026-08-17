@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eye_for_beauty_2014",
+  "title": "An Eye for Beauty",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17632824",
+    "imdb": "tt2414040",
+    "tmdb": 271826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 102
+}

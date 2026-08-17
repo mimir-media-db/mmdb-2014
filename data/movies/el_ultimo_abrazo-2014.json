@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_ultimo_abrazo_2014",
+  "title": "El último abrazo",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19516191",
+    "imdb": "tt4381714",
+    "tmdb": 1176860
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 30
+}

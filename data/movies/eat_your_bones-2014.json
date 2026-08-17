@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eat_your_bones_2014",
+  "title": "Eat Your Bones",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17634702",
+    "imdb": "tt3720802",
+    "tmdb": 270665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 94
+}

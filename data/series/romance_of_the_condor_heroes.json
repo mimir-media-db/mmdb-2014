@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_romance_of_the_condor_heroes",
+  "title": "The Romance of the Condor Heroes",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q14857804",
+    "imdb": "tt12485864",
+    "tmdb": 68871
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 52
+}

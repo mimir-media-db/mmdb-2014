@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_roosevelt_game",
+  "title": "ROOSEVELT GAME",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15972901",
+    "imdb": "tt3573466",
+    "tmdb": 61126
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 9
+}

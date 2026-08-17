@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ruse_of_engagement",
+  "title": "Ruse of Engagement",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q7380659",
+    "imdb": "tt6611264",
+    "tmdb": 39564
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 25
+}

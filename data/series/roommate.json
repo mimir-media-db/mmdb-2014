@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_roommate",
+  "title": "Roommate",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16325250",
+    "imdb": "tt4124052",
+    "tmdb": 64172
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 46
+}

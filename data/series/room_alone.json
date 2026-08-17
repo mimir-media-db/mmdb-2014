@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_room_alone",
+  "title": "Room Alone",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q20582792"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 25
+}

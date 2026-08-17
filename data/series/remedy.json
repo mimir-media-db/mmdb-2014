@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_remedy",
+  "title": "Remedy",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q15582364",
+    "imdb": "tt3182934",
+    "tmdb": 62073
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

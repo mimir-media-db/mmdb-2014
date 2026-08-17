@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_rechercheur_ria",
+  "title": "Rechercheur Ria",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q19831892",
+    "imdb": "tt3792860",
+    "tmdb": 62639
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

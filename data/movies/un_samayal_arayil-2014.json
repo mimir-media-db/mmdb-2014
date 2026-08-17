@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_un_samayal_arayil_2014",
+  "title": "Un Samayal Arayil",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7882022",
+    "imdb": "tt3740490",
+    "tmdb": 270781
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

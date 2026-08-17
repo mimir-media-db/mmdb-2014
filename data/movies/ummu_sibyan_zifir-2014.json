@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ummu_sibyan_zifir_2014",
+  "title": "Ümmü Sibyan: Zifir",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19473515",
+    "imdb": "tt4149802",
+    "tmdb": 380379
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

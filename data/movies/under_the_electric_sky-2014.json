@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_under_the_electric_sky_2014",
+  "title": "Under the Electric Sky",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17151541",
+    "imdb": "tt2966934",
+    "tmdb": 242093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

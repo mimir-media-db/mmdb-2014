@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vancouver_asahi_2014",
+  "title": "The Vancouver Asahi",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17208866",
+    "imdb": "tt3550344",
+    "tmdb": 295719
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 132
+}

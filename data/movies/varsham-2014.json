@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_varsham_2014",
+  "title": "Varsham",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170622",
+    "imdb": "tt4176604",
+    "tmdb": 278393
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

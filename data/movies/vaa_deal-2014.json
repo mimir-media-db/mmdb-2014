@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vaa_deal_2014",
+  "title": "Vaa Deal",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17075769",
+    "imdb": "tt10050150",
+    "tmdb": 280154
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

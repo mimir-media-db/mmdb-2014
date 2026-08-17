@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zombie_horror_picture_show_2014",
+  "title": "The Zombie Horror Picture Show",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17151441",
+    "imdb": "tt4036514",
+    "tmdb": 285749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

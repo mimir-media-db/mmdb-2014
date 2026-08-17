@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_zid_2014",
+  "title": "Zid",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18391083",
+    "imdb": "tt4228746",
+    "tmdb": 310123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

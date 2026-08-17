@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zona_zamfirova_2_2014",
+  "title": "Zona Zamfirova 2",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16232068",
+    "imdb": "tt3429340",
+    "tmdb": 436520
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

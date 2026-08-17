@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_moskauer_prozesse_2014",
+  "title": "Die Moskauer Prozesse",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16040627",
+    "imdb": "tt3509176",
+    "tmdb": 417488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 86
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_daniels_world_2014",
+  "title": "Daniel's World",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18511320",
+    "imdb": "tt4082466",
+    "tmdb": 324819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 75
+}

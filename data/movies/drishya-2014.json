@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_drishya_2014",
+  "title": "Drishya",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17052094",
+    "imdb": "tt3738624",
+    "tmdb": 328370
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_divorce_corp_2014",
+  "title": "Divorce Corp",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16973923",
+    "imdb": "tt2636456",
+    "tmdb": 241070
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

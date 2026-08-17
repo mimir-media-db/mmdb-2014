@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dubrovskiy_2014",
+  "title": "Dubrovskiy",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15985062",
+    "imdb": "tt3298690",
+    "tmdb": 262733
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 123
+}

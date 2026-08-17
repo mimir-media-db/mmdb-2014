@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dekh_tamasha_dekh_2014",
+  "title": "Dekh Tamasha Dekh",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17051558",
+    "imdb": "tt3672618",
+    "tmdb": 264186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

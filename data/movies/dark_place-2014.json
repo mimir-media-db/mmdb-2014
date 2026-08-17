@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dark_place_2014",
+  "title": "The Dark Place",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7728975",
+    "imdb": "tt2196059",
+    "tmdb": 233226
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

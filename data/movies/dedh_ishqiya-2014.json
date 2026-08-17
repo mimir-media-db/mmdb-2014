@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dedh_ishqiya_2014",
+  "title": "Dedh Ishqiya",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16247847",
+    "imdb": "tt2675978",
+    "tmdb": 248698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 152
+}

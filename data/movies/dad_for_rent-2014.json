@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dad_for_rent_2014",
+  "title": "Dad for Rent",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18052737",
+    "imdb": "tt6449908",
+    "tmdb": 311224
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

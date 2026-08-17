@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_da_sweet_blood_of_jesus_2014",
+  "title": "Da Sweet Blood of Jesus",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17038465",
+    "imdb": "tt3104930",
+    "tmdb": 278316
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 123
+}

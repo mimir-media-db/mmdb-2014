@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dikkulu_choodaku_ramayya_2014",
+  "title": "Dikkulu Choodaku Ramayya",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18220902",
+    "imdb": "tt6491318",
+    "tmdb": 297667
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

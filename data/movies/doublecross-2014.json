@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_doublecross_2014",
+  "title": "Double-Cross",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18648880",
+    "imdb": "tt4962276",
+    "tmdb": 974371
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

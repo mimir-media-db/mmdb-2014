@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_desert_dancer_2014",
+  "title": "Desert Dancer",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5263905",
+    "imdb": "tt2403393",
+    "tmdb": 266102
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

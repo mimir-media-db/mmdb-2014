@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_plague_2014",
+  "title": "Plague",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20800582",
+    "imdb": "tt3949586",
+    "tmdb": 296244
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 89
+}

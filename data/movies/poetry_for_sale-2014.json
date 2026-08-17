@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_poetry_for_sale_2014",
+  "title": "Poetry For Sale",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61819564",
+    "imdb": "tt3967458",
+    "tmdb": 292819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 3
+}

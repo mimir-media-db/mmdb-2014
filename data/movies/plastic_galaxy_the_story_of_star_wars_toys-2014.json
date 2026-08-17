@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_plastic_galaxy_the_story_of_star_wars_toys_2014",
+  "title": "Plastic Galaxy: The Story of Star Wars Toys",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21584258",
+    "imdb": "tt3648510",
+    "tmdb": 253150
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-14"
+}

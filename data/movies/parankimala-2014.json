@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_parankimala_2014",
+  "title": "Parankimala",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18129205",
+    "imdb": "tt3652872",
+    "tmdb": 298879
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-21"
+}

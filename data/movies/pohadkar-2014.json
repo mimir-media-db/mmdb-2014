@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pohadkar_2014",
+  "title": "Pohádkár",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14970927",
+    "imdb": "tt3038006",
+    "tmdb": 313698
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-11-06",
+  "runtime_minutes": 87
+}

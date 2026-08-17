@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_price_we_pay_2014",
+  "title": "The Price We Pay",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20004199",
+    "imdb": "tt3921454",
+    "tmdb": 291006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 93
+}

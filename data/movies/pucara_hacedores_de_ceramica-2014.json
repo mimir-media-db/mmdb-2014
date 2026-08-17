@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pucara_hacedores_de_ceramica_2014",
+  "title": "Pucará, hacedores de cerámica",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137793869",
+    "imdb": "tt14205122"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 19
+}

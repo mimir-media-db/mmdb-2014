@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_parayan_baaki_vechathu_2014",
+  "title": "Parayan Baaki Vechathu",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7136310",
+    "imdb": "tt8108224",
+    "tmdb": 521237
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-28"
+}

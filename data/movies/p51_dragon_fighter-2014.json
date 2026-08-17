@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_p51_dragon_fighter_2014",
+  "title": "P-51 Dragon Fighter",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18786666",
+    "imdb": "tt2721152",
+    "tmdb": 261047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 85
+}

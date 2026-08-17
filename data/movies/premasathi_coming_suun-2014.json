@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_premasathi_coming_suun_2014",
+  "title": "Premasathi Coming Suun",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18611428",
+    "imdb": "tt4265992",
+    "tmdb": 309892
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-12"
+}

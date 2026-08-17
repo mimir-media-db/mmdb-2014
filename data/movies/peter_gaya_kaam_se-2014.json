@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_peter_gaya_kaam_se_2014",
+  "title": "Peter Gaya Kaam Se",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7174194",
+    "imdb": "tt1643239",
+    "tmdb": 925648
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-27"
+}

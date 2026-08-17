@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prendre_lair_2014",
+  "title": "Prendre l'air",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48752938",
+    "imdb": "tt1550581",
+    "tmdb": 288872
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

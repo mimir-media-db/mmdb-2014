@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pro_lyubov_ira_2014",
+  "title": "Pro lyubov: Ira",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93075043",
+    "imdb": "tt12386440"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-11-01",
+  "runtime_minutes": 27
+}

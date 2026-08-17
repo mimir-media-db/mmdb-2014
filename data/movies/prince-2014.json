@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prince_2014",
+  "title": "The Prince",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16254293",
+    "imdb": "tt1085492",
+    "tmdb": 241254
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-22",
+  "runtime_minutes": 93
+}

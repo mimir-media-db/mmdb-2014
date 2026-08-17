@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paris_or_perish_2014",
+  "title": "Paris or Perish",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3365358",
+    "imdb": "tt2420886",
+    "tmdb": 203665
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-22",
+  "runtime_minutes": 95
+}

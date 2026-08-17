@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pauly_shore_stands_alone_2014",
+  "title": "Pauly Shore Stands Alone",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18786670",
+    "imdb": "tt3530170",
+    "tmdb": 300763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

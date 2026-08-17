@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_purple_skies_2014",
+  "title": "Purple Skies",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39061196",
+    "imdb": "tt3528206",
+    "tmdb": 322283
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-21"
+}

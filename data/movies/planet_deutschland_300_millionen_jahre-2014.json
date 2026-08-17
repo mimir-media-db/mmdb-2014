@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_planet_deutschland_300_millionen_jahre_2014",
+  "title": "Planet Deutschland - 300 Millionen Jahre",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29278128",
+    "imdb": "tt3992866",
+    "tmdb": 295831
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-02",
+  "runtime_minutes": 93
+}

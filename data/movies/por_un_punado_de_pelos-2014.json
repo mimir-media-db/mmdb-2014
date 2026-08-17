@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_por_un_punado_de_pelos_2014",
+  "title": "Por un puñado de pelos",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66085050",
+    "imdb": "tt3462474",
+    "tmdb": 595708
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 106
+}

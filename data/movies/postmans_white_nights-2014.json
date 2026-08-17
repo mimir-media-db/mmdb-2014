@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_postmans_white_nights_2014",
+  "title": "The Postman's White Nights",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17605759",
+    "imdb": "tt3591984",
+    "tmdb": 283703
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-05",
+  "runtime_minutes": 90
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_parcours_damour_2014",
+  "title": "Parcours d'amour",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19960419",
+    "imdb": "tt3853518",
+    "tmdb": 453339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 81
+}

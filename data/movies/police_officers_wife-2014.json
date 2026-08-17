@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_police_officers_wife_2014",
+  "title": "The Police Officer's Wife",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14302636",
+    "imdb": "tt1734429",
+    "tmdb": 210228
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-20",
+  "runtime_minutes": 175
+}

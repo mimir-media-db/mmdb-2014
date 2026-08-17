@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_preethi_geethi_ityaadi_2014",
+  "title": "Preethi Geethi Ityaadi",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q113245270",
+    "imdb": "tt12087846"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-13"
+}

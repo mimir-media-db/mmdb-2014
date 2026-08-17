@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pantani_the_accidental_death_of_a_cyclist_2014",
+  "title": "Pantani: The Accidental Death of a Cyclist",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20925601",
+    "imdb": "tt2966760",
+    "tmdb": 258614
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 96
+}

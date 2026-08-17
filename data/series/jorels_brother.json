@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jorels_brother",
+  "title": "Jorel's Brother",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q10303705",
+    "imdb": "tt6574360",
+    "tmdb": 74606
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 127
+}

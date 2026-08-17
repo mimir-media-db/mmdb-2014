@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_jackson_heights",
+  "title": "Jackson Heights",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18126130",
+    "imdb": "tt4079308",
+    "tmdb": 90437
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 27
+}

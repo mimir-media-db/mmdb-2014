@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jamies_comfort_food",
+  "title": "Jamie's Comfort Food",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q18712361",
+    "imdb": "tt4410574",
+    "tmdb": 71447
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

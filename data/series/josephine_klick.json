@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_josephine_klick",
+  "title": "Josephine Klick",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16832304",
+    "imdb": "tt3544978",
+    "tmdb": 60869
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trumpeter_2014",
+  "title": "The Trumpeter",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16720442",
+    "imdb": "tt3438754",
+    "tmdb": 262167
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 80
+}

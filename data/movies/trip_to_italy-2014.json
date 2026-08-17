@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trip_to_italy_2014",
+  "title": "The Trip to Italy",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18611455",
+    "imdb": "tt2967006",
+    "tmdb": 242088
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

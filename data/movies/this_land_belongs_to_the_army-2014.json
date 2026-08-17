@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_this_land_belongs_to_the_army_2014",
+  "title": "This Land Belongs to the Army",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17075204",
+    "imdb": "tt3616314"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

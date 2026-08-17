@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_treatment_2014",
+  "title": "The Treatment",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15647675",
+    "imdb": "tt3089778",
+    "tmdb": 251577
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 131
+}

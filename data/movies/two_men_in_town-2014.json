@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_two_men_in_town_2014",
+  "title": "Two Men in Town",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15627888",
+    "imdb": "tt2258285",
+    "tmdb": 254772
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 120
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_talk_back_and_youre_dead_2014",
+  "title": "Talk Back and You're Dead",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170501",
+    "imdb": "tt3909884",
+    "tmdb": 289328
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 120
+}

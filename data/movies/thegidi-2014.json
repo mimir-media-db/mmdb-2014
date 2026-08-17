@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thegidi_2014",
+  "title": "Thegidi",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15863744",
+    "imdb": "tt3565264",
+    "tmdb": 257423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

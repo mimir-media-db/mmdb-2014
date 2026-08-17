@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ti_ricordi_di_me_2014",
+  "title": "Ti ricordi di me?",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17479271",
+    "imdb": "tt3628598",
+    "tmdb": 262789
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 91
+}

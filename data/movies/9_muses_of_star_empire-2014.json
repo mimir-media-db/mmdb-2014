@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_9_muses_of_star_empire_2014",
+  "title": "9 Muses of Star Empire",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55728596",
+    "imdb": "tt2512962",
+    "tmdb": 220075
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

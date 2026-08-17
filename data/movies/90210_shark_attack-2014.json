@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_90210_shark_attack_2014",
+  "title": "90210 Shark Attack",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60854596",
+    "imdb": "tt3544654",
+    "tmdb": 303267
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 75
+}

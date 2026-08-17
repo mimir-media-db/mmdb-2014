@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_last_ship",
+  "title": "The Last Ship",
+  "start_year": 2014,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q15627692",
+    "imdb": "tt2402207",
+    "tmdb": 60802
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 46
+}

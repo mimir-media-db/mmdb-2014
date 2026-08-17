@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_les_jeunes_loups",
+  "title": "Les Jeunes Loups",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q16655074",
+    "imdb": "tt3239058",
+    "tmdb": 64798
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

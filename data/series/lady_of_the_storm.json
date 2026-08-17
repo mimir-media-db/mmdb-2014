@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_lady_of_the_storm",
+  "title": "Lady of the Storm",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18156492",
+    "imdb": "tt5690194",
+    "tmdb": 78850
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 140
+}

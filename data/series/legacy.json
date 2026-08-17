@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_legacy",
+  "title": "The Legacy",
+  "start_year": 2013,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q15898520",
+    "imdb": "tt2341762",
+    "tmdb": 51823
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 26
+}

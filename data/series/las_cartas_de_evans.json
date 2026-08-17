@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_las_cartas_de_evans",
+  "title": "Las cartas de Evans",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q47750434"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

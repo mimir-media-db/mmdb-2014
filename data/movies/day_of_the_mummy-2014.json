@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_day_of_the_mummy_2014",
+  "title": "Day of the Mummy",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55729890",
+    "imdb": "tt3116438",
+    "tmdb": 297580
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

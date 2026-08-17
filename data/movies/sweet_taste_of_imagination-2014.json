@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sweet_taste_of_imagination_2014",
+  "title": "Sweet Taste of Imagination",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20110615",
+    "imdb": "tt3719560",
+    "tmdb": 406320
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

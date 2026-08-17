@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sexual_liberation_of_anna_lee_2014",
+  "title": "The Sexual Liberation of Anna Lee",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98168313",
+    "imdb": "tt3577950",
+    "tmdb": 385278
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 127
+}

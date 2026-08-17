@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_being_and_becoming_2014",
+  "title": "Being and Becoming",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21454125",
+    "imdb": "tt2261311",
+    "tmdb": 400315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

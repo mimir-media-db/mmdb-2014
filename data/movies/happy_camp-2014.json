@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_camp_2014",
+  "title": "Happy Camp",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17091345",
+    "imdb": "tt3548442",
+    "tmdb": 261071
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-25"
+}

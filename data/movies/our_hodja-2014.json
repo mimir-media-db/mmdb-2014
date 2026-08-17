@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_our_hodja_2014",
+  "title": "Our Hodja",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17450786",
+    "imdb": "tt3746914",
+    "tmdb": 289424
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-07",
+  "runtime_minutes": 96
+}

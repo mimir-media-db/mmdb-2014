@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vaayai_moodi_pesavum_2014",
+  "title": "Vaayai Moodi Pesavum",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16255056",
+    "imdb": "tt3465996",
+    "tmdb": 263494
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-25"
+}

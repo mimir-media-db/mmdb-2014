@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brotherhood_of_blades_2014",
+  "title": "Brotherhood of Blades",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15924967",
+    "imdb": "tt4019426",
+    "tmdb": 291692
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-07",
+  "runtime_minutes": 100
+}

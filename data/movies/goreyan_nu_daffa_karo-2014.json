@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_goreyan_nu_daffa_karo_2014",
+  "title": "Goreyan Nu Daffa Karo",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19891609",
+    "imdb": "tt3971944",
+    "tmdb": 291345
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

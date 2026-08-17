@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mary_queen_of_scots_2014",
+  "title": "Mary, Queen of Scots",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3296113",
+    "imdb": "tt1555069",
+    "tmdb": 193006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-11-12",
+  "runtime_minutes": 120
+}

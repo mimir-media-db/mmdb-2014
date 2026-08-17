@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wackatdooo_2014",
+  "title": "Wackatdooo",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61985174",
+    "imdb": "tt3502646"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 6
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_last_incubus_2014",
+  "title": "The Last Incubus",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44875849",
+    "imdb": "tt3031914",
+    "tmdb": 265424
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

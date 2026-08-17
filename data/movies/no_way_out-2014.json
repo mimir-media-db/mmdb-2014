@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_no_way_out_2014",
+  "title": "No Way Out",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28374802",
+    "imdb": "tt6424414",
+    "tmdb": 714896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 83
+}

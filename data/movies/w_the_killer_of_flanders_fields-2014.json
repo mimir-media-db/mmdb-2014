@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_w_the_killer_of_flanders_fields_2014",
+  "title": "W – The Killer of Flanders Fields",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15943785",
+    "imdb": "tt3558196",
+    "tmdb": 268302
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-27",
+  "runtime_minutes": 90
+}

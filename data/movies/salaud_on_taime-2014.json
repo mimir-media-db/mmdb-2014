@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_salaud_on_taime_2014",
+  "title": "Salaud, on t'aime",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16028904",
+    "imdb": "tt2557952",
+    "tmdb": 262117
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-21",
+  "runtime_minutes": 124
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rosie_2014",
+  "title": "Rosie",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15112439",
+    "imdb": "tt2661578",
+    "tmdb": 188231
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-08",
+  "runtime_minutes": 106
+}

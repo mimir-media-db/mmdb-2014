@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kings_surrender_2014",
+  "title": "The King's Surrender",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18558425",
+    "imdb": "tt2718442",
+    "tmdb": 294483
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-28",
+  "runtime_minutes": 107
+}

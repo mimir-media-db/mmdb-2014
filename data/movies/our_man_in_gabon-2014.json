@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_our_man_in_gabon_2014",
+  "title": "Our Man in Gabon",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124516801",
+    "imdb": "tt14787072",
+    "tmdb": 893189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 66
+}

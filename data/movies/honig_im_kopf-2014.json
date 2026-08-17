@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_honig_im_kopf_2014",
+  "title": "Honig im Kopf",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18760229",
+    "imdb": "tt3488462",
+    "tmdb": 269258
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-15",
+  "runtime_minutes": 139
+}

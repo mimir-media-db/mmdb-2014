@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_historian_2014",
+  "title": "The Historian",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28970976",
+    "imdb": "tt2714410",
+    "tmdb": 305048
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-11-07"
+}

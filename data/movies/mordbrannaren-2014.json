@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mordbrannaren_2014",
+  "title": "Mordbrännaren",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15087495",
+    "imdb": "tt2704880",
+    "tmdb": 270857
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-02"
+}

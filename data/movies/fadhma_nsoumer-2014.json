@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fadhma_nsoumer_2014",
+  "title": "Fadhma N'Soumer",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100273500",
+    "imdb": "tt2784112",
+    "tmdb": 300541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-16"
+}

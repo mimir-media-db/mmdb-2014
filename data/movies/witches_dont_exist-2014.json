@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_witches_dont_exist_2014",
+  "title": "Witches Don't Exist",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17581622",
+    "imdb": "tt3477734",
+    "tmdb": 265693
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-18"
+}

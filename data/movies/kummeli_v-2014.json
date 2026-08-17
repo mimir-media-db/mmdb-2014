@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kummeli_v_2014",
+  "title": "Kummeli V",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17381944",
+    "imdb": "tt2901962",
+    "tmdb": 257668
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-19",
+  "runtime_minutes": 105
+}

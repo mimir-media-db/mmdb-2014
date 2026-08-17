@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fatal_frame_2014",
+  "title": "Fatal Frame",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17042145",
+    "imdb": "tt3684484",
+    "tmdb": 297186
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-26",
+  "runtime_minutes": 104
+}

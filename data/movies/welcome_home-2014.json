@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_welcome_home_2014",
+  "title": "Welcome Home",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20004278",
+    "imdb": "tt2408056",
+    "tmdb": 153962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

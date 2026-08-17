@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_august_winds_2014",
+  "title": "August Winds",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112755941",
+    "imdb": "tt3904770",
+    "tmdb": 285581
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-08",
+  "runtime_minutes": 77
+}

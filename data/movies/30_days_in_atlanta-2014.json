@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_30_days_in_atlanta_2014",
+  "title": "30 Days in Atlanta",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18148568",
+    "imdb": "tt4040616",
+    "tmdb": 338788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-31",
+  "runtime_minutes": 111
+}

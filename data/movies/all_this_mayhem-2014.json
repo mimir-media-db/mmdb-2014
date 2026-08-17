@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_this_mayhem_2014",
+  "title": "All This Mayhem",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120496508",
+    "imdb": "tt2938416",
+    "tmdb": 275657
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 104
+}

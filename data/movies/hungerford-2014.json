@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hungerford_2014",
+  "title": "Hungerford",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51879626",
+    "imdb": "tt3552892",
+    "tmdb": 268229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 79
+}

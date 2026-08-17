@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uganda_be_kidding_me_live_2014",
+  "title": "Uganda Be Kidding Me: Live",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18643792",
+    "imdb": "tt4079776",
+    "tmdb": 297098
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-10"
+}

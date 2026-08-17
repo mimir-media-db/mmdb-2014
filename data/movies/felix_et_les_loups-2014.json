@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_felix_et_les_loups_2014",
+  "title": "Félix et les Loups",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21512676",
+    "imdb": "tt3540908",
+    "tmdb": 298529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

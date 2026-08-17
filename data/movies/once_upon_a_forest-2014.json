@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_once_upon_a_forest_2014",
+  "title": "Once Upon a Forest",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15517322",
+    "imdb": "tt2873250",
+    "tmdb": 226109
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-02"
+}

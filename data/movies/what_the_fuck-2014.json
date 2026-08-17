@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_what_the_fuck_2014",
+  "title": "What the Fuck?",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15725674",
+    "imdb": "tt3398868",
+    "tmdb": 252773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-05"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mosayile_kuthira_meenukal_2014",
+  "title": "Mosayile Kuthira Meenukal",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16251826",
+    "imdb": "tt3332690",
+    "tmdb": 365951
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-24"
+}

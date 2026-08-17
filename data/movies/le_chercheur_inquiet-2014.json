@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_chercheur_inquiet_2014",
+  "title": "Le Chercheur inquiet",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20972509",
+    "imdb": "tt3629050",
+    "tmdb": 613652
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

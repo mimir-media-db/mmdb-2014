@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lebanon_emotion_2014",
+  "title": "Lebanon Emotion",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20945888",
+    "imdb": "tt2894410",
+    "tmdb": 199285
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-27"
+}

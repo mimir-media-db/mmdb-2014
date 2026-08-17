@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_one_i_wrote_for_you_2014",
+  "title": "The One I Wrote for You",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114267625",
+    "imdb": "tt2518370",
+    "tmdb": 303179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 110
+}

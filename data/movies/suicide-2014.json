@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_suicide_2014",
+  "title": "Suicide",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51906340",
+    "imdb": "tt3714804",
+    "tmdb": 404531
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 113
+}

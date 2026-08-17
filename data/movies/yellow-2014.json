@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yellow_2014",
+  "title": "Yellow",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16255362",
+    "imdb": "tt3651028",
+    "tmdb": 318653
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-04"
+}

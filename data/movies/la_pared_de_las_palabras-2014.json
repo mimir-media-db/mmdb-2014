@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_pared_de_las_palabras_2014",
+  "title": "La pared de las palabras",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q112309672",
+    "imdb": "tt4705052",
+    "tmdb": 331892
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-09",
+  "runtime_minutes": 90
+}

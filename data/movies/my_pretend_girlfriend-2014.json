@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_pretend_girlfriend_2014",
+  "title": "My Pretend Girlfriend",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17052238",
+    "imdb": "tt2928288",
+    "tmdb": 303224
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-10"
+}

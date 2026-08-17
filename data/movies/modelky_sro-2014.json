@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_modelky_sro_2014",
+  "title": "Modelky s.r.o.",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q104896834",
+    "imdb": "tt3212706",
+    "tmdb": 390778
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 105
+}

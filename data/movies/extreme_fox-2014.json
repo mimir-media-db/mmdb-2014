@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_extreme_fox_2014",
+  "title": "The Extreme Fox",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21203452",
+    "imdb": "tt7494060",
+    "tmdb": 282156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-14"
+}

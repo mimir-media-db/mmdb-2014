@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_adventures_of_gustavas_2014",
+  "title": "Adventures of Gustavas",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20504313",
+    "imdb": "tt3732474",
+    "tmdb": 277188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

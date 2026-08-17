@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fools_day_2014",
+  "title": "Fool's Day",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110443651",
+    "imdb": "tt4422290",
+    "tmdb": 302462
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-11-13",
+  "runtime_minutes": 90
+}

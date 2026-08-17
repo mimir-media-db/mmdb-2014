@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pact_2_2014",
+  "title": "The Pact 2",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18611426",
+    "imdb": "tt2924442",
+    "tmdb": 228358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-05",
+  "runtime_minutes": 94
+}

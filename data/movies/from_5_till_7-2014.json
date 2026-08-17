@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_from_5_till_7_2014",
+  "title": "From 5 Till 7",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28666988",
+    "imdb": "tt4214558",
+    "tmdb": 427751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 107
+}

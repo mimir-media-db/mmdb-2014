@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_act_of_killing_2014",
+  "title": "The Act of Killing",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7712287",
+    "imdb": "tt2375605",
+    "tmdb": 123678
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-15",
+  "runtime_minutes": 159
+}

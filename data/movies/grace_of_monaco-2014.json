@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grace_of_monaco_2014",
+  "title": "Grace of Monaco",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q137098",
+    "imdb": "tt2095649",
+    "tmdb": 215211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-14",
+  "runtime_minutes": 103
+}

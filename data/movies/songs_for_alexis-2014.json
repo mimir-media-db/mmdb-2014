@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_songs_for_alexis_2014",
+  "title": "Songs for Alexis",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20496499",
+    "imdb": "tt3486134",
+    "tmdb": 296015
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 74
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_maurice_2014",
+  "title": "Maurice",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60845154",
+    "imdb": "tt3826200",
+    "tmdb": 407522
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 14
+}

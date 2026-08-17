@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_scandalo_in_sala_la_sfida_tra_potere_e_cinema_in_italia_2014",
+  "title": "Scandalo in sala. La sfida tra Potere e Cinema in Italia",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20804216",
+    "imdb": "tt4795852"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 100
+}

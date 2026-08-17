@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_nativity_2014",
+  "title": "Black Nativity",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13580958",
+    "imdb": "tt1425922",
+    "tmdb": 175541
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-05",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_supermensch_the_legend_of_shep_gordon_2014",
+  "title": "Supermensch: The Legend of Shep Gordon",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14931559",
+    "imdb": "tt3074780",
+    "tmdb": 209416
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-18",
+  "runtime_minutes": 84
+}

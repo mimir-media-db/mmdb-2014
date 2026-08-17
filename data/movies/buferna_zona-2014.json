@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_buferna_zona_2014",
+  "title": "Buferna zona",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21648900",
+    "imdb": "tt4211022",
+    "tmdb": 337189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 122
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_diaoyu_islands_the_truth_2014",
+  "title": "Diaoyu Islands - The Truth",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20814498",
+    "imdb": "tt3231886",
+    "tmdb": 269761
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-11"
+}

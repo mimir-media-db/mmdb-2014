@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yank_2014",
+  "title": "The Yank",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672479",
+    "imdb": "tt2189978",
+    "tmdb": 294794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

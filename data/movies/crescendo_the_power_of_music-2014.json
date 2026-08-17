@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crescendo_the_power_of_music_2014",
+  "title": "Crescendo! The Power of Music",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123537589",
+    "imdb": "tt3909442",
+    "tmdb": 326132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 85
+}

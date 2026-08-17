@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rescuing_santa_2014",
+  "title": "Rescuing Santa",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110671126",
+    "imdb": "tt4295072",
+    "tmdb": 494746
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-18",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dzej_dzej_2014",
+  "title": "Dzej Dzej",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16542653",
+    "imdb": "tt3139754",
+    "tmdb": 302041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-30",
+  "runtime_minutes": 85
+}

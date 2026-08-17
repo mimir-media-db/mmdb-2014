@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dancing_with_maria_2014",
+  "title": "Dancing with Maria",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22084333",
+    "imdb": "tt3984304",
+    "tmdb": 292369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 72
+}

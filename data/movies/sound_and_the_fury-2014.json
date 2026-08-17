@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sound_and_the_fury_2014",
+  "title": "The Sound and the Fury",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17028740",
+    "imdb": "tt3026144",
+    "tmdb": 287636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-05",
+  "runtime_minutes": 101
+}

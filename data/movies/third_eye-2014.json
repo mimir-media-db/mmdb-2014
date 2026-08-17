@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_third_eye_2014",
+  "title": "Third Eye",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17061234",
+    "imdb": "tt3561818",
+    "tmdb": 283262
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-26",
+  "runtime_minutes": 90
+}

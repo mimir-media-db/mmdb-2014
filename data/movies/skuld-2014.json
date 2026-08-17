@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_skuld_2014",
+  "title": "Skuld",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73483513",
+    "imdb": "tt4344456",
+    "tmdb": 352111
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 29
+}

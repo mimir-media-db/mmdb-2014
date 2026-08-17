@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_holidays_in_the_sun_2014",
+  "title": "Holidays in the Sun",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16083347",
+    "imdb": "tt3188768",
+    "tmdb": 269576
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-03",
+  "runtime_minutes": 94
+}

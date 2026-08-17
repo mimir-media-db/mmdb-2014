@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_internal_damnation_8_2014",
+  "title": "Internal Damnation 8",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140310203",
+    "imdb": "tt3985742",
+    "tmdb": 474664
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-16",
+  "runtime_minutes": 167
+}

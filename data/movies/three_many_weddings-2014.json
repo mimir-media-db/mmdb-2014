@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_three_many_weddings_2014",
+  "title": "Three Many Weddings",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16482113",
+    "imdb": "tt2418440",
+    "tmdb": 201765
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-06",
+  "runtime_minutes": 94
+}

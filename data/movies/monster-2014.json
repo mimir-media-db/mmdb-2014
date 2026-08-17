@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monster_2014",
+  "title": "Monster",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15982937",
+    "imdb": "tt3589450",
+    "tmdb": 259129
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-13",
+  "runtime_minutes": 113
+}

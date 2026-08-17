@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_oculus_2014",
+  "title": "Oculus",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3349019",
+    "imdb": "tt2388715",
+    "tmdb": 157547
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-11",
+  "runtime_minutes": 104
+}

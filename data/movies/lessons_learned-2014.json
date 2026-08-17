@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lessons_learned_2014",
+  "title": "Lessons Learned",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22350774",
+    "imdb": "tt3518082",
+    "tmdb": 285271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-01",
+  "runtime_minutes": 16
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_haunted_state_whispers_from_history_past_2014",
+  "title": "Haunted State: Whispers From History Past",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30049974",
+    "imdb": "tt3706960",
+    "tmdb": 637700
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

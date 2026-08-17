@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_your_beauty_is_worth_nothing_2014",
+  "title": "Your Beauty Is Worth Nothing",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6078777",
+    "imdb": "tt2325625",
+    "tmdb": 157980
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-03",
+  "runtime_minutes": 86
+}

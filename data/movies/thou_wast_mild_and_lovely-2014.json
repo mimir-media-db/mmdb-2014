@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thou_wast_mild_and_lovely_2014",
+  "title": "Thou Wast Mild and Lovely",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170520",
+    "imdb": "tt2481276",
+    "tmdb": 255073
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-07",
+  "runtime_minutes": 76
+}

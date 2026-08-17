@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_estas_alturas_de_la_vida_2014",
+  "title": "A estas alturas de la vida",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20962220",
+    "imdb": "tt2631596",
+    "tmdb": 398813
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 78
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_im_a_stripper_too_2014",
+  "title": "I'm a Stripper Too",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118607970",
+    "imdb": "tt3064476",
+    "tmdb": 304957
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

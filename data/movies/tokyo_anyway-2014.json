@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tokyo_anyway_2014",
+  "title": "Tokyo anyway",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20004239",
+    "imdb": "tt2330472",
+    "tmdb": 1222776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

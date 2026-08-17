@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sauacker_2014",
+  "title": "Sauacker",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19308503",
+    "imdb": "tt4212836",
+    "tmdb": 278627
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-26",
+  "runtime_minutes": 81
+}

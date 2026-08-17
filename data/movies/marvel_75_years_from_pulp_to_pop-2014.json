@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marvel_75_years_from_pulp_to_pop_2014",
+  "title": "Marvel 75 Years: From Pulp to Pop!",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q101129499",
+    "imdb": "tt4128102",
+    "tmdb": 299969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 42
+}

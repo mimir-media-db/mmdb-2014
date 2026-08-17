@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_it_takes_two_to_fence_2014",
+  "title": "It Takes Two to Fence",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44871536",
+    "imdb": "tt3392998",
+    "tmdb": 378869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-26",
+  "runtime_minutes": 84
+}

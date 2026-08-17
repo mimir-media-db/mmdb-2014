@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_s_8_marta_muzhchiny_2014",
+  "title": "S 8 marta, muzhchiny!",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18399550",
+    "imdb": "tt3748186",
+    "tmdb": 268959
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-06",
+  "runtime_minutes": 95
+}

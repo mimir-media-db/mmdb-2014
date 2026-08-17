@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_antonio_vega_tu_voz_entre_otras_mil_2014",
+  "title": "Antonio Vega. Tu voz entre otras mil",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98152810",
+    "imdb": "tt2359415",
+    "tmdb": 247188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-10",
+  "runtime_minutes": 125
+}

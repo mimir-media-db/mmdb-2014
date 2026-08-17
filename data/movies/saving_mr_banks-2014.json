@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_saving_mr_banks_2014",
+  "title": "Saving Mr. Banks",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3474574",
+    "imdb": "tt2140373",
+    "tmdb": 140823
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-30",
+  "runtime_minutes": 125
+}

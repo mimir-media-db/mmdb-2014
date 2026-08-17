@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everybody_sometimes_falls_2014",
+  "title": "Everybody Sometimes Falls",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15851748",
+    "imdb": "tt2187161",
+    "tmdb": 154996
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-15",
+  "runtime_minutes": 98
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_rama_madhav_2014",
+  "title": "Rama Madhav",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28407796",
+    "imdb": "tt3903480",
+    "tmdb": 304744
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-08"
+}

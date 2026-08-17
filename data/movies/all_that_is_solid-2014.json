@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_all_that_is_solid_2014",
+  "title": "All That Is Solid",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61819006"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 15
+}

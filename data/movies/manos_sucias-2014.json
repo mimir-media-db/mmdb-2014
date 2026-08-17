@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_manos_sucias_2014",
+  "title": "Manos sucias",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52063205",
+    "imdb": "tt3062414",
+    "tmdb": 261033
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 84
+}

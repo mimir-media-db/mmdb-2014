@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hantu_pohon_boneka_2014",
+  "title": "Hantu Pohon Boneka",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19726233",
+    "imdb": "tt11472838",
+    "tmdb": 525371
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

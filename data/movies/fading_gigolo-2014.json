@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fading_gigolo_2014",
+  "title": "Fading Gigolo",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5429259",
+    "imdb": "tt2258345",
+    "tmdb": 214030
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-24",
+  "runtime_minutes": 90
+}

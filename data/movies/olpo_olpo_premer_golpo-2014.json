@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_olpo_olpo_premer_golpo_2014",
+  "title": "Olpo Olpo Premer Golpo",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26772250",
+    "imdb": "tt3956192",
+    "tmdb": 537290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

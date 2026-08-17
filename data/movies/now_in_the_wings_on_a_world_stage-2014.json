@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_now_in_the_wings_on_a_world_stage_2014",
+  "title": "NOW: In the Wings on a World Stage",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58197768",
+    "imdb": "tt3608848",
+    "tmdb": 267433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 93
+}

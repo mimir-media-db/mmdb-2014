@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_breakup_artist_2014",
+  "title": "The Break-Up Artist",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19646442",
+    "imdb": "tt2210607",
+    "tmdb": 464646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

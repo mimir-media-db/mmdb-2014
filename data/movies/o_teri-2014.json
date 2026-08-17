@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_o_teri_2014",
+  "title": "O Teri",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15984655",
+    "imdb": "tt3483596",
+    "tmdb": 273166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-28"
+}

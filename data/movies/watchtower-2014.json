@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_watchtower_2014",
+  "title": "Watchtower",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6074228",
+    "imdb": "tt2191332",
+    "tmdb": 128244
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-17",
+  "runtime_minutes": 96
+}

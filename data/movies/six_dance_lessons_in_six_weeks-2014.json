@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_six_dance_lessons_in_six_weeks_2014",
+  "title": "Six Dance Lessons in Six Weeks",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30555787",
+    "imdb": "tt1670994",
+    "tmdb": 300904
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-12"
+}

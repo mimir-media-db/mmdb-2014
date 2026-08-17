@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_vita_oscena_2014",
+  "title": "La vita oscena",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21006583",
+    "imdb": "tt3438720",
+    "tmdb": 289223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_enchanted_doll_2014",
+  "title": "Enchanted Doll",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17001117",
+    "imdb": "tt26250100",
+    "tmdb": 365963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-07",
+  "runtime_minutes": 88
+}

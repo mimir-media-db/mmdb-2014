@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_midsummer_nights_tango_2014",
+  "title": "Midsummer Night's Tango",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19844973",
+    "imdb": "tt2705574",
+    "tmdb": 250129
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-13",
+  "runtime_minutes": 82
+}

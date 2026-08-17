@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_flowers_of_taipei_taiwan_new_cinema_2014",
+  "title": "Flowers of Taipei - Taiwan New Cinema",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61726935",
+    "imdb": "tt4510892",
+    "tmdb": 310799
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-03",
+  "runtime_minutes": 109
+}

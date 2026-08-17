@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_45th_parallel_2014",
+  "title": "45th Parallel",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16886562",
+    "imdb": "tt3342768",
+    "tmdb": 234570
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-27",
+  "runtime_minutes": 90
+}

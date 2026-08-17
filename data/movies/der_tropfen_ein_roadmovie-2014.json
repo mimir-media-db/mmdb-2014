@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_der_tropfen_ein_roadmovie_2014",
+  "title": "Der Tropfen – Ein Roadmovie",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q49486127",
+    "imdb": "tt3310064",
+    "tmdb": 258029
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-06"
+}

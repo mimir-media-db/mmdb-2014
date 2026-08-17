@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_planets_of_the_apes_2014",
+  "title": "The Planets of the Apes",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139573775",
+    "imdb": "tt13980940"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-21",
+  "runtime_minutes": 72
+}

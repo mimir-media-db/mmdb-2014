@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_amar_must_die_2014",
+  "title": "Amar Must Die",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17150267",
+    "imdb": "tt3219554",
+    "tmdb": 522564
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-15"
+}

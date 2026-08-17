@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_prince_avalanche_2014",
+  "title": "Prince Avalanche",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3608281",
+    "imdb": "tt2195548",
+    "tmdb": 113148
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-27",
+  "runtime_minutes": 94
+}

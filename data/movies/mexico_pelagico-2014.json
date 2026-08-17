@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mexico_pelagico_2014",
+  "title": "Mexico Pelagico",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19961348",
+    "imdb": "tt4177054"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

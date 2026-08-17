@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gulyabani_2014",
+  "title": "Gulyabani",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17450810",
+    "imdb": "tt4048674",
+    "tmdb": 361411
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-28",
+  "runtime_minutes": 86
+}

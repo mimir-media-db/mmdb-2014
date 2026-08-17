@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_make_me_shudder_2_shudder_me_mae_nak_2014",
+  "title": "Make Me Shudder 2: Shudder Me Mae Nak",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q120688119",
+    "imdb": "tt3612432",
+    "tmdb": 316745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-10",
+  "runtime_minutes": 119
+}

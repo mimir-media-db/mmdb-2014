@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_like_someone_in_love_2014",
+  "title": "Like Someone in Love",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1059733",
+    "imdb": "tt1843287",
+    "tmdb": 102001
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-27",
+  "runtime_minutes": 109
+}

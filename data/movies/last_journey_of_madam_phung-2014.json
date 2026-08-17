@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_journey_of_madam_phung_2014",
+  "title": "The Last Journey of Madam Phung",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20025376",
+    "imdb": "tt3596306",
+    "tmdb": 300389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-24",
+  "runtime_minutes": 86
+}

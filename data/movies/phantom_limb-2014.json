@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_phantom_limb_2014",
+  "title": "Phantom Limb",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17990861",
+    "imdb": "tt3409872",
+    "tmdb": 590214
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-27"
+}

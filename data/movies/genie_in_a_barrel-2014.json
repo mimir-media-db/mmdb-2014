@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_genie_in_a_barrel_2014",
+  "title": "Genie in a Barrel",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q136148046",
+    "tmdb": 1503390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-22",
+  "runtime_minutes": 12
+}

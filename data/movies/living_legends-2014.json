@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_living_legends_2014",
+  "title": "Living Legends",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18611400",
+    "imdb": "tt3316384",
+    "tmdb": 344113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-14"
+}

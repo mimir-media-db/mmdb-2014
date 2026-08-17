@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sunstroke_2014",
+  "title": "Sunstroke",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4427861",
+    "imdb": "tt4119030",
+    "tmdb": 301016
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-03",
+  "runtime_minutes": 180
+}

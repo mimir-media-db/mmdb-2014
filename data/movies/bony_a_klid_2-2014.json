@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bony_a_klid_2_2014",
+  "title": "Bony a klid 2",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15905872",
+    "imdb": "tt3261884",
+    "tmdb": 294660
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-22",
+  "runtime_minutes": 90
+}

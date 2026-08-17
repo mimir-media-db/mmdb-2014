@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_killing_time_2014",
+  "title": "Killing Time",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15733607",
+    "imdb": "tt2354139",
+    "tmdb": 138722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-20",
+  "runtime_minutes": 107
+}

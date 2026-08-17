@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_invention_of_love_2014",
+  "title": "The Invention of Love",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25583402",
+    "imdb": "tt1664640",
+    "tmdb": 240931
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-01"
+}

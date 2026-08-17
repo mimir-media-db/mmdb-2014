@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_viy_2014",
+  "title": "Viy",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4110928",
+    "imdb": "tt1224378",
+    "tmdb": 208763
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-30",
+  "runtime_minutes": 128
+}

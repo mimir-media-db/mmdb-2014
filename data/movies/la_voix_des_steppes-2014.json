@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_voix_des_steppes_2014",
+  "title": "La voix des steppes",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65251104",
+    "imdb": "tt3401438",
+    "tmdb": 613621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-13",
+  "runtime_minutes": 93
+}

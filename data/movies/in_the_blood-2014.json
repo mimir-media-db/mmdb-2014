@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_in_the_blood_2014",
+  "title": "In the Blood",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3149710",
+    "imdb": "tt2101570",
+    "tmdb": 256474
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-04",
+  "runtime_minutes": 90
+}

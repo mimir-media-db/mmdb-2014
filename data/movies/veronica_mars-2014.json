@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_veronica_mars_2014",
+  "title": "Veronica Mars",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13561018",
+    "imdb": "tt2771372",
+    "tmdb": 177494
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-08",
+  "runtime_minutes": 107
+}

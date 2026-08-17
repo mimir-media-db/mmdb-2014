@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beckys_journey_2014",
+  "title": "Becky's Journey",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33527117",
+    "imdb": "tt4317354",
+    "tmdb": 484697
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 24
+}

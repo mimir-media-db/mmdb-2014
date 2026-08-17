@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dangerous_game_2014",
+  "title": "A Dangerous Game",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21869276",
+    "imdb": "tt3714626",
+    "tmdb": 267831
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

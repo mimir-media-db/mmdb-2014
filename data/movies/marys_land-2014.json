@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marys_land_2014",
+  "title": "Mary's Land",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18431905",
+    "imdb": "tt3346766",
+    "tmdb": 238710
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-01",
+  "runtime_minutes": 116
+}

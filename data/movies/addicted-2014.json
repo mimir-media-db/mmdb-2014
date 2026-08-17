@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_addicted_2014",
+  "title": "Addicted",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16158068",
+    "imdb": "tt2205401",
+    "tmdb": 235271
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-10"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_karar_the_deal_2014",
+  "title": "Karar: The Deal",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19892525",
+    "imdb": "tt3565354",
+    "tmdb": 324344
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-21"
+}

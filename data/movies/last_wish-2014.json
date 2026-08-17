@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_wish_2014",
+  "title": "The Last Wish",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20000959",
+    "imdb": "tt2988978",
+    "tmdb": 423049
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-21",
+  "runtime_minutes": 90
+}

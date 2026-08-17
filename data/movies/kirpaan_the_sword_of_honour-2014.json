@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kirpaan_the_sword_of_honour_2014",
+  "title": "Kirpaan: The Sword of Honour",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15983439",
+    "imdb": "tt3501924",
+    "tmdb": 254112
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-07"
+}

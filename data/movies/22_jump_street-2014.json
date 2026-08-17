@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_22_jump_street_2014",
+  "title": "22 Jump Street",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15040917",
+    "imdb": "tt2294449",
+    "tmdb": 187017
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-04",
+  "runtime_minutes": 112
+}

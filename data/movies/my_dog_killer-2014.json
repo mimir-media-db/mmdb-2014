@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_dog_killer_2014",
+  "title": "My Dog Killer",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12039458",
+    "imdb": "tt2654428",
+    "tmdb": 158947
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-20",
+  "runtime_minutes": 90
+}

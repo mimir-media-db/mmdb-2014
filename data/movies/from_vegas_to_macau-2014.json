@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_from_vegas_to_macau_2014",
+  "title": "From Vegas to Macau",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14948564",
+    "imdb": "tt3444184",
+    "tmdb": 252168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-30",
+  "runtime_minutes": 93
+}

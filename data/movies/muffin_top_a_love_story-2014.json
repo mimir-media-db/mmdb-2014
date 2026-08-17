@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_muffin_top_a_love_story_2014",
+  "title": "Muffin Top: A Love Story",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20800555",
+    "imdb": "tt2369600",
+    "tmdb": 301229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-11-01"
+}

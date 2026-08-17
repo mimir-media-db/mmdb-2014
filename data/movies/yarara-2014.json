@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yarara_2014",
+  "title": "Yarará",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20962304",
+    "imdb": "tt3225630",
+    "tmdb": 628889
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

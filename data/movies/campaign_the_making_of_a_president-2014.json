@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_campaign_the_making_of_a_president_2014",
+  "title": "The Campaign – The Making of a President",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106975884",
+    "imdb": "tt3506224",
+    "tmdb": 307113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

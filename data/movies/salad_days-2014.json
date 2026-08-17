@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_salad_days_2014",
+  "title": "Salad Days",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19844655",
+    "imdb": "tt3905662",
+    "tmdb": 328246
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-19",
+  "runtime_minutes": 103
+}

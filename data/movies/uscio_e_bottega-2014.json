@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_uscio_e_bottega_2014",
+  "title": "Uscio e bottega",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q102350774",
+    "imdb": "tt4552294",
+    "tmdb": 344673
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_second_coming_2014",
+  "title": "The Second Coming",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20970482",
+    "imdb": "tt2506386",
+    "tmdb": 299138
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

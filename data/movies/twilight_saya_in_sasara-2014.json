@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_twilight_saya_in_sasara_2014",
+  "title": "Twilight: Saya in Sasara",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51513252",
+    "imdb": "tt3684490",
+    "tmdb": 317221
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

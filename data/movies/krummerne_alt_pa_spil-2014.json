@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_krummerne_alt_pa_spil_2014",
+  "title": "Krummerne - alt på spil",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20496047",
+    "imdb": "tt4057482",
+    "tmdb": 316773
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-02",
+  "runtime_minutes": 85
+}

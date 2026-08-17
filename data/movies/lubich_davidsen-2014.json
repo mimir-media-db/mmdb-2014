@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lubich_davidsen_2014",
+  "title": "Lubich & Davidsen",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33548392",
+    "imdb": "tt3463256"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 5
+}

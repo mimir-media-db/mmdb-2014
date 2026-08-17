@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_resident_of_the_middle_floor_2014",
+  "title": "Resident of the Middle Floor",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20110383",
+    "imdb": "tt6217112",
+    "tmdb": 406324
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

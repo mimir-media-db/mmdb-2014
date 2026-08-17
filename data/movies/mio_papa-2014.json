@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mio_papa_2014",
+  "title": "Mio papà",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22936612",
+    "imdb": "tt3262112",
+    "tmdb": 306555
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 93
+}

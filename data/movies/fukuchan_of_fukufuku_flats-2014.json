@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fukuchan_of_fukufuku_flats_2014",
+  "title": "Fuku-chan of FukuFuku Flats",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18339123",
+    "imdb": "tt3280522",
+    "tmdb": 266508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-23",
+  "runtime_minutes": 110
+}

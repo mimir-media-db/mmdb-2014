@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_all_hell_breaks_loose_2014",
+  "title": "All Hell Breaks Loose",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124048933",
+    "imdb": "tt3901094",
+    "tmdb": 311156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-09",
+  "runtime_minutes": 92
+}

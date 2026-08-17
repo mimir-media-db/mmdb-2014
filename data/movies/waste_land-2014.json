@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_waste_land_2014",
+  "title": "Waste Land",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19905276",
+    "imdb": "tt2294939",
+    "tmdb": 284307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-06"
+}

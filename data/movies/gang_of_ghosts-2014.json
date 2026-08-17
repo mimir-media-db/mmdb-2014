@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gang_of_ghosts_2014",
+  "title": "Gang of Ghosts",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16248495",
+    "imdb": "tt3531604",
+    "tmdb": 260318
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-21",
+  "runtime_minutes": 128
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_invisible_boy_2014",
+  "title": "The Invisible Boy",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18288947",
+    "imdb": "tt3078296",
+    "tmdb": 303542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-01",
+  "runtime_minutes": 100
+}

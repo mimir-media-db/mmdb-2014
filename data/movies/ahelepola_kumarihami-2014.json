@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ahelepola_kumarihami_2014",
+  "title": "Ahelepola Kumarihami",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30600370",
+    "imdb": "tt3471388",
+    "tmdb": 936620
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-01"
+}

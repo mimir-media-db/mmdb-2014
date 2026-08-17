@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hotori_no_sakuko_2014",
+  "title": "Hotori No Sakuko",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22000076",
+    "imdb": "tt3254548",
+    "tmdb": 228941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-18",
+  "runtime_minutes": 125
+}

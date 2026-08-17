@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mandya_to_mumbai_2014",
+  "title": "Mandya to Mumbai",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17299872",
+    "imdb": "tt3878830"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-01"
+}

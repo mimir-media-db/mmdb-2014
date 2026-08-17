@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fatat_el_masnaa_2014",
+  "title": "Fatat El Masnaa",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15987635",
+    "imdb": "tt3182596",
+    "tmdb": 289039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-19",
+  "runtime_minutes": 90
+}

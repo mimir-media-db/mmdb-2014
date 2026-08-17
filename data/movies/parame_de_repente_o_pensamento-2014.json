@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_parame_de_repente_o_pensamento_2014",
+  "title": "Pára-me de repente o pensamento",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22000339",
+    "imdb": "tt4229308",
+    "tmdb": 337643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 101
+}

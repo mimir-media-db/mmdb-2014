@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_istanbul_united_2014",
+  "title": "Istanbul United",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47125967",
+    "imdb": "tt3672026",
+    "tmdb": 293469
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-12",
+  "runtime_minutes": 84
+}

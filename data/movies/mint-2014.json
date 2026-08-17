@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mint_2014",
+  "title": "Mint",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63874695",
+    "imdb": "tt4529400",
+    "tmdb": 904198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_begin_again_2014",
+  "title": "Begin Again",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2935739",
+    "imdb": "tt1980929",
+    "tmdb": 198277
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-24",
+  "runtime_minutes": 104
+}

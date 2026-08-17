@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brides_2014",
+  "title": "Brides",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15728366",
+    "imdb": "tt3502932",
+    "tmdb": 258470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-09",
+  "runtime_minutes": 94
+}

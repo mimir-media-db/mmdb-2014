@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tale_of_two_thieves_2014",
+  "title": "A Tale of Two Thieves",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115252362",
+    "imdb": "tt3501046",
+    "tmdb": 339339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 72
+}

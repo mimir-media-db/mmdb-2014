@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_famous_five_3_2014",
+  "title": "The Famous Five 3",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15811124",
+    "imdb": "tt3073378",
+    "tmdb": 249053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-16",
+  "runtime_minutes": 96
+}

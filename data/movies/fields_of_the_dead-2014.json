@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fields_of_the_dead_2014",
+  "title": "Fields of the Dead",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25441490",
+    "imdb": "tt3186838",
+    "tmdb": 254426
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

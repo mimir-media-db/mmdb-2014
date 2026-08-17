@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_les_invincibles_2014",
+  "title": "Les invincibles",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3231124",
+    "imdb": "tt2207090",
+    "tmdb": 204768
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-03"
+}

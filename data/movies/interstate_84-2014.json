@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_interstate_84_2014",
+  "title": "Interstate 84",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q90417523",
+    "imdb": "tt0264710",
+    "tmdb": 113609
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

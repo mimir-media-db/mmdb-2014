@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_szenario_2014",
+  "title": "Szenario",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19776435",
+    "imdb": "tt3456552",
+    "tmdb": 314651
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-11",
+  "runtime_minutes": 89
+}

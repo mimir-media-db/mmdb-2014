@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hollywood_on_the_dnieper_dreams_from_atlantis_2014",
+  "title": "Hollywood on the Dnieper. Dreams from Atlantis",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139575580",
+    "imdb": "tt6289546",
+    "tmdb": 770580
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-19",
+  "runtime_minutes": 89
+}

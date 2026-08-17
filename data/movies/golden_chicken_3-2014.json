@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_golden_chicken_3_2014",
+  "title": "Golden Chicken 3",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15642649",
+    "imdb": "tt3451660",
+    "tmdb": 254003
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-30",
+  "runtime_minutes": 100
+}

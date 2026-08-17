@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_future_shock_the_story_of_2000ad_2014",
+  "title": "Future Shock! The Story of 2000AD",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21527666",
+    "imdb": "tt2822584",
+    "tmdb": 291863
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 110
+}

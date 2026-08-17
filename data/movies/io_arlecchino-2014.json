@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_io_arlecchino_2014",
+  "title": "Io, Arlecchino",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25441508",
+    "imdb": "tt3170428",
+    "tmdb": 344175
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

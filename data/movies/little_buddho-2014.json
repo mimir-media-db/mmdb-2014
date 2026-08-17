@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_buddho_2014",
+  "title": "Little Buddho",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16084126",
+    "imdb": "tt2496972",
+    "tmdb": 296340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-22",
+  "runtime_minutes": 96
+}

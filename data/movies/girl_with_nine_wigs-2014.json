@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_with_nine_wigs_2014",
+  "title": "The Girl with Nine Wigs",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14544900",
+    "imdb": "tt2387806",
+    "tmdb": 170125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-10",
+  "runtime_minutes": 117
+}

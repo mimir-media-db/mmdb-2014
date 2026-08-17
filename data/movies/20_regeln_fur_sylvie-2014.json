@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_20_regeln_fur_sylvie_2014",
+  "title": "20 Regeln für Sylvie",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q121689591",
+    "imdb": "tt2967304",
+    "tmdb": 292151
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 94
+}

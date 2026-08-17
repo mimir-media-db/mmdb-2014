@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ajith_2014",
+  "title": "Ajith",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14948552",
+    "imdb": "tt3721272",
+    "tmdb": 323488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-09",
+  "runtime_minutes": 130
+}

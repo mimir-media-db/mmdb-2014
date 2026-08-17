@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_morgans_last_love_2014",
+  "title": "Mr. Morgan's Last Love",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6928990",
+    "imdb": "tt1838603",
+    "tmdb": 201749
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-13",
+  "runtime_minutes": 116
+}

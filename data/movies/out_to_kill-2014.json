@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_out_to_kill_2014",
+  "title": "Out to Kill",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20800575",
+    "imdb": "tt3122422",
+    "tmdb": 302132
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

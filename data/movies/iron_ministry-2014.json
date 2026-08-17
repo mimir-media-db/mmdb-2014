@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iron_ministry_2014",
+  "title": "The Iron Ministry",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61726953",
+    "imdb": "tt3907314",
+    "tmdb": 287179
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-14",
+  "runtime_minutes": 82
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_corbo_2014",
+  "title": "Corbo",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23058503",
+    "imdb": "tt3924798",
+    "tmdb": 285858
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-04",
+  "runtime_minutes": 119
+}

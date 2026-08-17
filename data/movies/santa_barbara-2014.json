@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_santa_barbara_2014",
+  "title": "Santa Barbara",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17318039",
+    "imdb": "tt4016152",
+    "tmdb": 302979
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-16"
+}

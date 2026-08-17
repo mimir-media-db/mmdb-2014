@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_amor_en_tiempos_de_selfies_2014",
+  "title": "Un amor en tiempos de selfies",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26058369",
+    "imdb": "tt4073582",
+    "tmdb": 325177
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 116
+}

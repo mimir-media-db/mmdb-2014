@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_compassion_in_action_2014",
+  "title": "Compassion in Action",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24905103",
+    "imdb": "tt3962058",
+    "tmdb": 320338
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

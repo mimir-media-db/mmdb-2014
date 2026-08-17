@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jimms_plan_2014",
+  "title": "Jimm's Plan",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20391080",
+    "imdb": "tt4452702",
+    "tmdb": 264247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 91
+}

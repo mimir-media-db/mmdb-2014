@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dallas_buyers_club_2014",
+  "title": "Dallas Buyers Club",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3520498",
+    "imdb": "tt0790636",
+    "tmdb": 152532
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-06",
+  "runtime_minutes": 117
+}

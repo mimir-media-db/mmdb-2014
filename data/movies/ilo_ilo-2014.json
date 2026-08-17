@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ilo_ilo_2014",
+  "title": "Ilo Ilo",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13423398",
+    "imdb": "tt2901736",
+    "tmdb": 188598
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-10",
+  "runtime_minutes": 99
+}

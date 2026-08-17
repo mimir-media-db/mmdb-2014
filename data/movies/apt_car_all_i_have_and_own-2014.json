@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_apt_car_all_i_have_and_own_2014",
+  "title": "Apt. + Car + All I Have and Own",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15965279",
+    "imdb": "tt3752680",
+    "tmdb": 442198
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-26",
+  "runtime_minutes": 48
+}

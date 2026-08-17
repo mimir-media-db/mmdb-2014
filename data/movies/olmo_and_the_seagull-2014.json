@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_olmo_and_the_seagull_2014",
+  "title": "Olmo and The Seagull",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20756984",
+    "imdb": "tt4160256",
+    "tmdb": 304030
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 87
+}

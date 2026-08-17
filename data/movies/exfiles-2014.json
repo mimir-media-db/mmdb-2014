@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_exfiles_2014",
+  "title": "Ex-Files",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16266569",
+    "imdb": "tt3579688",
+    "tmdb": 275579
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-31"
+}

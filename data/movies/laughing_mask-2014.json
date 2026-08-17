@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_laughing_mask_2014",
+  "title": "The Laughing Mask",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23797167",
+    "imdb": "tt2566016",
+    "tmdb": 417707
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

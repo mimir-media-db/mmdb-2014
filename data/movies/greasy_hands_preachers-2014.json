@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_greasy_hands_preachers_2014",
+  "title": "The Greasy Hands Preachers",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26810486",
+    "imdb": "tt4027210",
+    "tmdb": 333315
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 92
+}

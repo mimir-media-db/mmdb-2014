@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tussen_10_en_12_2014",
+  "title": "Tussen 10 en 12",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61726948",
+    "imdb": "tt3547782",
+    "tmdb": 292390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-02",
+  "runtime_minutes": 71
+}

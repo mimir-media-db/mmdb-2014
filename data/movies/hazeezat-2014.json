@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hazeezat_2014",
+  "title": "Hazeezat",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28101379",
+    "imdb": "tt8346590",
+    "tmdb": 515727
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-01",
+  "runtime_minutes": 130
+}

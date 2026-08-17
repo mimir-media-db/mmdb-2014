@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_mrs_420_2014",
+  "title": "Mr & Mrs 420",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17074841",
+    "imdb": "tt4038978",
+    "tmdb": 258976
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-14"
+}

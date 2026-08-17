@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inside_llewyn_davis_2014",
+  "title": "Inside Llewyn Davis",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2340655",
+    "imdb": "tt2042568",
+    "tmdb": 86829
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-15",
+  "runtime_minutes": 105
+}

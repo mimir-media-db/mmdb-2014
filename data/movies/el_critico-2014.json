@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_critico_2014",
+  "title": "El Crítico",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111672646",
+    "imdb": "tt2249278",
+    "tmdb": 268297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

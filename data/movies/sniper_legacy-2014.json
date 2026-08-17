@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sniper_legacy_2014",
+  "title": "Sniper: Legacy",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170441",
+    "imdb": "tt3776288",
+    "tmdb": 290729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-30",
+  "runtime_minutes": 98
+}

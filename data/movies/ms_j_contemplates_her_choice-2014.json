@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ms_j_contemplates_her_choice_2014",
+  "title": "Ms J Contemplates Her Choice",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60159877",
+    "imdb": "tt4330370",
+    "tmdb": 569954
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 88
+}

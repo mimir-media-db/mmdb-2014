@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wakasama_zamurai_torimonocho_shinya_no_shibijin_2014",
+  "title": "Wakasama Zamurai Torimonocho Shinya no Shibijin",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22100656",
+    "imdb": "tt3958276",
+    "tmdb": 309028
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 119
+}

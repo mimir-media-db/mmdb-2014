@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pim_pom_the_big_adventure_2014",
+  "title": "Pim & Pom: The Big Adventure",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18088980",
+    "imdb": "tt2710884",
+    "tmdb": 253696
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-09",
+  "runtime_minutes": 70
+}

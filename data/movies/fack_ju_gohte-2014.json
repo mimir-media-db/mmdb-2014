@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fack_ju_gohte_2014",
+  "title": "Fack ju Göhte",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15268063",
+    "imdb": "tt2987732",
+    "tmdb": 233063
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-25",
+  "runtime_minutes": 118
+}

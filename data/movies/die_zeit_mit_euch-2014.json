@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_die_zeit_mit_euch_2014",
+  "title": "Die Zeit mit Euch",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30529504",
+    "imdb": "tt4214182",
+    "tmdb": 323136
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

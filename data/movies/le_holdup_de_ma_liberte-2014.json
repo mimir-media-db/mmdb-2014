@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_holdup_de_ma_liberte_2014",
+  "title": "Le hold-up de ma liberté",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65055395",
+    "imdb": "tt12271826"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 52
+}

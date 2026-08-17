@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_marmut_merah_jambu_2014",
+  "title": "Marmut Merah Jambu",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20427690",
+    "imdb": "tt5658714",
+    "tmdb": 268922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

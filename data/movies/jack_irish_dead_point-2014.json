@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jack_irish_dead_point_2014",
+  "title": "Jack Irish: Dead Point",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28501506",
+    "imdb": "tt2846378",
+    "tmdb": 264578
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

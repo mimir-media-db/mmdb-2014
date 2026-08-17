@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sister_game_2014",
+  "title": "Sister Game",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123741432",
+    "imdb": "tt3708102",
+    "tmdb": 283572
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

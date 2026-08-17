@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_farewell_to_fools_2014",
+  "title": "A Farewell to Fools",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16975699",
+    "imdb": "tt1634055",
+    "tmdb": 248401
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-15",
+  "runtime_minutes": 85
+}

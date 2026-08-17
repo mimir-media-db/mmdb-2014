@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_apothecary_2014",
+  "title": "Apothecary",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17049332",
+    "imdb": "tt3951566",
+    "tmdb": 278189
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-07"
+}

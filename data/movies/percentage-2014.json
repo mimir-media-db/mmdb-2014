@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_percentage_2014",
+  "title": "Percentage",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50986055",
+    "imdb": "tt2088869",
+    "tmdb": 203264
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 86
+}

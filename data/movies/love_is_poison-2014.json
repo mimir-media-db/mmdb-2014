@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_is_poison_2014",
+  "title": "Love is Poison",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672615",
+    "imdb": "tt14090374",
+    "tmdb": 1129969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-20"
+}

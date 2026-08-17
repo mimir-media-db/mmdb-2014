@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hum_hai_teen_khurafaati_2014",
+  "title": "Hum Hai Teen Khurafaati",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114676891",
+    "imdb": "tt7944502",
+    "tmdb": 712913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

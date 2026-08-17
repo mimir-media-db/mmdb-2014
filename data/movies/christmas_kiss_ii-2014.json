@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_christmas_kiss_ii_2014",
+  "title": "A Christmas Kiss II",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q124158982",
+    "imdb": "tt4280430",
+    "tmdb": 311093
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

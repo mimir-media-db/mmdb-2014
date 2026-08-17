@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chigasaki_story_2014",
+  "title": "Chigasaki Story",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24037212",
+    "imdb": "tt3882446",
+    "tmdb": 322870
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-09"
+}

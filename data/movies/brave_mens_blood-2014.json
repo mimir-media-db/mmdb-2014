@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_brave_mens_blood_2014",
+  "title": "Brave Men's Blood",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56323029",
+    "imdb": "tt3196174",
+    "tmdb": 298581
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-17",
+  "runtime_minutes": 96
+}

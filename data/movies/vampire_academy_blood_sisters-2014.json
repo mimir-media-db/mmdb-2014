@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vampire_academy_blood_sisters_2014",
+  "title": "Vampire Academy: Blood Sisters",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13217284",
+    "imdb": "tt1686821",
+    "tmdb": 203739
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-07",
+  "runtime_minutes": 105
+}

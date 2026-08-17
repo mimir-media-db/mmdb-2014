@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_venus_talk_2014",
+  "title": "Venus Talk",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15718857",
+    "imdb": "tt3923116",
+    "tmdb": 254012
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-13",
+  "runtime_minutes": 109
+}

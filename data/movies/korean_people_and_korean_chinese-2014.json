@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_korean_people_and_korean_chinese_2014",
+  "title": "Korean People and Korean Chinese",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93739276",
+    "tmdb": 416347
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-10"
+}

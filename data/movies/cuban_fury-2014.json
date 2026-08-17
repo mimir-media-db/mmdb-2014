@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cuban_fury_2014",
+  "title": "Cuban Fury",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16953139",
+    "imdb": "tt2390237",
+    "tmdb": 201086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-06",
+  "runtime_minutes": 98
+}

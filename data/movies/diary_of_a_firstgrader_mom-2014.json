@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_diary_of_a_firstgrader_mom_2014",
+  "title": "A Diary of a First-grader Mom",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q108055717",
+    "imdb": "tt10919020",
+    "tmdb": 309039
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-11-30",
+  "runtime_minutes": 75
+}

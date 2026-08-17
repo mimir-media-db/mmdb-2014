@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_expendables_3_2014",
+  "title": "The Expendables 3",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14370516",
+    "imdb": "tt2333784",
+    "tmdb": 138103
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-21",
+  "runtime_minutes": 126
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_filial_party_2014",
+  "title": "Filial Party",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22100598",
+    "imdb": "tt4076194",
+    "tmdb": 446507
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 110
+}

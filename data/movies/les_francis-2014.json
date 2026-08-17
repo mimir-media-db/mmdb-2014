@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_francis_2014",
+  "title": "Les Francis",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16655010",
+    "imdb": "tt3114432",
+    "tmdb": 279545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-23",
+  "runtime_minutes": 85
+}

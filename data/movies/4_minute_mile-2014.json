@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_4_minute_mile_2014",
+  "title": "4 Minute Mile",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17508481",
+    "imdb": "tt2217895",
+    "tmdb": 274820
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-05",
+  "runtime_minutes": 96
+}

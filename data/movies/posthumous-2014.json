@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_posthumous_2014",
+  "title": "Posthumous",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55630320",
+    "imdb": "tt2463154",
+    "tmdb": 296178
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-04"
+}

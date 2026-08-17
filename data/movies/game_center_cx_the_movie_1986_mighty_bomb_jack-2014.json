@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_game_center_cx_the_movie_1986_mighty_bomb_jack_2014",
+  "title": "Game Center CX The Movie 1986 Mighty Bomb Jack",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55530566",
+    "imdb": "tt3075398",
+    "tmdb": 233839
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-14"
+}

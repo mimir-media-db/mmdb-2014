@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_upside_down_2014",
+  "title": "Boy Upside Down",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23870245",
+    "imdb": "tt2421230",
+    "tmdb": 289183
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-29"
+}

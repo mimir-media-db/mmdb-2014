@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_rascals_save_the_day_2014",
+  "title": "The Little Rascals Save the Day",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252610",
+    "imdb": "tt2490004",
+    "tmdb": 260535
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-25",
+  "runtime_minutes": 98
+}

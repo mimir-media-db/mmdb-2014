@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_just_another_margin_2014",
+  "title": "Just Another Margin",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16271300",
+    "imdb": "tt6448172",
+    "tmdb": 283451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-02"
+}

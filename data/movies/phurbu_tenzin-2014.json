@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_phurbu_tenzin_2014",
+  "title": "Phurbu & Tenzin",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20002356",
+    "imdb": "tt5188452",
+    "tmdb": 989054
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

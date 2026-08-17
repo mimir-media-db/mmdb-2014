@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_10000_nights_nowhere_2014",
+  "title": "10,000 Nights Nowhere",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16938162",
+    "imdb": "tt1680303",
+    "tmdb": 234201
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-22",
+  "runtime_minutes": 113
+}

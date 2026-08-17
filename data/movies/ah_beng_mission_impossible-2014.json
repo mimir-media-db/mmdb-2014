@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ah_beng_mission_impossible_2014",
+  "title": "Ah Beng: Mission Impossible",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q133260496",
+    "imdb": "tt3540044",
+    "tmdb": 255826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

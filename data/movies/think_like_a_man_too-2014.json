@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_think_like_a_man_too_2014",
+  "title": "Think Like a Man Too",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13522857",
+    "imdb": "tt2239832",
+    "tmdb": 184098
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-20",
+  "runtime_minutes": 106
+}

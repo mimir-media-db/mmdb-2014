@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_private_violence_2014",
+  "title": "Private Violence",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17009821",
+    "imdb": "tt3382636",
+    "tmdb": 250667
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-19"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_making_the_rules_2014",
+  "title": "Making the Rules",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q118737227",
+    "imdb": "tt2287030",
+    "tmdb": 260109
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 78
+}

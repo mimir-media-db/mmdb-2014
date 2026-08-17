@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_aliens_on_the_moon_the_truth_exposed_2014",
+  "title": "Aliens on the Moon: The Truth Exposed",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50414185",
+    "imdb": "tt3797808",
+    "tmdb": 293006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 86
+}

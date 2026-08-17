@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_her_2014",
+  "title": "Her",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q788822",
+    "imdb": "tt1798709",
+    "tmdb": 152601
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-06",
+  "runtime_minutes": 126
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_super_nani_2014",
+  "title": "Super Nani",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170481",
+    "imdb": "tt2630076",
+    "tmdb": 299692
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-31"
+}

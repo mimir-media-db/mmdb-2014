@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tout_est_permis_2014",
+  "title": "Tout est permis",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114185557",
+    "imdb": "tt3329624",
+    "tmdb": 283722
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 96
+}

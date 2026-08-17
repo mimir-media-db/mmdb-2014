@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mala_mala_2014",
+  "title": "Mala Mala",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20077296",
+    "imdb": "tt3314958",
+    "tmdb": 264164
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

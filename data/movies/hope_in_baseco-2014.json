@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_hope_in_baseco_2014",
+  "title": "Hope in Baseco",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55729937",
+    "tmdb": 478574
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

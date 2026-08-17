@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gun_woman_2014",
+  "title": "Gun Woman",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17593340",
+    "imdb": "tt3141912",
+    "tmdb": 258750
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-28",
+  "runtime_minutes": 81
+}

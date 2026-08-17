@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_serial_teachers_2014",
+  "title": "Serial Teachers",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3234929",
+    "imdb": "tt2276778",
+    "tmdb": 182219
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-09"
+}

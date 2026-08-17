@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_glen_campbell_ill_be_me_2014",
+  "title": "Glen Campbell: I'll Be Me",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18611380",
+    "imdb": "tt2049586",
+    "tmdb": 285689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-18",
+  "runtime_minutes": 116
+}

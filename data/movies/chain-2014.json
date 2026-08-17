@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chain_2014",
+  "title": "The Chain",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117184183",
+    "imdb": "tt3646208",
+    "tmdb": 478855
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 120
+}

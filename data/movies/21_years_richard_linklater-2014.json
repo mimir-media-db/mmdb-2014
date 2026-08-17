@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_21_years_richard_linklater_2014",
+  "title": "21 Years: Richard Linklater",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106359142",
+    "imdb": "tt3657420",
+    "tmdb": 290304
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-11-07",
+  "runtime_minutes": 79
+}

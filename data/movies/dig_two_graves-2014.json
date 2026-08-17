@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dig_two_graves_2014",
+  "title": "Dig Two Graves",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29021064",
+    "imdb": "tt2633076",
+    "tmdb": 326420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-17",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_das_geheime_zimmer_2014",
+  "title": "Das geheime Zimmer",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1171178",
+    "imdb": "tt2377366",
+    "tmdb": 417509
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-10",
+  "runtime_minutes": 95
+}

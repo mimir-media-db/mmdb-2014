@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_i_live_now_2014",
+  "title": "How I Live Now",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14556951",
+    "imdb": "tt1894476",
+    "tmdb": 162215
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-27",
+  "runtime_minutes": 101
+}

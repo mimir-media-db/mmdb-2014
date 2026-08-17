@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_room_the_mystery_2014",
+  "title": "Room - The Mystery",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19895889",
+    "imdb": "tt4865622",
+    "tmdb": 351394
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-12"
+}

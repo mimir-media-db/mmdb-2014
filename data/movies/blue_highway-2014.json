@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blue_highway_2014",
+  "title": "Blue Highway",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15714961",
+    "imdb": "tt2732666",
+    "tmdb": 227986
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-07"
+}

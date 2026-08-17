@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_burma_2014",
+  "title": "Burma",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17512816",
+    "imdb": "tt3841400",
+    "tmdb": 292349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-12"
+}

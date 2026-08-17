@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_inspired_guns_2014",
+  "title": "Inspired Guns",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16157842",
+    "imdb": "tt2738706",
+    "tmdb": 268865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-24"
+}

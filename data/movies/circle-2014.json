@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_circle_2014",
+  "title": "Circle",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17277912",
+    "imdb": "tt2825894",
+    "tmdb": 298084
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-07"
+}

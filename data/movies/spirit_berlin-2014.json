@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spirit_berlin_2014",
+  "title": "Spirit Berlin",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47093277",
+    "imdb": "tt3825674",
+    "tmdb": 273458
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-12"
+}

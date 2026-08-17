@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_top_spin_2014",
+  "title": "Top Spin",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27957950",
+    "imdb": "tt4219836",
+    "tmdb": 331745
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-11-15",
+  "runtime_minutes": 80
+}

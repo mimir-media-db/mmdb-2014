@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_voice_of_sokurov_2014",
+  "title": "The Voice of Sokurov",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q110323690",
+    "imdb": "tt3284142",
+    "tmdb": 293485
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

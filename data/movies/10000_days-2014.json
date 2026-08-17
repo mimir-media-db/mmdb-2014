@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_10000_days_2014",
+  "title": "10,000 Days",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131376448",
+    "imdb": "tt3530690",
+    "tmdb": 293082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-11-23",
+  "runtime_minutes": 91
+}

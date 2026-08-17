@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_el_sueno_de_todos_2014",
+  "title": "El sueño de todos",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q100451464",
+    "imdb": "tt4494494",
+    "tmdb": 348127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

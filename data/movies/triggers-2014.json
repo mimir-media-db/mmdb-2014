@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_triggers_2014",
+  "title": "Triggers",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64015109",
+    "imdb": "tt3829566",
+    "tmdb": 294594
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

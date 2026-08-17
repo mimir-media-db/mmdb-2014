@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_voice_thief_2014",
+  "title": "The Voice Thief",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20972525",
+    "imdb": "tt2832784",
+    "tmdb": 252618
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 22
+}

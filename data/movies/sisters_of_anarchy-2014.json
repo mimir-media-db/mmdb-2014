@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sisters_of_anarchy_2014",
+  "title": "Sisters of Anarchy",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q66459547",
+    "imdb": "tt4168174",
+    "tmdb": 291978
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_grantham_rose_2014",
+  "title": "Grantham & Rose",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25999973",
+    "imdb": "tt2311948",
+    "tmdb": 238398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-23"
+}

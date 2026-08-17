@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_borosi_2014",
+  "title": "Borosi",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21646194",
+    "tmdb": 551868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-18"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_food_chain_2014",
+  "title": "Food Chain",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20444369",
+    "tmdb": 303193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-17"
+}

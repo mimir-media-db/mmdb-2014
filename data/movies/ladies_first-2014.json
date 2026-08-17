@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ladies_first_2014",
+  "title": "Ladies First",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q53673092",
+    "imdb": "tt3587050"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 86
+}

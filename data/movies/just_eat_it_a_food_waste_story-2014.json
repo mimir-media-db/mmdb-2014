@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_just_eat_it_a_food_waste_story_2014",
+  "title": "Just Eat It: A Food Waste Story",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117040055",
+    "imdb": "tt3597400",
+    "tmdb": 259985
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-27",
+  "runtime_minutes": 75
+}

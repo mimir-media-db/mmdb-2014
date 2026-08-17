@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_orphans_of_the_genocide_2014",
+  "title": "Orphans of the Genocide",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21500187",
+    "imdb": "tt8497740",
+    "tmdb": 821804
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

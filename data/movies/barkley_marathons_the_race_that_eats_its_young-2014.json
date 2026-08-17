@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barkley_marathons_the_race_that_eats_its_young_2014",
+  "title": "The Barkley Marathons: The Race That Eats Its Young",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50408723",
+    "imdb": "tt2400291",
+    "tmdb": 334495
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 89
+}

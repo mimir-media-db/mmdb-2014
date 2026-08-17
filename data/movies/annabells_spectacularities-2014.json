@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_annabells_spectacularities_2014",
+  "title": "Annabell's Spectacularities",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17448098",
+    "imdb": "tt4015202",
+    "tmdb": 320609
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-05",
+  "runtime_minutes": 75
+}

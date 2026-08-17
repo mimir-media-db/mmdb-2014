@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_retratos_de_una_busqueda_2014",
+  "title": "Retratos de una Búsqueda",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20962287",
+    "imdb": "tt4103078",
+    "tmdb": 295471
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 74
+}

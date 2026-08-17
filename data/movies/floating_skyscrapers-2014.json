@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_floating_skyscrapers_2014",
+  "title": "Floating Skyscrapers",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16199545",
+    "imdb": "tt2776106",
+    "tmdb": 174372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-26",
+  "runtime_minutes": 93
+}

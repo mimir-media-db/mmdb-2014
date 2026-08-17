@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coherence_2014",
+  "title": "Coherence",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17150929",
+    "imdb": "tt2866360",
+    "tmdb": 220289
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-20",
+  "runtime_minutes": 87
+}

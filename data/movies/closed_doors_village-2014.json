@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_closed_doors_village_2014",
+  "title": "Closed Doors Village",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17150909",
+    "imdb": "tt6448284",
+    "tmdb": 1012610
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-27"
+}

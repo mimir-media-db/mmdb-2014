@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_suzanne_2014",
+  "title": "Suzanne",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13553881",
+    "imdb": "tt2298416",
+    "tmdb": 190853
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-19",
+  "runtime_minutes": 94
+}

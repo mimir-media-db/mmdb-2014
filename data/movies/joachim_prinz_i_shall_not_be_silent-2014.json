@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_joachim_prinz_i_shall_not_be_silent_2014",
+  "title": "Joachim Prinz: I Shall Not Be Silent",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q132643454",
+    "imdb": "tt2782050",
+    "tmdb": 1033042
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 50
+}

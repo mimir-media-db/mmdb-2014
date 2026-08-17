@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hrid_majharey_2014",
+  "title": "Hrid Majharey",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15072361",
+    "imdb": "tt3867556",
+    "tmdb": 434109
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-11"
+}

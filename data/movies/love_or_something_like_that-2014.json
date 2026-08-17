@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_or_something_like_that_2014",
+  "title": "Love or Something Like That",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28114637",
+    "imdb": "tt8595894",
+    "tmdb": 589657
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-11-28"
+}

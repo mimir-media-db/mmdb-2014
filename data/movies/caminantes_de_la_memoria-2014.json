@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_caminantes_de_la_memoria_2014",
+  "title": "Caminantes de la memoria",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123419338",
+    "imdb": "tt3838876",
+    "tmdb": 1030359
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

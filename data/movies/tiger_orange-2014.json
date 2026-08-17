@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tiger_orange_2014",
+  "title": "Tiger Orange",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20800641",
+    "imdb": "tt2866824",
+    "tmdb": 294086
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

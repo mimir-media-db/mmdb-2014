@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monuments_men_2014",
+  "title": "Monuments Men",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4407383",
+    "imdb": "tt2177771",
+    "tmdb": 152760
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-07",
+  "runtime_minutes": 118
+}

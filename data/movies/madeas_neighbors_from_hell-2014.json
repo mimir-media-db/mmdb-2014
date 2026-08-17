@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_madeas_neighbors_from_hell_2014",
+  "title": "Madea's Neighbors from Hell",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18915096",
+    "imdb": "tt3685836",
+    "tmdb": 266405
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-22"
+}

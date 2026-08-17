@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_sweet_pepperland_2014",
+  "title": "My Sweet Pepperland",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12902828",
+    "imdb": "tt2875926",
+    "tmdb": 188765
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-27",
+  "runtime_minutes": 100
+}

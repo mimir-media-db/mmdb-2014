@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mudbloods_2014",
+  "title": "Mudbloods",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21086440",
+    "imdb": "tt3272018",
+    "tmdb": 270380
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

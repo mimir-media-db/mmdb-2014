@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lingaa_2014",
+  "title": "Lingaa",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17068890",
+    "imdb": "tt4020624",
+    "tmdb": 300425
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-12",
+  "runtime_minutes": 174
+}

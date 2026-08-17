@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hannas_journey_2014",
+  "title": "Hanna's Journey",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15819219",
+    "imdb": "tt2429414",
+    "tmdb": 239619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-23",
+  "runtime_minutes": 100
+}

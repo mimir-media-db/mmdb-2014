@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sex_appeal_2014",
+  "title": "(Sex) Appeal",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18226322",
+    "imdb": "tt4024410",
+    "tmdb": 296125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-10",
+  "runtime_minutes": 110
+}

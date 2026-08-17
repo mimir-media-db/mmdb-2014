@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_3600_seconds_2014",
+  "title": "3600 Seconds",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19723602",
+    "imdb": "tt4472678",
+    "tmdb": 388168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

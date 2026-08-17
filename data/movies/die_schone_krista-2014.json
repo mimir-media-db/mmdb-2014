@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_die_schone_krista_2014",
+  "title": "Die schöne Krista",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25379679",
+    "imdb": "tt9754028",
+    "tmdb": 567637
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-20"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_au_bord_de_la_riviere_2014",
+  "title": "Au bord de la rivière",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q52392330",
+    "imdb": "tt4129064",
+    "tmdb": 758339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 3
+}

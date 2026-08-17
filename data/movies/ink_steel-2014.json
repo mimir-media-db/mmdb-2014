@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ink_steel_2014",
+  "title": "Ink & Steel",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65272301",
+    "imdb": "tt3243216",
+    "tmdb": 320418
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

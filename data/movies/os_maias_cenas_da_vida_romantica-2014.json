@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_os_maias_cenas_da_vida_romantica_2014",
+  "title": "Os Maias: Cenas da Vida Romântica",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17060472",
+    "imdb": "tt3230920",
+    "tmdb": 280636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-11",
+  "runtime_minutes": 135
+}

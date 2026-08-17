@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_match_2014",
+  "title": "Love Match",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19657227",
+    "imdb": "tt6082388",
+    "tmdb": 296711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-11"
+}

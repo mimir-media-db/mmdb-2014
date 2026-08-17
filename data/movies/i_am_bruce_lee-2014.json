@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_am_bruce_lee_2014",
+  "title": "I Am Bruce Lee",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5975936",
+    "imdb": "tt1954299",
+    "tmdb": 84383
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-27",
+  "runtime_minutes": 90
+}

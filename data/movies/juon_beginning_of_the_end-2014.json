@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_juon_beginning_of_the_end_2014",
+  "title": "Ju-on: Beginning of the End",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17050122",
+    "imdb": "tt3572132",
+    "tmdb": 259233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-28",
+  "runtime_minutes": 91
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ricky_rapper_and_slick_leonard_2014",
+  "title": "Ricky Rapper and slick Leonard",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18674916",
+    "imdb": "tt2956666",
+    "tmdb": 293313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-07",
+  "runtime_minutes": 77
+}

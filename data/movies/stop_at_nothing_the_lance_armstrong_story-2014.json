@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stop_at_nothing_the_lance_armstrong_story_2014",
+  "title": "Stop at Nothing: The Lance Armstrong Story",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q46962861",
+    "imdb": "tt3511812",
+    "tmdb": 273997
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 104
+}

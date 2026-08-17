@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_raspberry_boat_refugee_2014",
+  "title": "Raspberry Boat Refugee",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20064576",
+    "imdb": "tt2965842",
+    "tmdb": 293491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-03",
+  "runtime_minutes": 94
+}

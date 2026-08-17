@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_loitering_with_intent_2014",
+  "title": "Loitering with Intent",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17113384",
+    "imdb": "tt2390994",
+    "tmdb": 261823
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-18",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_rurouni_kenshin_kyoto_inferno_2014",
+  "title": "Rurouni Kenshin: Kyoto Inferno",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15284383",
+    "imdb": "tt3029558",
+    "tmdb": 221731
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-01",
+  "runtime_minutes": 139
+}

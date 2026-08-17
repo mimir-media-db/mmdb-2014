@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jack_ryan_shadow_recruit_2014",
+  "title": "Jack Ryan: Shadow Recruit",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q902672",
+    "imdb": "tt1205537",
+    "tmdb": 137094
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-15",
+  "runtime_minutes": 105
+}

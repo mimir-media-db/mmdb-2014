@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_diplomacy_2014",
+  "title": "Diplomacy",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15990773",
+    "imdb": "tt3129564",
+    "tmdb": 253239
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-28",
+  "runtime_minutes": 84
+}

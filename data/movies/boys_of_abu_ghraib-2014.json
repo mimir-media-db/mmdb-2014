@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boys_of_abu_ghraib_2014",
+  "title": "Boys of Abu Ghraib",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16248917",
+    "imdb": "tt1965162",
+    "tmdb": 256969
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-21",
+  "runtime_minutes": 102
+}

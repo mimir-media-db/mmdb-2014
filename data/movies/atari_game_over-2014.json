@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_atari_game_over_2014",
+  "title": "Atari: Game Over",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24521496",
+    "imdb": "tt3715406",
+    "tmdb": 284470
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-11-20",
+  "runtime_minutes": 66
+}

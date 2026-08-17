@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_frankenstein_2014",
+  "title": "I, Frankenstein",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2708907",
+    "imdb": "tt1418377",
+    "tmdb": 100241
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-20",
+  "runtime_minutes": 92
+}

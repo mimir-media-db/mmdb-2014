@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pornographer_2014",
+  "title": "The Pornographer",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139700739",
+    "imdb": "tt3799578",
+    "tmdb": 287427
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 111
+}

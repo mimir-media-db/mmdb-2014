@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dioses_y_perros_2014",
+  "title": "Dioses y perros",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30912794",
+    "imdb": "tt3185924",
+    "tmdb": 257938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-10"
+}

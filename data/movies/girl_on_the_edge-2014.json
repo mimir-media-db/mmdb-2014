@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_girl_on_the_edge_2014",
+  "title": "Girl on the Edge",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19610258",
+    "imdb": "tt3597448",
+    "tmdb": 336121
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

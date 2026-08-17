@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_looney_tunes_platinum_collection_volume_3_2014",
+  "title": "Looney Tunes Platinum Collection: Volume 3",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17108840",
+    "imdb": "tt4173346",
+    "tmdb": 375168
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-11-04"
+}

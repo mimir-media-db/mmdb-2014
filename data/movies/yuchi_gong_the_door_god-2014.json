@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_yuchi_gong_the_door_god_2014",
+  "title": "Yuchi Gong: The Door God",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16618194",
+    "imdb": "tt3657672",
+    "tmdb": 1018821
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-01",
+  "runtime_minutes": 90
+}

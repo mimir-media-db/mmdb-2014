@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jilla_2014",
+  "title": "Jilla",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15051774",
+    "imdb": "tt2678948",
+    "tmdb": 246087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-09",
+  "runtime_minutes": 185
+}

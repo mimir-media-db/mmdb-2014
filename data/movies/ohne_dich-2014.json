@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ohne_dich_2014",
+  "title": "Ohne Dich",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27972536",
+    "imdb": "tt3843502",
+    "tmdb": 290092
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-26",
+  "runtime_minutes": 90
+}

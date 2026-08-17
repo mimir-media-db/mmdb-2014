@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_let_hoi_decide_2014",
+  "title": "Let Hoi Decide",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19893083",
+    "imdb": "tt3701078",
+    "tmdb": 329851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

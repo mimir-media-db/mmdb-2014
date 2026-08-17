@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_joru_2014",
+  "title": "Joru",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28129050",
+    "imdb": "tt4898036",
+    "tmdb": 312324
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-11-07"
+}

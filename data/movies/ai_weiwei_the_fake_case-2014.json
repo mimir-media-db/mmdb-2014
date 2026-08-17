@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ai_weiwei_the_fake_case_2014",
+  "title": "Ai Weiwei The Fake Case",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17150226",
+    "imdb": "tt3281074",
+    "tmdb": 244024
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-08",
+  "runtime_minutes": 86
+}

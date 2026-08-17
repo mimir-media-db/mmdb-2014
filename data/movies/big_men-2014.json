@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_big_men_2014",
+  "title": "Big Men",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25646543",
+    "imdb": "tt2789532",
+    "tmdb": 174349
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-14",
+  "runtime_minutes": 99
+}

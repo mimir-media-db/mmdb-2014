@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jia_zhangke_by_walter_salles_2014",
+  "title": "Jia Zhang-ke by Walter Salles",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57959131",
+    "imdb": "tt4092686",
+    "tmdb": 299751
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 98
+}

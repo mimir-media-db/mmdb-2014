@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fight_for_2014",
+  "title": "A Fight For",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26236370",
+    "imdb": "tt4212378",
+    "tmdb": 305450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-16"
+}

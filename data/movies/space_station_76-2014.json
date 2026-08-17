@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_space_station_76_2014",
+  "title": "Space Station 76",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3492601",
+    "imdb": "tt2369317",
+    "tmdb": 253312
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-08",
+  "runtime_minutes": 95
+}

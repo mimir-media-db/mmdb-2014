@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hitmans_solitude_before_the_shot_2014",
+  "title": "A Hitman's Solitude Before the Shot",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33138463",
+    "imdb": "tt3389236",
+    "tmdb": 299410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-08",
+  "runtime_minutes": 95
+}

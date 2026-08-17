@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_casper_and_emmas_winter_vacation_2014",
+  "title": "Casper and Emma's winter vacation",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106774309",
+    "imdb": "tt2800574",
+    "tmdb": 253006
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-24",
+  "runtime_minutes": 75
+}

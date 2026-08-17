@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dil_vil_pyaar_vyaar_2014",
+  "title": "Dil Vil Pyaar Vyaar",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24037217",
+    "imdb": "tt3723864",
+    "tmdb": 166226
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-02"
+}

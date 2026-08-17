@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lalaloopsy_babies_first_steps_2014",
+  "title": "Lalaloopsy Babies: First Steps",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18882358",
+    "imdb": "tt4119436",
+    "tmdb": 297592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-28"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_korso_2014",
+  "title": "Korso",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18674915",
+    "imdb": "tt2724304",
+    "tmdb": 278329
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-28",
+  "runtime_minutes": 84
+}

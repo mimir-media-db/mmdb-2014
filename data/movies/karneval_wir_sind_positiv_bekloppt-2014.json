@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_karneval_wir_sind_positiv_bekloppt_2014",
+  "title": "Karneval! Wir sind positiv bekloppt",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22666125",
+    "imdb": "tt4155874",
+    "tmdb": 542512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-11-06"
+}

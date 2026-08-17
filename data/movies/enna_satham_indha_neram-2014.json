@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_enna_satham_indha_neram_2014",
+  "title": "Enna Satham Indha Neram",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15214105",
+    "imdb": "tt3543346",
+    "tmdb": 279280
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-27"
+}

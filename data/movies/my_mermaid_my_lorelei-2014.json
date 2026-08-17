@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_mermaid_my_lorelei_2014",
+  "title": "My Mermaid, My Lorelei",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20082457",
+    "imdb": "tt4079976",
+    "tmdb": 347072
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-18",
+  "runtime_minutes": 80
+}

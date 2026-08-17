@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boy_with_the_golden_pants_2014",
+  "title": "The Boy with the Golden Pants",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18274653",
+    "imdb": "tt3126460",
+    "tmdb": 294050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-26",
+  "runtime_minutes": 99
+}

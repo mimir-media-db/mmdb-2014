@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_docchi_mo_docchi_2014",
+  "title": "Docchi mo Docchi",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55726056",
+    "imdb": "tt12487918",
+    "tmdb": 346357
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 70
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trailer_park_boys_live_at_the_north_pole_2014",
+  "title": "Trailer Park Boys: Live at the North Pole",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51126812",
+    "imdb": "tt3596200",
+    "tmdb": 303742
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-11-15",
+  "runtime_minutes": 88
+}

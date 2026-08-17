@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blind_squad_2014",
+  "title": "The Blind Squad",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44863266",
+    "imdb": "tt3062338",
+    "tmdb": 435234
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

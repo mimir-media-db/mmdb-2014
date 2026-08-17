@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_once_i_dreamt_of_life_2014",
+  "title": "Once I Dreamt of Life",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107293418",
+    "imdb": "tt2862392",
+    "tmdb": 291480
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-28"
+}

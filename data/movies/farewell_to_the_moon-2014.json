@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_farewell_to_the_moon_2014",
+  "title": "Farewell to the Moon",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15869565",
+    "imdb": "tt3294634",
+    "tmdb": 252120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-29",
+  "runtime_minutes": 94
+}

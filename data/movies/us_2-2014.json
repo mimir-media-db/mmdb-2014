@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_us_2_2014",
+  "title": "US 2",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18564757",
+    "imdb": "tt3705618",
+    "tmdb": 314152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-11-20",
+  "runtime_minutes": 99
+}

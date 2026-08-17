@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_second_encounters_2014",
+  "title": "Second Encounters",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q33532853",
+    "imdb": "tt4171566",
+    "tmdb": 449016
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 30
+}

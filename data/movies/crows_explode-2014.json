@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_crows_explode_2014",
+  "title": "Crows Explode",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14639047",
+    "imdb": "tt2825120",
+    "tmdb": 253451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-12",
+  "runtime_minutes": 129
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sunrise_supervising_2014",
+  "title": "Sunrise Supervising",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17270046",
+    "imdb": "tt3816964",
+    "tmdb": 497334
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-01",
+  "runtime_minutes": 70
+}

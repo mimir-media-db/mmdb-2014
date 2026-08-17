@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maindhan_2014",
+  "title": "Maindhan",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649559",
+    "imdb": "tt14963418",
+    "tmdb": 303695
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-09"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_across_the_river_2014",
+  "title": "Across the River",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16583913",
+    "imdb": "tt2836202",
+    "tmdb": 210079
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-08",
+  "runtime_minutes": 92
+}

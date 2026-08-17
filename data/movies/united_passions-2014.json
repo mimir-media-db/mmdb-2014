@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_united_passions_2014",
+  "title": "United Passions",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16928500",
+    "imdb": "tt2814362",
+    "tmdb": 271331
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-18",
+  "runtime_minutes": 110
+}

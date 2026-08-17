@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_babylon13_2014",
+  "title": "#Babylon'13",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139576061",
+    "imdb": "tt9639852",
+    "tmdb": 1053041
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 66
+}

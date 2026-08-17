@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_xenos_2014",
+  "title": "Xenos",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q57618021",
+    "imdb": "tt3289618",
+    "tmdb": 297358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 13
+}

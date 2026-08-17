@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_casper_and_emmas_wonderful_christmas_2014",
+  "title": "Casper and Emma’s Wonderful Christmas",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q97668235",
+    "imdb": "tt3294206",
+    "tmdb": 285208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-11-07",
+  "runtime_minutes": 74
+}

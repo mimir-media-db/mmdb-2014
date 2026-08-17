@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_window_connection_2014",
+  "title": "Window Connection",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16255302",
+    "imdb": "tt4108092",
+    "tmdb": 1078807
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-09"
+}

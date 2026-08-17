@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_crimson_whale_2014",
+  "title": "Crimson Whale",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65322192",
+    "imdb": "tt4839348",
+    "tmdb": 349137
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

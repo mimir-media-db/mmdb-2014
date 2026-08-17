@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_butler_2014",
+  "title": "Black Butler",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18358524",
+    "imdb": "tt2630336",
+    "tmdb": 220447
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-18",
+  "runtime_minutes": 119
+}

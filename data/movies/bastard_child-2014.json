@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bastard_child_2014",
+  "title": "The Bastard Child",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15813574",
+    "imdb": "tt3369670",
+    "tmdb": 270567
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-16"
+}

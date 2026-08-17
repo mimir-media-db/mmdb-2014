@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_grand_sapphire_2014",
+  "title": "The Grand Sapphire",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18291583",
+    "imdb": "tt2792728",
+    "tmdb": 270922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-17",
+  "runtime_minutes": 92
+}

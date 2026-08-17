@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_tu_au_mun_2014",
+  "title": "Tu Au Mun",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21283203",
+    "imdb": "tt3600464"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

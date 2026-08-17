@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_transformers_age_of_extinction_2014",
+  "title": "Transformers: Age of Extinction",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6151665",
+    "imdb": "tt2109248",
+    "tmdb": 91314
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-19",
+  "runtime_minutes": 165
+}

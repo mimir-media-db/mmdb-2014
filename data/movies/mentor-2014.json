@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mentor_2014",
+  "title": "The Mentor",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117066101",
+    "imdb": "tt3393164",
+    "tmdb": 277611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 89
+}

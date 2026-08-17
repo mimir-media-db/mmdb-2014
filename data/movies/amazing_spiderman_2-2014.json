@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_amazing_spiderman_2_2014",
+  "title": "The Amazing Spider-Man 2",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4254026",
+    "imdb": "tt1872181",
+    "tmdb": 102382
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-17",
+  "runtime_minutes": 142
+}

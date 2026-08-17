@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beekeeper_2014",
+  "title": "The Beekeeper",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55905830",
+    "imdb": "tt3017108",
+    "tmdb": 251941
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-30",
+  "runtime_minutes": 112
+}

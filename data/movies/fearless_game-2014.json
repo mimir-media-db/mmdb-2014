@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fearless_game_2014",
+  "title": "Fearless Game",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127599814",
+    "imdb": "tt3250556"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 85
+}

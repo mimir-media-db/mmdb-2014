@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chaar_2014",
+  "title": "Chaar",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16858782",
+    "imdb": "tt4313972",
+    "tmdb": 303980
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-13"
+}

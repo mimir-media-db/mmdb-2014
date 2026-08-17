@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_7_minutes_2014",
+  "title": "7 Minutes",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56307532",
+    "imdb": "tt2828954",
+    "tmdb": 200511
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 92
+}

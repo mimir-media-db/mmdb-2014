@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uni_2014",
+  "title": "Uni",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15906161",
+    "imdb": "tt2557266",
+    "tmdb": 302253
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-23",
+  "runtime_minutes": 75
+}

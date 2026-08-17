@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_raised_by_wolves_2014",
+  "title": "Raised by Wolves",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60176734",
+    "imdb": "tt2350852",
+    "tmdb": 290656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

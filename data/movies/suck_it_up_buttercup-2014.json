@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_suck_it_up_buttercup_2014",
+  "title": "Suck it Up Buttercup",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115253043",
+    "imdb": "tt2124181",
+    "tmdb": 368513
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 87
+}

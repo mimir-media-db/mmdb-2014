@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lonbraz_kann_2014",
+  "title": "Lonbraz Kann",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q58411348",
+    "imdb": "tt4119420",
+    "tmdb": 319182
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_coffin_in_the_mountain_2014",
+  "title": "The Coffin in the Mountain",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21160017",
+    "imdb": "tt4078856",
+    "tmdb": 292362
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-24",
+  "runtime_minutes": 119
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_700_sundays_2014",
+  "title": "700 Sundays",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672679",
+    "imdb": "tt3383040",
+    "tmdb": 265832
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-19"
+}

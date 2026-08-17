@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gentlemen_2014",
+  "title": "Gentlemen",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14955346",
+    "imdb": "tt2058617",
+    "tmdb": 287422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-06",
+  "runtime_minutes": 141
+}

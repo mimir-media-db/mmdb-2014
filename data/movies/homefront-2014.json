@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_homefront_2014",
+  "title": "Homefront",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3139644",
+    "imdb": "tt2312718",
+    "tmdb": 204082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-23",
+  "runtime_minutes": 100
+}

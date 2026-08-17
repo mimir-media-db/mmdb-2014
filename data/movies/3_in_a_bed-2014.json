@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_3_in_a_bed_2014",
+  "title": "3 in a bed",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122103227",
+    "imdb": "tt3309136",
+    "tmdb": 354677
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 95
+}

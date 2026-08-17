@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jerrymayas_detective_agency_shadows_of_valleby_2014",
+  "title": "JerryMaya's Detective Agency – Shadows of Valleby",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18291668",
+    "imdb": "tt4243172",
+    "tmdb": 324776
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-17",
+  "runtime_minutes": 76
+}

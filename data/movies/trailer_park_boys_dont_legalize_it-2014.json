@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trailer_park_boys_dont_legalize_it_2014",
+  "title": "Trailer Park Boys: Don't Legalize It",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17034908",
+    "imdb": "tt3244992",
+    "tmdb": 257451
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-18",
+  "runtime_minutes": 95
+}

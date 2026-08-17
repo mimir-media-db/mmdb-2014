@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ten_2014",
+  "title": "TEN",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18786725",
+    "imdb": "tt2496400",
+    "tmdb": 279516
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_little_superman_2014",
+  "title": "Little Superman",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56550929",
+    "imdb": "tt2961118",
+    "tmdb": 537657
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-11-01"
+}

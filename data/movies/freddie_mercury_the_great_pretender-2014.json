@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_freddie_mercury_the_great_pretender_2014",
+  "title": "Freddie Mercury: The Great Pretender",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5496764",
+    "imdb": "tt2471626",
+    "tmdb": 135403
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-01",
+  "runtime_minutes": 84
+}

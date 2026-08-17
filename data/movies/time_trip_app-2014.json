@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_time_trip_app_2014",
+  "title": "Time Trip App",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11481843",
+    "imdb": "tt3245334",
+    "tmdb": 314087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-26"
+}

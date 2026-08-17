@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spiel_mir_am_glied_bis_zum_tod_2014",
+  "title": "Spiel mir am Glied bis zum Tod",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q99864669",
+    "imdb": "tt7612436",
+    "tmdb": 594700
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 85
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_midnight_after_2014",
+  "title": "The Midnight After",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15651974",
+    "imdb": "tt3504824",
+    "tmdb": 254526
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-07",
+  "runtime_minutes": 124
+}

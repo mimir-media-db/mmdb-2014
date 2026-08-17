@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_excuse_my_french_2014",
+  "title": "Excuse my French",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16124830",
+    "imdb": "tt3510372",
+    "tmdb": 270290
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-19",
+  "runtime_minutes": 99
+}

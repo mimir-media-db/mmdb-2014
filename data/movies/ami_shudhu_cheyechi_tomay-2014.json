@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ami_shudhu_cheyechi_tomay_2014",
+  "title": "Ami Shudhu Cheyechi Tomay",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16242232",
+    "imdb": "tt5475078",
+    "tmdb": 554602
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-16"
+}

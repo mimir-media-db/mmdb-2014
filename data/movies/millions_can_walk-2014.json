@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_millions_can_walk_2014",
+  "title": "Millions Can Walk",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q88873742",
+    "imdb": "tt3457470",
+    "tmdb": 674247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-24",
+  "runtime_minutes": 88
+}

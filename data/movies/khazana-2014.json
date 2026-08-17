@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_khazana_2014",
+  "title": "Khazana",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73537500",
+    "imdb": "tt2987980",
+    "tmdb": 304047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_banda_dei_supereroi_2014",
+  "title": "La banda dei supereroi",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123941754",
+    "imdb": "tt3474752",
+    "tmdb": 297750
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beethovens_treasure_tail_2014",
+  "title": "Beethoven's Treasure Tail",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20894789",
+    "imdb": "tt3124476",
+    "tmdb": 295887
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-14",
+  "runtime_minutes": 98
+}

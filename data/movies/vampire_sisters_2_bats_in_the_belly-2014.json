@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vampire_sisters_2_bats_in_the_belly_2014",
+  "title": "Vampire Sisters 2: Bats in the Belly",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23793906",
+    "imdb": "tt3445438",
+    "tmdb": 298504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-16",
+  "runtime_minutes": 94
+}

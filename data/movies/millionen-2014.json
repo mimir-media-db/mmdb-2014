@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_millionen_2014",
+  "title": "Millionen",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18026130",
+    "imdb": "tt2517642",
+    "tmdb": 284140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-03",
+  "runtime_minutes": 87
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_demental_2014",
+  "title": "Demental",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56264645",
+    "imdb": "tt3581524"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 70
+}

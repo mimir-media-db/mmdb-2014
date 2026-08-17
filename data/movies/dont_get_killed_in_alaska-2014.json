@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dont_get_killed_in_alaska_2014",
+  "title": "Don't Get Killed in Alaska",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56323761",
+    "imdb": "tt2525092",
+    "tmdb": 294586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 96
+}

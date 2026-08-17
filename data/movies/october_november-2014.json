@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_october_november_2014",
+  "title": "October November",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15074324",
+    "imdb": "tt3121050",
+    "tmdb": 214074
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-12",
+  "runtime_minutes": 114
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hostage_2014",
+  "title": "Hostage",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20976974",
+    "imdb": "tt3212738",
+    "tmdb": 344615
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 97
+}

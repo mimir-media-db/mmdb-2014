@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_qualcosa_di_noi_2014",
+  "title": "Qualcosa di noi",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20005793",
+    "imdb": "tt4216976",
+    "tmdb": 430303
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 74
+}

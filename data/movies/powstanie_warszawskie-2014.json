@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_powstanie_warszawskie_2014",
+  "title": "Powstanie Warszawskie",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16867785",
+    "imdb": "tt3737878",
+    "tmdb": 306780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-09",
+  "runtime_minutes": 87
+}

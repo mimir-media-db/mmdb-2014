@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_talakjung_vs_tulke_2014",
+  "title": "Talakjung vs Tulke",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20993883",
+    "imdb": "tt3342558",
+    "tmdb": 359607
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-31",
+  "runtime_minutes": 133
+}

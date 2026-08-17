@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dearest_2014",
+  "title": "Dearest",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17005988",
+    "imdb": "tt3752930",
+    "tmdb": 284278
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-28",
+  "runtime_minutes": 128
+}

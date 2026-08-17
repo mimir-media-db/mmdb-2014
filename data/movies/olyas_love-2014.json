@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_olyas_love_2014",
+  "title": "Olya's Love",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q139563908",
+    "imdb": "tt3488350",
+    "tmdb": 349398
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-05",
+  "runtime_minutes": 70
+}

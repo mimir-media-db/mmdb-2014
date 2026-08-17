@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_romeo_ranjha_2014",
+  "title": "Romeo Ranjha",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17080167",
+    "imdb": "tt3607226",
+    "tmdb": 269800
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-16"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_entertainment_2014",
+  "title": "Entertainment",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16249363",
+    "imdb": "tt2978626",
+    "tmdb": 278347
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-08",
+  "runtime_minutes": 140
+}

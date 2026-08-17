@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_melusine_2014",
+  "title": "Melusine",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21035753",
+    "imdb": "tt0037065",
+    "tmdb": 290211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 92
+}

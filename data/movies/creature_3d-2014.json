@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_creature_3d_2014",
+  "title": "Creature 3D",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16952604",
+    "imdb": "tt3619854",
+    "tmdb": 292830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-12"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_after_school_massacre_2014",
+  "title": "After School Massacre",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26966352",
+    "imdb": "tt2553444",
+    "tmdb": 298835
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 73
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_authors_anonymous_2014",
+  "title": "Authors Anonymous",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16250456",
+    "imdb": "tt2114461",
+    "tmdb": 255491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-18",
+  "runtime_minutes": 92
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_spud_3_learning_to_fly_2014",
+  "title": "Spud 3: Learning to Fly",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56886888",
+    "imdb": "tt3121562",
+    "tmdb": 317953
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

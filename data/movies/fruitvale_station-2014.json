@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fruitvale_station_2014",
+  "title": "Fruitvale Station",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3788751",
+    "imdb": "tt2334649",
+    "tmdb": 157354
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-06",
+  "runtime_minutes": 85
+}

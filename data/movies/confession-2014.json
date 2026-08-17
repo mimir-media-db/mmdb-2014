@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_confession_2014",
+  "title": "Confession",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17049461",
+    "imdb": "tt3957986",
+    "tmdb": 284152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-10"
+}

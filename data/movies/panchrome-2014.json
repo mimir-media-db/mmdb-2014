@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_panchrome_2014",
+  "title": "Panchrome Ⅰ, Ⅱ, Ⅲ",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q49843200",
+    "imdb": "tt3967492",
+    "tmdb": 293016
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 14
+}

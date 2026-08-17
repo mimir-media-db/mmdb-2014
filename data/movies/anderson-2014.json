@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anderson_2014",
+  "title": "Anderson",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19963488",
+    "imdb": "tt3484576",
+    "tmdb": 371410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-02"
+}

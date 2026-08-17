@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pos_eso_2014",
+  "title": "Pos eso",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98462892",
+    "imdb": "tt3740416",
+    "tmdb": 337719
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-04",
+  "runtime_minutes": 81
+}

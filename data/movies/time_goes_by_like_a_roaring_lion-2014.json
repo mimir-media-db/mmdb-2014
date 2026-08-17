@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_time_goes_by_like_a_roaring_lion_2014",
+  "title": "Time Goes by Like a Roaring Lion",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q45041520",
+    "imdb": "tt2671324",
+    "tmdb": 187061
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-09"
+}

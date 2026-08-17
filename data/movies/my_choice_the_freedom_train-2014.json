@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_choice_the_freedom_train_2014",
+  "title": "My choice. The freedom train",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22117145",
+    "tmdb": 305654
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-10",
+  "runtime_minutes": 42
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_run_raja_run_2014",
+  "title": "Run Raja Run",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170362",
+    "imdb": "tt3916700",
+    "tmdb": 284837
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-01"
+}

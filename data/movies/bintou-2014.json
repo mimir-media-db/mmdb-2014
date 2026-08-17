@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bintou_2014",
+  "title": "Bintou",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16693795",
+    "imdb": "tt3501470",
+    "tmdb": 1136570
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-28",
+  "runtime_minutes": 65
+}

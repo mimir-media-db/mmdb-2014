@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_as_the_light_goes_out_2014",
+  "title": "As the Light Goes Out",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q11079125",
+    "imdb": "tt3414954",
+    "tmdb": 247954
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-02",
+  "runtime_minutes": 116
+}

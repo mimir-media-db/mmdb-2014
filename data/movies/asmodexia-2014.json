@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_asmodexia_2014",
+  "title": "Asmodexia",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21974334",
+    "imdb": "tt3175438",
+    "tmdb": 280016
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tak_kemal_maka_tak_sayang_2014",
+  "title": "Tak Kemal Maka Tak Sayang",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19742982",
+    "imdb": "tt5129312",
+    "tmdb": 327240
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 85
+}

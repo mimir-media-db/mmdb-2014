@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ae_apocalypse_earth_2014",
+  "title": "AE: Apocalypse Earth",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13420995",
+    "imdb": "tt2756412",
+    "tmdb": 197624
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-06",
+  "runtime_minutes": 87
+}

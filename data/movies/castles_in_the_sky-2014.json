@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_castles_in_the_sky_2014",
+  "title": "Castles in the Sky",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16956081",
+    "imdb": "tt3311900",
+    "tmdb": 277846
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-23",
+  "runtime_minutes": 90
+}

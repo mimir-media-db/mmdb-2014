@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pushkin_is_our_everything_2014",
+  "title": "Pushkin is Our Everything",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29588620",
+    "imdb": "tt3861934",
+    "tmdb": 1533650
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-06"
+}

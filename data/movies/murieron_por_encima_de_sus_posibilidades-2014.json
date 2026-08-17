@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_murieron_por_encima_de_sus_posibilidades_2014",
+  "title": "Murieron por encima de sus posibilidades",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q111540647",
+    "imdb": "tt2365576",
+    "tmdb": 288586
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 100
+}

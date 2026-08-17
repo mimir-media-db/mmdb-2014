@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_bobs_boners_2014",
+  "title": "Bob’s Boners",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50412738",
+    "imdb": "tt5699364"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

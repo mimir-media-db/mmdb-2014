@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_language_of_love_2014",
+  "title": "Language of Love",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131274961",
+    "imdb": "tt5219168",
+    "tmdb": 1258490
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-31"
+}

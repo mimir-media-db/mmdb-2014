@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_saving_mes_aynak_2014",
+  "title": "Saving Mes Aynak",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23023502",
+    "imdb": "tt2412748",
+    "tmdb": 655684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

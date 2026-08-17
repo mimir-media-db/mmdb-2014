@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_life_is_sacred_2014",
+  "title": "Life is Sacred",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20494462",
+    "imdb": "tt4076284",
+    "tmdb": 326649
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 104
+}

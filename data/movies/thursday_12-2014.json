@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thursday_12_2014",
+  "title": "Thursday & 12",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23070957",
+    "imdb": "tt3435612",
+    "tmdb": 275164
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 103
+}

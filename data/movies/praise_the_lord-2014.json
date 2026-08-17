@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_praise_the_lord_2014",
+  "title": "Praise the Lord",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16137042",
+    "imdb": "tt3671708",
+    "tmdb": 261055
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-20"
+}

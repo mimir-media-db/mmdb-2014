@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_surajya_2014",
+  "title": "Surajya",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17143524",
+    "imdb": "tt5644670",
+    "tmdb": 679027
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-18"
+}

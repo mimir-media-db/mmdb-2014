@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sag_salim_2_sil_bastan_2014",
+  "title": "Sag Salim 2: Sil Bastan",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17450878",
+    "imdb": "tt3472892",
+    "tmdb": 271910
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-10",
+  "runtime_minutes": 98
+}

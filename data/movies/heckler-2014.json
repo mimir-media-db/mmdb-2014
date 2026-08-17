@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heckler_2014",
+  "title": "The Heckler",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q127543723",
+    "imdb": "tt2781030",
+    "tmdb": 443422
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 92
+}

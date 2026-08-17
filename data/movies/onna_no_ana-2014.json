@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_onna_no_ana_2014",
+  "title": "Onna no Ana",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703216",
+    "imdb": "tt3530654",
+    "tmdb": 399898
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-28"
+}

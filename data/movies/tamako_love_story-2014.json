@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tamako_love_story_2014",
+  "title": "Tamako Love Story",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15975680",
+    "imdb": "tt3413018",
+    "tmdb": 257475
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-26",
+  "runtime_minutes": 83
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_help_ive_shrunk_the_family_2014",
+  "title": "Help! I've Shrunk the Family",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18088698",
+    "imdb": "tt3066886",
+    "tmdb": 297963
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-11-19",
+  "runtime_minutes": 100
+}

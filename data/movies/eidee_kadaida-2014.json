@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_eidee_kadaida_2014",
+  "title": "Eidee Kadaida",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23023134"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-31"
+}

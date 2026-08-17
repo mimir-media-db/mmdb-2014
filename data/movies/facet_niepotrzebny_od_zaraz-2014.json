@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_facet_niepotrzebny_od_zaraz_2014",
+  "title": "Facet (nie)potrzebny od zaraz",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15641052",
+    "imdb": "tt3490810",
+    "tmdb": 281455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-14",
+  "runtime_minutes": 88
+}

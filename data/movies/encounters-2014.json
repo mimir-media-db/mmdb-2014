@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_encounters_2014",
+  "title": "Encounters",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20653099",
+    "imdb": "tt4047752",
+    "tmdb": 302797
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-30",
+  "runtime_minutes": 100
+}

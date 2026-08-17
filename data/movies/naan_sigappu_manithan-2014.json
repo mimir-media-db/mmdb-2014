@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_naan_sigappu_manithan_2014",
+  "title": "Naan Sigappu Manithan",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15916938",
+    "imdb": "tt3569788",
+    "tmdb": 240865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-10"
+}

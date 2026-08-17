@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_ligne_de_partage_des_eaux_2014",
+  "title": "La Ligne de partage des eaux",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30103071",
+    "imdb": "tt3012512",
+    "tmdb": 266754
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-23"
+}

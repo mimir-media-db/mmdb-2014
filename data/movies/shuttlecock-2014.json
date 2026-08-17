@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shuttlecock_2014",
+  "title": "Shuttlecock",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19483955",
+    "imdb": "tt3265450",
+    "tmdb": 240153
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-24"
+}

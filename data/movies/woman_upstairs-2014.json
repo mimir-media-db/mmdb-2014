@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_woman_upstairs_2014",
+  "title": "The Woman Upstairs",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18684919",
+    "imdb": "tt11962330",
+    "tmdb": 308603
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-29"
+}

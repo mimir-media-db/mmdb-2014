@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_outis_suite_2014",
+  "title": "Outis Suite",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116051338",
+    "imdb": "tt3063732"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 75
+}

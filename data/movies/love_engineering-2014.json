@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_engineering_2014",
+  "title": "Love & Engineering",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19844943",
+    "imdb": "tt3489234",
+    "tmdb": 253826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-28",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_uma_montanha_do_tamanho_do_homem_2014",
+  "title": "Uma Montanha do Tamanho do Homem",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29856843",
+    "imdb": "tt4204006",
+    "tmdb": 1012158
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_doc_of_the_dead_2014",
+  "title": "Doc of the Dead",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17010941",
+    "imdb": "tt2481248",
+    "tmdb": 250577
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-10",
+  "runtime_minutes": 81
+}

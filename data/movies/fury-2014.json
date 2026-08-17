@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fury_2014",
+  "title": "Fury",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14786561",
+    "imdb": "tt2713180",
+    "tmdb": 228150
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-15",
+  "runtime_minutes": 135
+}

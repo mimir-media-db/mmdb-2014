@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_empire_of_shame_2014",
+  "title": "The Empire of Shame",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q93740696",
+    "imdb": "tt3539792",
+    "tmdb": 417459
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_alfredos_fire_2014",
+  "title": "Alfredo's Fire",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16827067",
+    "imdb": "tt2578126",
+    "tmdb": 1104478
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-02"
+}

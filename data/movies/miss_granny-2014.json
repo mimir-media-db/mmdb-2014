@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_granny_2014",
+  "title": "Miss Granny",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15708907",
+    "imdb": "tt3516378",
+    "tmdb": 253065
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-22",
+  "runtime_minutes": 124
+}

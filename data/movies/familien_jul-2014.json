@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_familien_jul_2014",
+  "title": "Familien Jul",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18647013",
+    "imdb": "tt4227386",
+    "tmdb": 316762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-11-20",
+  "runtime_minutes": 90
+}

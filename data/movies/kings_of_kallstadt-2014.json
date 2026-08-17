@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kings_of_kallstadt_2014",
+  "title": "Kings of Kallstadt",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21584321",
+    "imdb": "tt4214614",
+    "tmdb": 294928
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-25"
+}

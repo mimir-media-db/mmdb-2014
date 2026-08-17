@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mu_tara_kie_2014",
+  "title": "Mu Tara Kie",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47181215",
+    "imdb": "tt4165496"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-31"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beware_of_dogs_2014",
+  "title": "Beware of dogs",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27963136",
+    "imdb": "tt4002168",
+    "tmdb": 289393
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

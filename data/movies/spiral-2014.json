@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_spiral_2014",
+  "title": "Spiral",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16335916",
+    "imdb": "tt3523480",
+    "tmdb": 267376
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-27",
+  "runtime_minutes": 100
+}

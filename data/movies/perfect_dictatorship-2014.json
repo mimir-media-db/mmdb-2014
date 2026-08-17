@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_perfect_dictatorship_2014",
+  "title": "The Perfect Dictatorship",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17636240",
+    "imdb": "tt3970854",
+    "tmdb": 264525
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-16",
+  "runtime_minutes": 143
+}

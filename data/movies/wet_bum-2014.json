@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wet_bum_2014",
+  "title": "Wet Bum",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q96414607",
+    "imdb": "tt3630720",
+    "tmdb": 285869
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-07",
+  "runtime_minutes": 95
+}

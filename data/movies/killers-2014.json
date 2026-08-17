@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_killers_2014",
+  "title": "Killers",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15618690",
+    "imdb": "tt2409300",
+    "tmdb": 171846
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-20"
+}

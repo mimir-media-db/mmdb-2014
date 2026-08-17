@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dariela_los_martes_2014",
+  "title": "Dariela los martes",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43302545",
+    "imdb": "tt3089016",
+    "tmdb": 293638
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-04",
+  "runtime_minutes": 74
+}

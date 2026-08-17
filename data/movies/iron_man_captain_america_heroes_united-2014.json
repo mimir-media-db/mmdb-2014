@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_iron_man_captain_america_heroes_united_2014",
+  "title": "Iron Man & Captain America: Heroes United",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28677944",
+    "imdb": "tt3911200",
+    "tmdb": 284274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 71
+}

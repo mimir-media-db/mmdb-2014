@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_prim_el_asesinato_de_la_calle_del_turco_2014",
+  "title": "Prim, el asesinato de la calle del Turco",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18818895",
+    "imdb": "tt3343292",
+    "tmdb": 311238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-15"
+}

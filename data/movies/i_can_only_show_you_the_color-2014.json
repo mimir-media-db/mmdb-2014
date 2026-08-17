@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_i_can_only_show_you_the_color_2014",
+  "title": "I Can Only Show You the Color",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123419361",
+    "imdb": "tt3492802",
+    "tmdb": 296592
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

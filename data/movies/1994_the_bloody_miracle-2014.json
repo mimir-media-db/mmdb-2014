@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1994_the_bloody_miracle_2014",
+  "title": "1994: The Bloody Miracle",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115953443",
+    "imdb": "tt4778754",
+    "tmdb": 845812
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 60
+}

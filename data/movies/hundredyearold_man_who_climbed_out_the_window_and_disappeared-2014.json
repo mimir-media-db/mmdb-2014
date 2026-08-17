@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hundredyearold_man_who_climbed_out_the_window_and_disappeared_2014",
+  "title": "The Hundred-Year-Old Man Who Climbed Out the Window and Disappeared",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q10527185",
+    "imdb": "tt2113681",
+    "tmdb": 145247
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-20",
+  "runtime_minutes": 115
+}

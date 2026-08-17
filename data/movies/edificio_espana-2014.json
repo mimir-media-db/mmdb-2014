@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_edificio_espana_2014",
+  "title": "Edificio España",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98317273",
+    "imdb": "tt1838517",
+    "tmdb": 257274
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-14",
+  "runtime_minutes": 94
+}

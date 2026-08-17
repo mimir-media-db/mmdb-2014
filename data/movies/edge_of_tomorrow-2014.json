@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_edge_of_tomorrow_2014",
+  "title": "Edge of Tomorrow",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q1187607",
+    "imdb": "tt1631867",
+    "tmdb": 137113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-29",
+  "runtime_minutes": 113
+}

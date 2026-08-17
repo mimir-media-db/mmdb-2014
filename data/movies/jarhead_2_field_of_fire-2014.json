@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jarhead_2_field_of_fire_2014",
+  "title": "Jarhead 2: Field of Fire",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18086263",
+    "imdb": "tt3699508",
+    "tmdb": 285423
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-19",
+  "runtime_minutes": 102
+}

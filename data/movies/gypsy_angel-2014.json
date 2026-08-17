@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_gypsy_angel_2014",
+  "title": "The Gypsy Angel",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27981599",
+    "imdb": "tt3739326"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

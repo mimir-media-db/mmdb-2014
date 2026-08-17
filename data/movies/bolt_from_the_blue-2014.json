@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bolt_from_the_blue_2014",
+  "title": "A Bolt from the Blue",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17221018",
+    "imdb": "tt3090326",
+    "tmdb": 319171
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-24"
+}

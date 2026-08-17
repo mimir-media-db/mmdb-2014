@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_star_is_stillborn_2014",
+  "title": "A Star Is Stillborn",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43303332",
+    "imdb": "tt3722262",
+    "tmdb": 510022
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

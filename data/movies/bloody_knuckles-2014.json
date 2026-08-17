@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bloody_knuckles_2014",
+  "title": "Bloody Knuckles",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q48672586",
+    "imdb": "tt3264240",
+    "tmdb": 293553
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-18",
+  "runtime_minutes": 85
+}

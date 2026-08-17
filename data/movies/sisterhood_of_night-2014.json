@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sisterhood_of_night_2014",
+  "title": "The Sisterhood of Night",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19818405",
+    "imdb": "tt1015471",
+    "tmdb": 206197
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stream_of_love_2014",
+  "title": "Stream of Love",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q114356662",
+    "imdb": "tt2971994",
+    "tmdb": 248057
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-13",
+  "runtime_minutes": 70
+}

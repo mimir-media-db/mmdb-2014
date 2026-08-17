@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "m_seewatchlook_2014",
+  "title": "Seewatchlook",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43303060"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

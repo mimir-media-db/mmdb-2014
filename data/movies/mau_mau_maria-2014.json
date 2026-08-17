@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mau_mau_maria_2014",
+  "title": "Mau Mau Maria",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19572955",
+    "imdb": "tt3664432",
+    "tmdb": 286330
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 105
+}

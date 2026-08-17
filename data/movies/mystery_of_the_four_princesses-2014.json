@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mystery_of_the_four_princesses_2014",
+  "title": "The Mystery of the Four Princesses",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q115163529",
+    "imdb": "tt13861532",
+    "tmdb": 287369
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

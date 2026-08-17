@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_predestination_2014",
+  "title": "Predestination",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17014394",
+    "imdb": "tt2397535",
+    "tmdb": 206487
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-08",
+  "runtime_minutes": 97
+}

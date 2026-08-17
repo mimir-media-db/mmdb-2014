@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_toilet_blues_2014",
+  "title": "Toilet Blues",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19744253",
+    "imdb": "tt3180592",
+    "tmdb": 534493
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

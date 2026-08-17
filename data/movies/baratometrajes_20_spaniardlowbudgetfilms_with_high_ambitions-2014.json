@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_baratometrajes_20_spaniardlowbudgetfilms_with_high_ambitions_2014",
+  "title": "Baratometrajes 2.0: Spaniard-low-budget-films with High Ambitions",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135718652",
+    "imdb": "tt3641078",
+    "tmdb": 261962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 88
+}

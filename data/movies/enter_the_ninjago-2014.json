@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_enter_the_ninjago_2014",
+  "title": "Enter the Ninjago",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q64768140",
+    "imdb": "tt7467214",
+    "tmdb": 761432
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

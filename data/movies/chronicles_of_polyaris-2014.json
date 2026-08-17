@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chronicles_of_polyaris_2014",
+  "title": "The Chronicles of Polyaris",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28152258",
+    "imdb": "tt4038408",
+    "tmdb": 476725
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-29",
+  "runtime_minutes": 60
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_driving_miss_daisy_2014",
+  "title": "Driving Miss Daisy",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25136553",
+    "imdb": "tt4653310",
+    "tmdb": 289450
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-25"
+}

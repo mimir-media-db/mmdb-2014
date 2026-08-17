@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tales_of_the_grim_sleeper_2014",
+  "title": "Tales of the Grim Sleeper",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q32941996",
+    "imdb": "tt3904186",
+    "tmdb": 289575
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 110
+}

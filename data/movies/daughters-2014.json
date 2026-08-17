@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_daughters_2014",
+  "title": "Daughters",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106719235",
+    "imdb": "tt2188220",
+    "tmdb": 255174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

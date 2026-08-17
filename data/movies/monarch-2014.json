@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_monarch_2014",
+  "title": "Monarch",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18915112",
+    "imdb": "tt0264916",
+    "tmdb": 273454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-14"
+}

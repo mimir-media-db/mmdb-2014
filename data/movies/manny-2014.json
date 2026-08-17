@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_manny_2014",
+  "title": "Manny",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22674932",
+    "imdb": "tt1778931",
+    "tmdb": 253295
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-08"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ameta_toka_sandha_marka_2014",
+  "title": "Ameta Toka Sandha Marka",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q40435663",
+    "imdb": "tt4165542",
+    "tmdb": 1093943
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-29"
+}

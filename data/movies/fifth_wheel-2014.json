@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_fifth_wheel_2014",
+  "title": "The Fifth Wheel",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16323107",
+    "imdb": "tt2491500",
+    "tmdb": 234356
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-29",
+  "runtime_minutes": 113
+}

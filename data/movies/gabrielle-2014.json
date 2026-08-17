@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_gabrielle_2014",
+  "title": "Gabrielle",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14947419",
+    "imdb": "tt3106846",
+    "tmdb": 215031
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-24",
+  "runtime_minutes": 104
+}

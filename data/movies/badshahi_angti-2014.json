@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_badshahi_angti_2014",
+  "title": "Badshahi Angti",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16345988",
+    "imdb": "tt4265964",
+    "tmdb": 407681
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-01"
+}

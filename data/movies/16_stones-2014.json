@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_16_stones_2014",
+  "title": "16 Stones",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21159985",
+    "imdb": "tt1212054",
+    "tmdb": 293756
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

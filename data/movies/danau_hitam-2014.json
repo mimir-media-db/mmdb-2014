@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_danau_hitam_2014",
+  "title": "Danau Hitam",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19737901",
+    "imdb": "tt6903148",
+    "tmdb": 362523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

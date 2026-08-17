@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_steaks_2014",
+  "title": "Love Steaks",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16218086",
+    "imdb": "tt2960270",
+    "tmdb": 239030
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-27",
+  "runtime_minutes": 89
+}

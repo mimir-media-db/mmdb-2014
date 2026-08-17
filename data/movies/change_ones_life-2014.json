@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_change_ones_life_2014",
+  "title": "Change One's Life",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28148422",
+    "imdb": "tt0060720",
+    "tmdb": 242296
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-24",
+  "runtime_minutes": 90
+}

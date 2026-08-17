@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nobody_owns_me_2014",
+  "title": "Nobody Owns Me",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15831535",
+    "imdb": "tt2196017",
+    "tmdb": 199740
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-04",
+  "runtime_minutes": 109
+}

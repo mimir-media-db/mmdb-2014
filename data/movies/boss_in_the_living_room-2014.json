@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boss_in_the_living_room_2014",
+  "title": "A Boss In The Living Room",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15691486",
+    "imdb": "tt3296204",
+    "tmdb": 247218
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

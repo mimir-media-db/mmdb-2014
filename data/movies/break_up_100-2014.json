@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_break_up_100_2014",
+  "title": "Break Up 100",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17511884",
+    "imdb": "tt3898860",
+    "tmdb": 285043
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

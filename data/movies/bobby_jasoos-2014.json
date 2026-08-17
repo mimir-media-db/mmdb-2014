@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bobby_jasoos_2014",
+  "title": "Bobby Jasoos",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16247261",
+    "imdb": "tt3359290",
+    "tmdb": 272420
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

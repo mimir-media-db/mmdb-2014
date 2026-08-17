@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bridges_of_sarajevo_2014",
+  "title": "Bridges of Sarajevo",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16736256",
+    "imdb": "tt3495794",
+    "tmdb": 284051
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 114
+}

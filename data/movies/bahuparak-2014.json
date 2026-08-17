@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bahuparak_2014",
+  "title": "Bahuparak",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16837040",
+    "imdb": "tt5341550",
+    "tmdb": 463185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

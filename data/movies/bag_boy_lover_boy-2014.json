@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bag_boy_lover_boy_2014",
+  "title": "Bag Boy Lover Boy",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17514537",
+    "imdb": "tt2446318",
+    "tmdb": 282440
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 77
+}

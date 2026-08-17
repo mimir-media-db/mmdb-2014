@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_broken_horses_2014",
+  "title": "Broken Horses",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q2925976",
+    "imdb": "tt2503954",
+    "tmdb": 319910
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 101
+}

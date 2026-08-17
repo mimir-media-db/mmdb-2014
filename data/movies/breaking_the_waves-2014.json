@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_breaking_the_waves_2014",
+  "title": "Breaking The Waves",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16690515",
+    "imdb": "tt8690024",
+    "tmdb": 341713
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

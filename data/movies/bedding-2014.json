@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bedding_2014",
+  "title": "Bedding",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19599284",
+    "imdb": "tt29106833",
+    "tmdb": 493542
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bajo_un_manto_de_estrellas_2014",
+  "title": "Bajo un manto de estrellas",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17364204",
+    "imdb": "tt3135016",
+    "tmdb": 247193
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 91
+}

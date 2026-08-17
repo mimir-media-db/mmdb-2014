@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_beauty_in_a_bottle_2014",
+  "title": "Beauty in a Bottle",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18398204",
+    "imdb": "tt3825444",
+    "tmdb": 299670
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

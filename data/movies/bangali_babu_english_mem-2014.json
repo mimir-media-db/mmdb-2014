@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_bangali_babu_english_mem_2014",
+  "title": "Bangali Babu English Mem",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16246995",
+    "imdb": "tt4673872",
+    "tmdb": 528415
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

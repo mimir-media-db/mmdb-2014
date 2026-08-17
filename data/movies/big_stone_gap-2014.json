@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_big_stone_gap_2014",
+  "title": "Big Stone Gap",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16248717",
+    "imdb": "tt3254796",
+    "tmdb": 353378
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 103
+}

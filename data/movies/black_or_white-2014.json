@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_black_or_white_2014",
+  "title": "Black or White",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16248744",
+    "imdb": "tt2883434",
+    "tmdb": 253331
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 121
+}

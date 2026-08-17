@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_barcelona_1714_2014",
+  "title": "Barcelona 1714",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17295012",
+    "imdb": "tt3131782",
+    "tmdb": 279835
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 125
+}

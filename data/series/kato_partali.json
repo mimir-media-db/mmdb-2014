@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kato_partali",
+  "title": "Kato Partali",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16737697",
+    "imdb": "tt3599880",
+    "tmdb": 61772
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 29
+}

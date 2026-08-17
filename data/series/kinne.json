@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kinne",
+  "title": "Kinne",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18166009",
+    "imdb": "tt3888688",
+    "tmdb": 65074
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

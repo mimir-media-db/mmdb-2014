@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_you_are_my_sassy_girl_2014",
+  "title": "You Are My Sassy Girl",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170703",
+    "imdb": "tt14986934",
+    "tmdb": 384209
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_you_are_my_vampire_2014",
+  "title": "You Are My Vampire",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18730870",
+    "imdb": "tt3243664",
+    "tmdb": 279453
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

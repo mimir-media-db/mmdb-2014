@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_young_blood_chronicles_2014",
+  "title": "The Young Blood Chronicles",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17151692",
+    "imdb": "tt4480636",
+    "tmdb": 278896
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 50
+}

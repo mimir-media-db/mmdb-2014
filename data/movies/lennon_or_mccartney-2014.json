@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lennon_or_mccartney_2014",
+  "title": "Lennon or McCartney",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27888468",
+    "imdb": "tt4265422",
+    "tmdb": 402123
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-12"
+}

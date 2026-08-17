@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_creme_de_la_creme_2014",
+  "title": "La Crème de la crème",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12144078",
+    "imdb": "tt2536428",
+    "tmdb": 253687
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-12",
+  "runtime_minutes": 90
+}

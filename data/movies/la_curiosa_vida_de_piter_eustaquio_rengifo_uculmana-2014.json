@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_curiosa_vida_de_piter_eustaquio_rengifo_uculmana_2014",
+  "title": "La curiosa vida de Piter Eustaquio Rengifo Uculmana",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q123419343",
+    "tmdb": 648341
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 72
+}

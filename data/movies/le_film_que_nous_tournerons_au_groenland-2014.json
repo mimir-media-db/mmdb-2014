@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_film_que_nous_tournerons_au_groenland_2014",
+  "title": "Le Film que nous tournerons au Groenland",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28493798",
+    "imdb": "tt4473206",
+    "tmdb": 331127
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_laddu_babu_2014",
+  "title": "Laddu Babu",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20925574",
+    "imdb": "tt5016538",
+    "tmdb": 264187
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

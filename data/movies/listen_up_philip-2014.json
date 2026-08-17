@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_listen_up_philip_2014",
+  "title": "Listen Up Philip",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17099381",
+    "imdb": "tt3093546",
+    "tmdb": 251736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-20",
+  "runtime_minutes": 108
+}

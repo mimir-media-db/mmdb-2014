@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_stop_2014",
+  "title": "Last Stop",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55317118",
+    "imdb": "tt4046392",
+    "tmdb": 1169158
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 76
+}

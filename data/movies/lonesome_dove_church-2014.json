@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lonesome_dove_church_2014",
+  "title": "Lonesome Dove Church",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q106281329",
+    "imdb": "tt3447676",
+    "tmdb": 326045
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-04"
+}

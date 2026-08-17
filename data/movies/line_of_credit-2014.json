@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_line_of_credit_2014",
+  "title": "Line of Credit",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25485574",
+    "imdb": "tt3893542",
+    "tmdb": 291878
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-31",
+  "runtime_minutes": 85
+}

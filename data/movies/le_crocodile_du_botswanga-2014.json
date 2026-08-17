@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_crocodile_du_botswanga_2014",
+  "title": "Le crocodile du Botswanga",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14901503",
+    "imdb": "tt2969776",
+    "tmdb": 248390
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-19",
+  "runtime_minutes": 90
+}

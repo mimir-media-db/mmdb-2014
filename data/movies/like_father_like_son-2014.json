@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_like_father_like_son_2014",
+  "title": "Like Father, Like Son",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13218260",
+    "imdb": "tt2331143",
+    "tmdb": 177945
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-25",
+  "runtime_minutes": 120
+}

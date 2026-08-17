@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_lacrime_delle_dolomiti_di_sesto_2014",
+  "title": "Lacrime delle Dolomiti di Sesto",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27997190"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 137
+}

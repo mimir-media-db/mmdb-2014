@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_bus_five_love_stories_from_bucharest_2014",
+  "title": "Love Bus: Five Love Stories from Bucharest",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q44867790",
+    "imdb": "tt3712854",
+    "tmdb": 654544
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

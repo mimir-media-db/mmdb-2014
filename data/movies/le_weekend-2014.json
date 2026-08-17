@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_weekend_2014",
+  "title": "Le Week-End",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14942817",
+    "imdb": "tt2392326",
+    "tmdb": 209350
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-30",
+  "runtime_minutes": 93
+}

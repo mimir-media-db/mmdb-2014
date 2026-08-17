@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_gypsy_witch_2014",
+  "title": "The Little Gypsy Witch",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7747621",
+    "imdb": "tt1946445",
+    "tmdb": 375865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-27",
+  "runtime_minutes": 90
+}

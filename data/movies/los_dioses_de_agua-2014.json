@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_los_dioses_de_agua_2014",
+  "title": "Los dioses de agua",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q76466644",
+    "imdb": "tt4173660",
+    "tmdb": 975721
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 110
+}

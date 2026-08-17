@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_let_the_sunshine_in_2014",
+  "title": "Let the Sunshine in",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22101112",
+    "imdb": "tt4997640",
+    "tmdb": 1509685
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

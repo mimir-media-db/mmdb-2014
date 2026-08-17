@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_laura_das_juwel_von_stuttgart_2014",
+  "title": "Laura – Das Juwel von Stuttgart",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q26220380",
+    "imdb": "tt6633174",
+    "tmdb": 826858
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-01",
+  "runtime_minutes": 55
+}

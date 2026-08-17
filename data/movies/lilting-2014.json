@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lilting_2014",
+  "title": "Lilting",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6548422",
+    "imdb": "tt2560102",
+    "tmdb": 248212
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-16",
+  "runtime_minutes": 91
+}

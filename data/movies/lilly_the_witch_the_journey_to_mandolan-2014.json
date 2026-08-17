@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lilly_the_witch_the_journey_to_mandolan_2014",
+  "title": "Lilly the Witch: The Journey to Mandolan",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3428189",
+    "imdb": "tt1452293",
+    "tmdb": 54486
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-03",
+  "runtime_minutes": 90
+}

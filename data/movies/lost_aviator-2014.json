@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lost_aviator_2014",
+  "title": "The Lost Aviator",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q32941831",
+    "imdb": "tt3614966",
+    "tmdb": 328490
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

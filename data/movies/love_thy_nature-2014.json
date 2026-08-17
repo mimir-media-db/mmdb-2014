@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_thy_nature_2014",
+  "title": "Love Thy Nature",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19824776",
+    "imdb": "tt3244466",
+    "tmdb": 336472
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

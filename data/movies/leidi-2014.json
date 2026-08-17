@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_leidi_2014",
+  "title": "Leidi",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18786492",
+    "imdb": "tt3672606",
+    "tmdb": 329116
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 16
+}

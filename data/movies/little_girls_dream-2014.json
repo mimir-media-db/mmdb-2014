@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_little_girls_dream_2014",
+  "title": "A Little Girl's Dream",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24887157",
+    "imdb": "tt3880702",
+    "tmdb": 342774
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-29"
+}

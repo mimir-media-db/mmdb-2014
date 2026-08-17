@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lets_go_2014",
+  "title": "Let's Go",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25411065",
+    "tmdb": 340118
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 54
+}

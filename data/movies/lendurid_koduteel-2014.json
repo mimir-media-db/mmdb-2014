@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lendurid_koduteel_2014",
+  "title": "Lendurid koduteel",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q107481408",
+    "imdb": "tt3967218",
+    "tmdb": 421735
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

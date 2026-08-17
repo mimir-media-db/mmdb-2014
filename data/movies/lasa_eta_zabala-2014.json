@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lasa_eta_zabala_2014",
+  "title": "Lasa eta Zabala",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19685580",
+    "imdb": "tt3417470",
+    "tmdb": 256912
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 107
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lang_tong_2014",
+  "title": "Lang Tong",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q24037198",
+    "imdb": "tt6423578",
+    "tmdb": 443526
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-13"
+}

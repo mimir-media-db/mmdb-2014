@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_loop_ring_chop_drink_2014",
+  "title": "Loop Ring Chop Drink",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61985163",
+    "imdb": "tt3976334",
+    "tmdb": 369259
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 11
+}

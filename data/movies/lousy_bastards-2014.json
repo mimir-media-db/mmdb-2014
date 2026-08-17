@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lousy_bastards_2014",
+  "title": "Lousy Bastards",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12006966",
+    "imdb": "tt2211106",
+    "tmdb": 304223
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-04",
+  "runtime_minutes": 95
+}

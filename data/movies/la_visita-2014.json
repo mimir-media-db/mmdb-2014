@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_visita_2014",
+  "title": "La visita",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47766039",
+    "imdb": "tt3308106",
+    "tmdb": 314305
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 82
+}

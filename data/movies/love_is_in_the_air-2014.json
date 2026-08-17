@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_is_in_the_air_2014",
+  "title": "Love Is in the Air",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14901482",
+    "imdb": "tt2298384",
+    "tmdb": 168055
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-13",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_cueva_2014",
+  "title": "La Cueva",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17017275",
+    "imdb": "tt3506302",
+    "tmdb": 253376
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-25"
+}

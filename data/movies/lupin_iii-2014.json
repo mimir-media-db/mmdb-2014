@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lupin_iii_2014",
+  "title": "Lupin III",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15284489",
+    "imdb": "tt0862748",
+    "tmdb": 241868
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-30",
+  "runtime_minutes": 133
+}

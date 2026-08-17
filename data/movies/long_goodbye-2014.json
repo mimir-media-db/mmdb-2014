@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_long_goodbye_2014",
+  "title": "The Long Goodbye",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q122808613",
+    "imdb": "tt1907622",
+    "tmdb": 494629
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-26",
+  "runtime_minutes": 106
+}

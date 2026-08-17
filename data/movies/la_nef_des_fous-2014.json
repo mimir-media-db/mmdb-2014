@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_la_nef_des_fous_2014",
+  "title": "La Nef des fous",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q22262939",
+    "imdb": "tt6167910",
+    "tmdb": 922816
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-17"
+}

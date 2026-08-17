@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_love_you_bangaram_2014",
+  "title": "Love You Bangaram",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16317100",
+    "imdb": "tt15368296",
+    "tmdb": 253557
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-24"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_louder_than_words_2014",
+  "title": "Louder Than Words",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21160073",
+    "imdb": "tt1641401",
+    "tmdb": 254918
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-01",
+  "runtime_minutes": 95
+}

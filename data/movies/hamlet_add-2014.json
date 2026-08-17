@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hamlet_add_2014",
+  "title": "Hamlet A.D.D.",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5645457",
+    "imdb": "tt0892062",
+    "tmdb": 581297
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

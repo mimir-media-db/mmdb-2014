@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_highway_2014",
+  "title": "Highway",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15816471",
+    "imdb": "tt4594050",
+    "tmdb": 324802
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

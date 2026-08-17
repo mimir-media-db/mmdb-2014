@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_holiday_a_soldier_is_never_off_duty_2014",
+  "title": "Holiday: A Soldier Is Never Off Duty",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16301857",
+    "imdb": "tt2556308",
+    "tmdb": 273886
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

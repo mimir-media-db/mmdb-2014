@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hooligan_factory_2014",
+  "title": "The Hooligan Factory",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17426169",
+    "imdb": "tt2360446",
+    "tmdb": 281524
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

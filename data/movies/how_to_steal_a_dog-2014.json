@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_how_to_steal_a_dog_2014",
+  "title": "How to Steal a Dog",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18653080",
+    "imdb": "tt3812402",
+    "tmdb": 282153
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 109
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_holy_ghost_2014",
+  "title": "Holy Ghost",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17460791",
+    "imdb": "tt3747978",
+    "tmdb": 285434
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

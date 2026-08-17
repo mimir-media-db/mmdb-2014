@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_queen_of_blood_2014",
+  "title": "Queen of Blood",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18708859",
+    "imdb": "tt3263758",
+    "tmdb": 306932
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 78
+}

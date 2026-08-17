@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jacques_a_vu_2014",
+  "title": "Jacques a vu",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17630689",
+    "imdb": "tt4093402",
+    "tmdb": 296332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

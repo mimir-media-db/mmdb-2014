@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jingle_all_the_way_2_2014",
+  "title": "Jingle All the Way 2",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18379215",
+    "imdb": "tt3486392",
+    "tmdb": 289728
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 93
+}

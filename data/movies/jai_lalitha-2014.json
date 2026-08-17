@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jai_lalitha_2014",
+  "title": "Jai Lalitha",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18126168",
+    "imdb": "tt3821368",
+    "tmdb": 1064341
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

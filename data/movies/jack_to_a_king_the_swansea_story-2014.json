@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jack_to_a_king_the_swansea_story_2014",
+  "title": "Jack to a King – The Swansea Story",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18126207",
+    "imdb": "tt3868150",
+    "tmdb": 296643
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

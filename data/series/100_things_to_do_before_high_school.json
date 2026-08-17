@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_100_things_to_do_before_high_school",
+  "title": "100 Things to Do Before High School",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q18673004",
+    "imdb": "tt3904078",
+    "tmdb": 63038
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 25
+}

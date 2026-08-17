@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_water_wars_2014",
+  "title": "Water Wars",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131154649",
+    "imdb": "tt3010202",
+    "tmdb": 223758
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 78
+}

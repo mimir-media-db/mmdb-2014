@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_what_we_do_in_the_shadows_2014",
+  "title": "What We Do in the Shadows",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17036671",
+    "imdb": "tt3416742",
+    "tmdb": 246741
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-19",
+  "runtime_minutes": 86
+}

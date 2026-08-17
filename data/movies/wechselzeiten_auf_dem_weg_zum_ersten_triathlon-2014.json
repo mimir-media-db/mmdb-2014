@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wechselzeiten_auf_dem_weg_zum_ersten_triathlon_2014",
+  "title": "Wechselzeiten – Auf dem Weg zum ersten Triathlon",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17308092",
+    "imdb": "tt3867898",
+    "tmdb": 381756
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-26",
+  "runtime_minutes": 91
+}

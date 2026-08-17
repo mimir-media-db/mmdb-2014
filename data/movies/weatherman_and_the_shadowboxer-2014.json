@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_weatherman_and_the_shadowboxer_2014",
+  "title": "The Weatherman and the Shadowboxer",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30203632",
+    "imdb": "tt3946058",
+    "tmdb": 367307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

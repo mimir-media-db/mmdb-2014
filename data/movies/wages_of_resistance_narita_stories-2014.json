@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wages_of_resistance_narita_stories_2014",
+  "title": "The Wages of Resistance: Narita Stories",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q30927992",
+    "imdb": "tt6350622",
+    "tmdb": 338405
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

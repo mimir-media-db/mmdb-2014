@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_willkommen_bei_habib_2014",
+  "title": "Willkommen bei Habib",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q43531696",
+    "imdb": "tt3294340",
+    "tmdb": 261368
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-05",
+  "runtime_minutes": 111
+}

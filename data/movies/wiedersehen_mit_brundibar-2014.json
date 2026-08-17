@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wiedersehen_mit_brundibar_2014",
+  "title": "Wiedersehen mit Brundibár",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19844871",
+    "imdb": "tt4266030",
+    "tmdb": 831000
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-04",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wicked_2014",
+  "title": "The Wicked",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8140748",
+    "imdb": "tt1986994",
+    "tmdb": 131689
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-05",
+  "runtime_minutes": 100
+}

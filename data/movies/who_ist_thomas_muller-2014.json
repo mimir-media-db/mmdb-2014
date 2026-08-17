@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_who_ist_thomas_muller_2014",
+  "title": "Who ist Thomas Müller?",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q68834859",
+    "imdb": "tt3502754",
+    "tmdb": 247811
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-20"
+}

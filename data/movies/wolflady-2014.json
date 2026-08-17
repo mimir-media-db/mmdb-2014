@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_wolflady_2014",
+  "title": "Wolflady",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23938128",
+    "imdb": "tt4285780",
+    "tmdb": 338711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-11-22"
+}

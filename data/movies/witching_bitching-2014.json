@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_witching_bitching_2014",
+  "title": "Witching & Bitching",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7918377",
+    "imdb": "tt2404738",
+    "tmdb": 179538
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-20",
+  "runtime_minutes": 113
+}

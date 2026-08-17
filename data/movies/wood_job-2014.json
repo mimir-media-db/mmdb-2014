@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wood_job_2014",
+  "title": "Wood Job!",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17226542",
+    "imdb": "tt2964120",
+    "tmdb": 274817
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-10",
+  "runtime_minutes": 116
+}

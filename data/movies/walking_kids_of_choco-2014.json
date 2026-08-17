@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_walking_kids_of_choco_2014",
+  "title": "Walking Kids of Choco",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140779358",
+    "imdb": "tt3553626",
+    "tmdb": 629634
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 25
+}

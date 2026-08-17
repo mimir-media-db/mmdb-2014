@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_what_maisie_knew_2014",
+  "title": "What Maisie Knew",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7991314",
+    "imdb": "tt1932767",
+    "tmdb": 127373
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-20",
+  "runtime_minutes": 99
+}

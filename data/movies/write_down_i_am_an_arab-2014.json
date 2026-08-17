@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_write_down_i_am_an_arab_2014",
+  "title": "Write Down, I Am an Arab",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q63381108",
+    "imdb": "tt4019184",
+    "tmdb": 535924
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 73
+}

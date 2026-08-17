@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wandering_muse_2014",
+  "title": "The Wandering Muse",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65055383",
+    "imdb": "tt3783546",
+    "tmdb": 307018
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_what_is_left_2014",
+  "title": "What Is Left?",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q47445793",
+    "imdb": "tt3610264",
+    "tmdb": 276157
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 74
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_war_story_2014",
+  "title": "War Story",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16975891",
+    "imdb": "tt2845578",
+    "tmdb": 246013
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-19",
+  "runtime_minutes": 90
+}

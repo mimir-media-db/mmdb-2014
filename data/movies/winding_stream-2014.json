@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_winding_stream_2014",
+  "title": "The Winding Stream",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q117077238",
+    "imdb": "tt2516274",
+    "tmdb": 253337
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

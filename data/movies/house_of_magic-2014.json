@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_of_magic_2014",
+  "title": "The House of Magic",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15142320",
+    "imdb": "tt3148834",
+    "tmdb": 202575
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-22",
+  "runtime_minutes": 95
+}

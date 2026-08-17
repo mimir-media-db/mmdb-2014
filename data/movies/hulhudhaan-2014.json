@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hulhudhaan_2014",
+  "title": "Hulhudhaan",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55614050",
+    "imdb": "tt4152084",
+    "tmdb": 885747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

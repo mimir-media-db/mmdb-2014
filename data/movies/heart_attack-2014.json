@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_heart_attack_2014",
+  "title": "Heart Attack",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15694687",
+    "imdb": "tt3542320",
+    "tmdb": 253513
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-31"
+}

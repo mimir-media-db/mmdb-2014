@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_of_manson_2014",
+  "title": "House of Manson",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23023227",
+    "imdb": "tt3100678",
+    "tmdb": 372174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-18",
+  "runtime_minutes": 98
+}

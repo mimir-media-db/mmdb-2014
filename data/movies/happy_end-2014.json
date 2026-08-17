@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_end_2014",
+  "title": "Happy End?!",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21512896",
+    "imdb": "tt3525678",
+    "tmdb": 315890
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-18"
+}

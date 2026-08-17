@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_his_wife_2014",
+  "title": "His Wife",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16677458",
+    "imdb": "tt2833598",
+    "tmdb": 259045
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-12",
+  "runtime_minutes": 108
+}

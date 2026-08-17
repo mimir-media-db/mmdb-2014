@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_husband_to_rent_2014",
+  "title": "Husband to Rent",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17444471",
+    "imdb": "tt3835730",
+    "tmdb": 314049
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-25",
+  "runtime_minutes": 100
+}

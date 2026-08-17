@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_house_of_versace_2014",
+  "title": "House of Versace",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18977307",
+    "imdb": "tt3077060",
+    "tmdb": 226360
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-27",
+  "runtime_minutes": 89
+}

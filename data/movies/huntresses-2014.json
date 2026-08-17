@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_huntresses_2014",
+  "title": "The Huntresses",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7741115",
+    "imdb": "tt3530418",
+    "tmdb": 254011
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-29",
+  "runtime_minutes": 107
+}

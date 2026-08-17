@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_haindling_und_uberhaupts_2014",
+  "title": "Haindling – und überhaupts",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19844696",
+    "imdb": "tt4276030",
+    "tmdb": 324413
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-04"
+}

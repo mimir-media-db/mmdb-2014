@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_holbrooktwain_an_american_odyssey_2014",
+  "title": "Holbrook/Twain: An American Odyssey",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q73537080",
+    "imdb": "tt1745718",
+    "tmdb": 277678
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

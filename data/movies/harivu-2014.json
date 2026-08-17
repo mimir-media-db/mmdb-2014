@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_harivu_2014",
+  "title": "Harivu",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18786566",
+    "imdb": "tt12923344",
+    "tmdb": 501047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

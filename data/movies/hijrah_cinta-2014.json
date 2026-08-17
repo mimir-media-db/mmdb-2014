@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hijrah_cinta_2014",
+  "title": "Hijrah Cinta",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19751895",
+    "imdb": "tt3956272",
+    "tmdb": 457636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

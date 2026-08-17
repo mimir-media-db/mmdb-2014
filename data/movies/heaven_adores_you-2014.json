@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_heaven_adores_you_2014",
+  "title": "Heaven Adores You",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18150574",
+    "imdb": "tt2244889",
+    "tmdb": 276729
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-05",
+  "runtime_minutes": 104
+}

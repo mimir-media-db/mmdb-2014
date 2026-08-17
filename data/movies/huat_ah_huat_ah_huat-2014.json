@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_huat_ah_huat_ah_huat_2014",
+  "title": "Huat Ah Huat Ah Huat",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q55693939",
+    "imdb": "tt3526618",
+    "tmdb": 497680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

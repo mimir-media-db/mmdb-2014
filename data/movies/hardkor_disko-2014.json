@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hardkor_disko_2014",
+  "title": "Hardkor Disko",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16557039",
+    "imdb": "tt3671676",
+    "tmdb": 278867
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-04"
+}

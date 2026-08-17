@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_haunted_house_2_2014",
+  "title": "A Haunted House 2",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14906074",
+    "imdb": "tt2828996",
+    "tmdb": 184345
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-18",
+  "runtime_minutes": 86
+}

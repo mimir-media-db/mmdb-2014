@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_pazo_de_familia",
+  "title": "Pazo de familia",
+  "start_year": 2014,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q20548163",
+    "imdb": "tt4246802"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8
+}

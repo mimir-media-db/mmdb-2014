@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_paradox",
+  "title": "Paradox",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q25352144",
+    "imdb": "tt3140434",
+    "tmdb": 60608
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 17
+}

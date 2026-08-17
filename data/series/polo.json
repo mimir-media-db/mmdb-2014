@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_polo",
+  "title": "Polo",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q23681118",
+    "imdb": "tt4274726",
+    "tmdb": 24669
+  },
+  "last_updated": "2026-08-17"
+}

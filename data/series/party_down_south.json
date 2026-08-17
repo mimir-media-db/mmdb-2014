@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_party_down_south",
+  "title": "Party Down South",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q17156889"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 86
+}

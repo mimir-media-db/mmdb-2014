@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_playing_house",
+  "title": "Playing House",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q17067281",
+    "imdb": "tt2750182",
+    "tmdb": 61762
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

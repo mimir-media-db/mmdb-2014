@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_namnala_2014",
+  "title": "Namnala",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17566641",
+    "imdb": "tt3690962",
+    "tmdb": 430924
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 15
+}

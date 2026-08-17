@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_northern_soul_2014",
+  "title": "Northern Soul",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18354902",
+    "imdb": "tt1837613",
+    "tmdb": 297265
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

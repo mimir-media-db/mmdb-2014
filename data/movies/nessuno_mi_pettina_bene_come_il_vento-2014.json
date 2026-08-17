@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nessuno_mi_pettina_bene_come_il_vento_2014",
+  "title": "Nessuno mi pettina bene come il vento",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16581954",
+    "imdb": "tt3608766",
+    "tmdb": 264454
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nerungi_vaa_muthamidathe_2014",
+  "title": "Nerungi Vaa Muthamidathe",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18128663",
+    "imdb": "tt4047126",
+    "tmdb": 300506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

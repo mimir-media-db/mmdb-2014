@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hank_zipzer",
+  "title": "Hank Zipzer",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q5648510",
+    "imdb": "tt3236954",
+    "tmdb": 71781
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 39
+}

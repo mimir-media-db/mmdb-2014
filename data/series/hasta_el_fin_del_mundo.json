@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hasta_el_fin_del_mundo",
+  "title": "Hasta el fin del mundo",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q15215803",
+    "imdb": "tt3886214",
+    "tmdb": 61861
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 191
+}

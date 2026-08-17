@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_happyland",
+  "title": "Happyland",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q18156704",
+    "imdb": "tt3168978",
+    "tmdb": 61551
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

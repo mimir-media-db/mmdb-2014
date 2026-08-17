@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_helix",
+  "title": "Helix",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q15146232",
+    "imdb": "tt2758950",
+    "tmdb": 58811
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

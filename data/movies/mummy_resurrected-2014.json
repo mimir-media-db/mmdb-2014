@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mummy_resurrected_2014",
+  "title": "The Mummy Resurrected",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17593408",
+    "imdb": "tt3382842",
+    "tmdb": 268508
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 80
+}

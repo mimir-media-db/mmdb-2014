@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_main_aur_mr_riight_2014",
+  "title": "Main Aur Mr. Riight",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6735918",
+    "imdb": "tt2216852",
+    "tmdb": 309158
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

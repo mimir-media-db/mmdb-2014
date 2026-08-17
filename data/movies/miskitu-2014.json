@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_miskitu_2014",
+  "title": "Miskitu",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17155103",
+    "imdb": "tt3763730",
+    "tmdb": 441747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_modris_2014",
+  "title": "Modris",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18128115",
+    "imdb": "tt3657970",
+    "tmdb": 287504
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 98
+}

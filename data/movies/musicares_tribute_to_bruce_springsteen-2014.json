@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_musicares_tribute_to_bruce_springsteen_2014",
+  "title": "A MusiCares Tribute to Bruce Springsteen",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17114060",
+    "imdb": "tt3633050",
+    "tmdb": 266998
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 135
+}

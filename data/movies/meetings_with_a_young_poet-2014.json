@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_meetings_with_a_young_poet_2014",
+  "title": "Meetings with a Young Poet",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17009876",
+    "imdb": "tt2524112",
+    "tmdb": 255434
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

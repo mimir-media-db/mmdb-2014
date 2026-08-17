@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_meet_me_in_montenegro_2014",
+  "title": "Meet Me in Montenegro",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14071865",
+    "imdb": "tt2151739",
+    "tmdb": 287501
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

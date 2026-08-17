@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_macadam_baby_2014",
+  "title": "Macadam Baby",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3273966",
+    "imdb": "tt2720792",
+    "tmdb": 372371
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

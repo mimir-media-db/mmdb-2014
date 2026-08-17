@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_brilliant_life_2014",
+  "title": "My Brilliant Life",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18009267",
+    "imdb": "tt3837820",
+    "tmdb": 282058
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 117
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_red_shoes_2014",
+  "title": "My Red Shoes",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15918458",
+    "imdb": "tt3461146",
+    "tmdb": 258540
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

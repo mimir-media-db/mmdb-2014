@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_measure_of_all_things_2014",
+  "title": "The Measure of All Things",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17061423",
+    "imdb": "tt3458756",
+    "tmdb": 329251
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

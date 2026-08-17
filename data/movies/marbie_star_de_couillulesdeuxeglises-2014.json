@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_marbie_star_de_couillulesdeuxeglises_2014",
+  "title": "Marbie, star de Couillu-les-Deux-Églises",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16662847",
+    "imdb": "tt3410190",
+    "tmdb": 462505
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

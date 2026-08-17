@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mea_culpa_2014",
+  "title": "Mea Culpa",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15972776",
+    "imdb": "tt3112654",
+    "tmdb": 248611
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

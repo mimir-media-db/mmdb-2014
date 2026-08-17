@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_meet_miss_anxiety_2014",
+  "title": "Meet Miss Anxiety",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703184",
+    "imdb": "tt4024368",
+    "tmdb": 299826
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 99
+}

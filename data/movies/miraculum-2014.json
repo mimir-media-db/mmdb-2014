@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miraculum_2014",
+  "title": "Miraculum",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16664690",
+    "imdb": "tt2717528",
+    "tmdb": 248231
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 109
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_suburban_gothic_2014",
+  "title": "Suburban Gothic",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18386049",
+    "imdb": "tt3279176",
+    "tmdb": 277688
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

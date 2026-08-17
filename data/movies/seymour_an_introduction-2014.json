@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seymour_an_introduction_2014",
+  "title": "Seymour: An Introduction",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18153917",
+    "imdb": "tt2219650",
+    "tmdb": 291817
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

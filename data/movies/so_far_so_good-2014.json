@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_so_far_so_good_2014",
+  "title": "So Far So Good",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18347017",
+    "imdb": "tt4067120",
+    "tmdb": 298702
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 80
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_stallo_curse_of_the_shaman_2014",
+  "title": "Stallo: Curse of the Shaman",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15729771",
+    "imdb": "tt3112802",
+    "tmdb": 608464
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

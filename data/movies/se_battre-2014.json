@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_se_battre_2014",
+  "title": "Se battre",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16675894",
+    "imdb": "tt3012592",
+    "tmdb": 372372
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

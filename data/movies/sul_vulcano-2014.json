@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sul_vulcano_2014",
+  "title": "Sul Vulcano",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18713318",
+    "imdb": "tt3905092",
+    "tmdb": 325339
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 88
+}

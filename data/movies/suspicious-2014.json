@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_suspicious_2014",
+  "title": "The Suspicious",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16690206",
+    "imdb": "tt7510132",
+    "tmdb": 279052
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

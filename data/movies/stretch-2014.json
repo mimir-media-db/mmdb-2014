@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_stretch_2014",
+  "title": "Stretch",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14948589",
+    "imdb": "tt2494280",
+    "tmdb": 227300
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 94
+}

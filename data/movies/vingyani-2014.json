@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vingyani_2014",
+  "title": "Vingyani",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29832168",
+    "imdb": "tt7580978",
+    "tmdb": 1008061
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-11-28"
+}

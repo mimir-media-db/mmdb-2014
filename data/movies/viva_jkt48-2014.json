@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_viva_jkt48_2014",
+  "title": "Viva JKT48",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19753003",
+    "imdb": "tt7803936",
+    "tmdb": 299691
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

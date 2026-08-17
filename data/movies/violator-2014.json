@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_violator_2014",
+  "title": "Violator",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25136389",
+    "imdb": "tt4149246",
+    "tmdb": 302106
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-11-10"
+}

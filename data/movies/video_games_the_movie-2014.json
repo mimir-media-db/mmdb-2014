@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_video_games_the_movie_2014",
+  "title": "Video Games: The Movie",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18155520",
+    "imdb": "tt3214002",
+    "tmdb": 269100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-15"
+}

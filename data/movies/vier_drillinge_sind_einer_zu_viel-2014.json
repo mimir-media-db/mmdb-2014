@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vier_drillinge_sind_einer_zu_viel_2014",
+  "title": "Vier Drillinge sind einer zu viel",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q50885996",
+    "imdb": "tt3655964",
+    "tmdb": 306936
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 88
+}

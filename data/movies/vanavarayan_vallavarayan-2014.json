@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vanavarayan_vallavarayan_2014",
+  "title": "Vanavarayan Vallavarayan",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7913988",
+    "imdb": "tt2419640",
+    "tmdb": 263498
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-12"
+}

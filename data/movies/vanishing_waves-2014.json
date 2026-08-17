@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vanishing_waves_2014",
+  "title": "Vanishing Waves",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7914971",
+    "imdb": "tt2208216",
+    "tmdb": 133764
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-13",
+  "runtime_minutes": 124
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vallavanukku_pullum_aayudham_2014",
+  "title": "Vallavanukku Pullum Aayudham",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16255074",
+    "imdb": "tt3681460",
+    "tmdb": 263512
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-10"
+}

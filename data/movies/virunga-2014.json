@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_virunga_2014",
+  "title": "Virunga",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18395479",
+    "imdb": "tt3455224",
+    "tmdb": 263614
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-17",
+  "runtime_minutes": 90
+}

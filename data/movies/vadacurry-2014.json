@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vadacurry_2014",
+  "title": "Vadacurry",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16255061",
+    "imdb": "tt3681454",
+    "tmdb": 263487
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-19"
+}

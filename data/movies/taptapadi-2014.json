@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_taptapadi_2014",
+  "title": "Taptapadi",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28407976",
+    "imdb": "tt3882828",
+    "tmdb": 494166
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-28"
+}

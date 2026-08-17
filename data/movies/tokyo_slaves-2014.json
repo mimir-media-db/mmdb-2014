@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tokyo_slaves_2014",
+  "title": "Tokyo Slaves",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18010631",
+    "imdb": "tt3238462",
+    "tmdb": 313263
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-28",
+  "runtime_minutes": 100
+}

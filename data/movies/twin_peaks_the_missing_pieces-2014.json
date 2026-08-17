@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_twin_peaks_the_missing_pieces_2014",
+  "title": "Twin Peaks: The Missing Pieces",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q32067391",
+    "imdb": "tt5334704",
+    "tmdb": 284457
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-16",
+  "runtime_minutes": 91
+}

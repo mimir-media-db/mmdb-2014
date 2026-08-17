@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_three_days_in_sarajevo_2014",
+  "title": "Three Days in Sarajevo",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31192186",
+    "imdb": "tt3700558"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

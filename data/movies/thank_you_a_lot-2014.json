@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_thank_you_a_lot_2014",
+  "title": "Thank You a Lot",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170511",
+    "imdb": "tt2368056",
+    "tmdb": 253284
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-07"
+}

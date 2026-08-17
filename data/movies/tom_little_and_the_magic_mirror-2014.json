@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tom_little_and_the_magic_mirror_2014",
+  "title": "Tom Little and the Magic Mirror",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q98429328",
+    "imdb": "tt3644570",
+    "tmdb": 309002
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-20",
+  "runtime_minutes": 78
+}

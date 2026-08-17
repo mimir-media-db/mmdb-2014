@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_torture_club_2014",
+  "title": "The Torture Club",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q140473571",
+    "imdb": "tt3617996",
+    "tmdb": 297090
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-18",
+  "runtime_minutes": 97
+}

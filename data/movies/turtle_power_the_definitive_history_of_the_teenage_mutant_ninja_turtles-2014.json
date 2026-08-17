@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_turtle_power_the_definitive_history_of_the_teenage_mutant_ninja_turtles_2014",
+  "title": "Turtle Power: The Definitive History of the Teenage Mutant Ninja Turtles",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21528193",
+    "imdb": "tt3817848",
+    "tmdb": 280276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-12",
+  "runtime_minutes": 98
+}

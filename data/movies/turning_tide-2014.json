@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_turning_tide_2014",
+  "title": "Turning Tide",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3053644",
+    "imdb": "tt2165236",
+    "tmdb": 149087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-12",
+  "runtime_minutes": 101
+}

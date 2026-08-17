@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_trailer_park_boys_live_in_fuckin_dublin_2014",
+  "title": "Trailer Park Boys: Live in Fuckin' Dublin",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q51126436",
+    "imdb": "tt3580052",
+    "tmdb": 274326
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-01",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_third_person_2014",
+  "title": "Third Person",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3522995",
+    "imdb": "tt2343793",
+    "tmdb": 192145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-04",
+  "runtime_minutes": 137
+}

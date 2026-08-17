@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_live_and_die_in_ordos_2014",
+  "title": "To Live and Die in Ordos",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q125696950",
+    "imdb": "tt3064998",
+    "tmdb": 232233
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-21",
+  "runtime_minutes": 113
+}

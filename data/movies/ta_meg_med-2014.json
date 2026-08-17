@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ta_meg_med_2014",
+  "title": "Ta meg med!",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21935445",
+    "imdb": "tt3146438",
+    "tmdb": 253009
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-04",
+  "runtime_minutes": 82
+}

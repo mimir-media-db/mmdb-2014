@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_thermae_romae_ii_2014",
+  "title": "Thermae Romae II",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17055994",
+    "imdb": "tt2664264",
+    "tmdb": 268002
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-26",
+  "runtime_minutes": 112
+}

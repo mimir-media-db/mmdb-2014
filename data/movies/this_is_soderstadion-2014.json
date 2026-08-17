@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_this_is_soderstadion_2014",
+  "title": "This is Söderstadion",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19978618",
+    "imdb": "tt4125440",
+    "tmdb": 332306
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 82
+}

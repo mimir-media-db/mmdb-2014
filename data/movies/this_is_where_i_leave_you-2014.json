@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_this_is_where_i_leave_you_2014",
+  "title": "This Is Where I Leave You",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15039873",
+    "imdb": "tt1371150",
+    "tmdb": 239678
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-07",
+  "runtime_minutes": 103
+}

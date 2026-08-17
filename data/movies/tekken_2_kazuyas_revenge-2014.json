@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tekken_2_kazuyas_revenge_2014",
+  "title": "Tekken 2: Kazuya's Revenge",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18154863",
+    "imdb": "tt3462696",
+    "tmdb": 286548
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-08-12",
+  "runtime_minutes": 88
+}

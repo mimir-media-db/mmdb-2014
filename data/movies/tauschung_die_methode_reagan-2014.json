@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tauschung_die_methode_reagan_2014",
+  "title": "Täuschung - Die Methode Reagan",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q105564684",
+    "imdb": "tt4749508",
+    "tmdb": 394050
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 52
+}

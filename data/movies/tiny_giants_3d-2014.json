@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tiny_giants_3d_2014",
+  "title": "Tiny Giants 3D",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27952944",
+    "imdb": "tt3739614",
+    "tmdb": 342562
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

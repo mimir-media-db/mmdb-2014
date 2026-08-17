@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trip_to_bhangarh_2014",
+  "title": "Trip to Bhangarh",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21160183",
+    "imdb": "tt4187650",
+    "tmdb": 305769
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

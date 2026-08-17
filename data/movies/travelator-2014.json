@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_travelator_2014",
+  "title": "Travelator",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q31181039",
+    "imdb": "tt1320115",
+    "tmdb": 313940
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 99
+}

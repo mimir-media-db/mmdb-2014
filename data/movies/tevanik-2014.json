@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tevanik_2014",
+  "title": "Tevanik",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q25487538",
+    "imdb": "tt5578056"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 81
+}

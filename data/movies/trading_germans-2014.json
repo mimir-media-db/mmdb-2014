@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_trading_germans_2014",
+  "title": "Trading Germans",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q116482198",
+    "imdb": "tt4081852",
+    "tmdb": 489140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-10"
+}

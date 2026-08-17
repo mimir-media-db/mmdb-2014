@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tum_ho_yaara_2014",
+  "title": "Tum Ho Yaara",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17088084",
+    "imdb": "tt2078757",
+    "tmdb": 339238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-30"
+}

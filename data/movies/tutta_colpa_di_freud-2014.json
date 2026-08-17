@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_tutta_colpa_di_freud_2014",
+  "title": "Tutta colpa di Freud",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15623873",
+    "imdb": "tt3237406",
+    "tmdb": 250235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-23",
+  "runtime_minutes": 120
+}

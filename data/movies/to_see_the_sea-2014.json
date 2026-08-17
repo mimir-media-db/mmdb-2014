@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_to_see_the_sea_2014",
+  "title": "To See the Sea",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14324388",
+    "imdb": "tt3041932",
+    "tmdb": 268726
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-06",
+  "runtime_minutes": 90
+}

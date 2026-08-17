@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_three_d_2014",
+  "title": "Three D",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q60494153",
+    "imdb": "tt3649966",
+    "tmdb": 435208
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 92
+}

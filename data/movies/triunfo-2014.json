@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_triunfo_2014",
+  "title": "Triunfo",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28678997",
+    "imdb": "tt3661582",
+    "tmdb": 336035
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

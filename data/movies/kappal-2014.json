@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kappal_2014",
+  "title": "Kappal",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17064001",
+    "imdb": "tt4306694",
+    "tmdb": 311152
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

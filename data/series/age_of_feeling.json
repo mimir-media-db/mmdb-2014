@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_age_of_feeling",
+  "title": "Age of Feeling",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q14701400",
+    "imdb": "tt3112622",
+    "tmdb": 61140
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 24
+}

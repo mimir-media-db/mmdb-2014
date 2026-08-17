@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_o_hayat_benim",
+  "title": "O Hayat Benim",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q21888085",
+    "imdb": "tt3659018",
+    "tmdb": 66124
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 131
+}

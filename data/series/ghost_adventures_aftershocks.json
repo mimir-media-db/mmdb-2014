@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ghost_adventures_aftershocks",
+  "title": "Ghost Adventures Aftershocks",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16994089",
+    "imdb": "tt3747574",
+    "tmdb": 63635
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 13
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kuprin",
+  "title": "Kuprin",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q18244669",
+    "imdb": "tt3773688",
+    "tmdb": 76844
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

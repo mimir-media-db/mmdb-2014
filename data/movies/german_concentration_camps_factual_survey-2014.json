@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_german_concentration_camps_factual_survey_2014",
+  "title": "German Concentration Camps Factual Survey",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18750238",
+    "imdb": "tt3455796",
+    "tmdb": 254642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 60
+}

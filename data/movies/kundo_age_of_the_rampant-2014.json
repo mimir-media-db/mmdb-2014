@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kundo_age_of_the_rampant_2014",
+  "title": "Kundo: Age of the Rampant",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6444349",
+    "imdb": "tt2972482",
+    "tmdb": 281780
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 137
+}

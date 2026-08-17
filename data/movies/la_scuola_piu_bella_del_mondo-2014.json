@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_scuola_piu_bella_del_mondo_2014",
+  "title": "La scuola più bella del mondo",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18289091",
+    "imdb": "tt3907734",
+    "tmdb": 302798
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

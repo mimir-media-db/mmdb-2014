@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bystree_chem_kroliki_2014",
+  "title": "Bystree, chem kroliki",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15709915",
+    "imdb": "tt3451498",
+    "tmdb": 253192
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 99
+}

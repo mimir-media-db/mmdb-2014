@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_revenge_of_the_green_dragons_2014",
+  "title": "Revenge of the Green Dragons",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14775040",
+    "imdb": "tt1396523",
+    "tmdb": 286709
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

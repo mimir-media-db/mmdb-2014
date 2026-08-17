@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_death_trip_2014",
+  "title": "Death Trip",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703039",
+    "imdb": "tt4365388",
+    "tmdb": 362332
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

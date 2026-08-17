@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_life_story",
+  "title": "Life Story",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16996295",
+    "imdb": "tt4150884",
+    "tmdb": 61894
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

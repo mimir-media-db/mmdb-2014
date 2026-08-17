@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_glue",
+  "title": "Glue",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17629108",
+    "imdb": "tt3868832",
+    "tmdb": 61380
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

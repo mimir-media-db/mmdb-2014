@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yennamo_yedho_2014",
+  "title": "Yennamo Yedho",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16255369",
+    "imdb": "tt3557964",
+    "tmdb": 266309
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

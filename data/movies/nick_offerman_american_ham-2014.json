@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_nick_offerman_american_ham_2014",
+  "title": "Nick Offerman: American Ham",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17112644",
+    "imdb": "tt3441700",
+    "tmdb": 250114
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

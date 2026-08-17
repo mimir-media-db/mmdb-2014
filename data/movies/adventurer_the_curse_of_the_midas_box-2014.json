@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_adventurer_the_curse_of_the_midas_box_2014",
+  "title": "The Adventurer: The Curse of the Midas Box",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q245671",
+    "imdb": "tt1376213",
+    "tmdb": 227707
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 100
+}

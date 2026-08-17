@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tom_in_america_2014",
+  "title": "Tom in America",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12129531",
+    "imdb": "tt3216866",
+    "tmdb": 229865
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

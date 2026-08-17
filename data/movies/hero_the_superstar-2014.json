@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hero_the_superstar_2014",
+  "title": "Hero: The Superstar",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16248896",
+    "imdb": "tt3424652",
+    "tmdb": 326410
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

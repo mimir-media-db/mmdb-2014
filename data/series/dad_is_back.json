@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_dad_is_back",
+  "title": "Dad is Back",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17150998",
+    "tmdb": 236408
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

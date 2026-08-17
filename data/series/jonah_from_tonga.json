@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_jonah_from_tonga",
+  "title": "Jonah from Tonga",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16997874",
+    "imdb": "tt3431720",
+    "tmdb": 61011
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_disobedient_2014",
+  "title": "The Disobedient",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16232073",
+    "imdb": "tt2267712",
+    "tmdb": 245856
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

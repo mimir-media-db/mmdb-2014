@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sa_ngalan_ng_ama_ina_at_mga_anak_2014",
+  "title": "Sa Ngalan ng Ama, Ina, at mga Anak",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17060929",
+    "imdb": "tt3499562",
+    "tmdb": 284211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

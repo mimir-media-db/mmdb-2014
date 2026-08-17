@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_puncture_wounds_2014",
+  "title": "Puncture Wounds",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17183012",
+    "imdb": "tt2909476",
+    "tmdb": 252830
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

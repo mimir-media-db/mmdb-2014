@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_eyes_of_a_thief_2014",
+  "title": "Eyes of a Thief",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18205960",
+    "imdb": "tt2993406",
+    "tmdb": 295621
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

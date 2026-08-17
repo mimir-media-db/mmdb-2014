@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_innamorata",
+  "title": "Innamorata",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17073780",
+    "imdb": "tt3914874",
+    "tmdb": 221717
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 88
+}

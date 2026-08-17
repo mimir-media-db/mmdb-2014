@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_kaanchi_2014",
+  "title": "Kaanchi",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6343429",
+    "imdb": "tt3038772",
+    "tmdb": 266310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sms_2014",
+  "title": "SMS",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16674625",
+    "imdb": "tt3253750",
+    "tmdb": 279047
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 84
+}

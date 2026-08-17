@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_as_night_comes_2014",
+  "title": "As Night Comes",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703066",
+    "imdb": "tt2787874",
+    "tmdb": 303180
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

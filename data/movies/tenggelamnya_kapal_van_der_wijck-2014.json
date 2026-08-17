@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_tenggelamnya_kapal_van_der_wijck_2014",
+  "title": "Tenggelamnya Kapal van der Wijck",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15303767",
+    "imdb": "tt3418604",
+    "tmdb": 257194
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

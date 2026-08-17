@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_quito_2023_2014",
+  "title": "Quito 2023",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6095431",
+    "imdb": "tt2527560",
+    "tmdb": 308762
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

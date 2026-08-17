@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_demon_of_the_andes_2014",
+  "title": "The Demon of the Andes",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19434390",
+    "imdb": "tt5424980",
+    "tmdb": 496200
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 87
+}

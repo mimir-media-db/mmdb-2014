@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_esta_e_a_minha_banda_2014",
+  "title": "Esta é a Minha Banda",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18246731"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 60
+}

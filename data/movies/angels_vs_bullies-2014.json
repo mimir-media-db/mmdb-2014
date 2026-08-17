@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_angels_vs_bullies_2014",
+  "title": "Angels vs Bullies",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19363539",
+    "imdb": "tt5060502",
+    "tmdb": 380814
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

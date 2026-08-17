@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sladkaya_zhizn",
+  "title": "Sladkaya zhizn",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q18400819",
+    "imdb": "tt3764164",
+    "tmdb": 64466
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 21
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_3_am_part_2_2014",
+  "title": "3 AM: Part 2",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16499943",
+    "imdb": "tt3345466",
+    "tmdb": 267458
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

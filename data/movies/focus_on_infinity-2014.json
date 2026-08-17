@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_focus_on_infinity_2014",
+  "title": "Focus on Infinity",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16831382",
+    "imdb": "tt3524638",
+    "tmdb": 282044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 78
+}

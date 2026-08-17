@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mary_kom_2014",
+  "title": "Mary Kom",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16254978",
+    "imdb": "tt3001638",
+    "tmdb": 284288
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

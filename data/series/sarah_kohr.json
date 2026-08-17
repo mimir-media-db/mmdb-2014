@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sarah_kohr",
+  "title": "Sarah Kohr",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q80789367",
+    "imdb": "tt8648152",
+    "tmdb": 202362
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 5
+}

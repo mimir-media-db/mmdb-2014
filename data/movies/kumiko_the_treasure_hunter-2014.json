@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kumiko_the_treasure_hunter_2014",
+  "title": "Kumiko, the Treasure Hunter",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16998771",
+    "imdb": "tt3263614",
+    "tmdb": 244563
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 104
+}

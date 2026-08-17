@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_21_2014",
+  "title": "2+1",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18203133",
+    "imdb": "tt4299324",
+    "tmdb": 885386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_soul_mates",
+  "title": "Soul Mates",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17049627",
+    "imdb": "tt3370324",
+    "tmdb": 66951
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

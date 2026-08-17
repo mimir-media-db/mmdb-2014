@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_la_viuda_negra",
+  "title": "La Viuda Negra",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q15814235",
+    "imdb": "tt3275706",
+    "tmdb": 60637
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 144
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hukumet_kadn_2_2014",
+  "title": "Hükümet Kadın 2",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17450818",
+    "imdb": "tt3283718",
+    "tmdb": 255156
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

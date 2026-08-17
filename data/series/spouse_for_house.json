@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_spouse_for_house",
+  "title": "Spouse for House",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18392449",
+    "imdb": "tt3653860",
+    "tmdb": 63342
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

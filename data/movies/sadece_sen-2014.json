@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sadece_sen_2014",
+  "title": "Sadece Sen",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17450868",
+    "imdb": "tt3477480",
+    "tmdb": 277934
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

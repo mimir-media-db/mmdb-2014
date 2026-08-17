@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_vessel_2014",
+  "title": "Vessel",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18155500",
+    "imdb": "tt3311588",
+    "tmdb": 253267
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

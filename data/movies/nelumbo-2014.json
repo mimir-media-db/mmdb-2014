@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_nelumbo_2014",
+  "title": "Nelumbo",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18128639",
+    "imdb": "tt3587986"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

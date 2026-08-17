@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_borbaad_2014",
+  "title": "Borbaad",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17401986",
+    "imdb": "tt3958596",
+    "tmdb": 306395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

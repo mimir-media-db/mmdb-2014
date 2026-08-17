@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pune_via_bihar_2014",
+  "title": "Pune Via Bihar",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15698801",
+    "imdb": "tt3996970",
+    "tmdb": 259340
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

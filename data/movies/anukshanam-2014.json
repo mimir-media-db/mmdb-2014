@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_anukshanam_2014",
+  "title": "Anukshanam",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17495665",
+    "imdb": "tt3949630",
+    "tmdb": 292140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

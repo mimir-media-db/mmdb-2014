@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_zinko",
+  "title": "Zinko",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137363679",
+    "imdb": "tt35139370",
+    "tmdb": 284650
+  },
+  "last_updated": "2026-08-17"
+}

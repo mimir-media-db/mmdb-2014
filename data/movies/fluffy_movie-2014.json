@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fluffy_movie_2014",
+  "title": "The Fluffy Movie",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18150000",
+    "imdb": "tt3532608",
+    "tmdb": 256273
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

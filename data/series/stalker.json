@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_stalker",
+  "title": "Stalker",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16893352",
+    "imdb": "tt3560094",
+    "tmdb": 60796
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 20
+}

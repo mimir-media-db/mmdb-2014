@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mercuriales_2014",
+  "title": "Mercuriales",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17635015",
+    "imdb": "tt3454612",
+    "tmdb": 274666
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 108
+}

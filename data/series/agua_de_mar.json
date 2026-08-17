@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_agua_de_mar",
+  "title": "Água de Mar",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18472833",
+    "imdb": "tt3762608",
+    "tmdb": 68797
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 156
+}

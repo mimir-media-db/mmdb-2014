@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yaariyan_2014",
+  "title": "Yaariyan",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17157330",
+    "imdb": "tt3382148",
+    "tmdb": 252053
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

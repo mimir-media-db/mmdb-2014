@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_american_revolution",
+  "title": "The American Revolution",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q18645262",
+    "imdb": "tt4327600",
+    "tmdb": 73224
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 3
+}

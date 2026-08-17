@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_extant",
+  "title": "Extant",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q15072814",
+    "imdb": "tt3155320",
+    "tmdb": 58111
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

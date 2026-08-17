@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_accidents_2014",
+  "title": "Little Accidents",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15913592",
+    "imdb": "tt3125220",
+    "tmdb": 244260
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 105
+}

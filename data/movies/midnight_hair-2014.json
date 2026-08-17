@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_midnight_hair_2014",
+  "title": "Midnight Hair",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18128024",
+    "imdb": "tt5619304",
+    "tmdb": 325517
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

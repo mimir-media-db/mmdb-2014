@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kristy_2014",
+  "title": "Kristy",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18682975",
+    "imdb": "tt2027136",
+    "tmdb": 146229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 75
+}

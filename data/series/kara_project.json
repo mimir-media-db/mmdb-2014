@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_kara_project",
+  "title": "Kara Project",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q18708003"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ein_fall_fur_tkkg",
+  "title": "Ein Fall für TKKG",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19885511",
+    "imdb": "tt4320654",
+    "tmdb": 71105
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 17
+}

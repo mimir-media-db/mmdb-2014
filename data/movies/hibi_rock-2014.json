@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_hibi_rock_2014",
+  "title": "Hibi Rock",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17225444",
+    "imdb": "tt3579168",
+    "tmdb": 287091
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

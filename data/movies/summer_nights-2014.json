@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_summer_nights_2014",
+  "title": "Summer Nights",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16655166",
+    "imdb": "tt3759430",
+    "tmdb": 292387
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_please_take_care_of_my_refrigerator",
+  "title": "Please Take Care of My Refrigerator",
+  "start_year": 2014,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q18604987",
+    "imdb": "tt4546444",
+    "tmdb": 73036
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 134
+}

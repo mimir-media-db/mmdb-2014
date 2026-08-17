@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_night_of_adventure_2014",
+  "title": "Night of Adventure",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18128725",
+    "imdb": "tt4799538",
+    "tmdb": 293938
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

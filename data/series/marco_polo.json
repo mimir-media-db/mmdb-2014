@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_marco_polo",
+  "title": "Marco Polo",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q6757674",
+    "imdb": "tt2189461",
+    "tmdb": 60699
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 21
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_de_mujer_a_mujer_2014",
+  "title": "De mujer a mujer",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18709324",
+    "imdb": "tt4247244",
+    "tmdb": 308537
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

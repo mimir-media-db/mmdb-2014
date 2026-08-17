@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_win_lose_or_draw",
+  "title": "Win, Lose or Draw",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17066531",
+    "imdb": "tt2971386",
+    "tmdb": 64185
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 40
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_paradise_in_service_2014",
+  "title": "Paradise in Service",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17500800",
+    "imdb": "tt4012914",
+    "tmdb": 287888
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 133
+}

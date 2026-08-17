@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_curse_of_styria_2014",
+  "title": "The Curse of Styria",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4526886",
+    "imdb": "tt1764614",
+    "tmdb": 229154
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 99
+}

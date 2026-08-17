@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_un_sueno_llamado_salsa",
+  "title": "Un sueño llamado salsa",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q6155432",
+    "imdb": "tt4327332",
+    "tmdb": 137086
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 90
+}

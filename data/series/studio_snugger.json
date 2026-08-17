@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_studio_snugger",
+  "title": "Studio Snugger",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q124812550",
+    "imdb": "tt11183204"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 21
+}

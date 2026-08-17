@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sonali_cable_2014",
+  "title": "Sonali Cable",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7560766",
+    "imdb": "tt2871010",
+    "tmdb": 297809
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_shaukeens_2014",
+  "title": "The Shaukeens",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17081430",
+    "imdb": "tt3848888",
+    "tmdb": 297019
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 124
+}

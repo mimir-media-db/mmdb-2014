@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_your_worst_nightmare",
+  "title": "Your Worst Nightmare",
+  "start_year": 2014,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q51462642",
+    "imdb": "tt4111430",
+    "tmdb": 65067
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 36
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_strange_empire",
+  "title": "Strange Empire",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18167780",
+    "imdb": "tt3920814",
+    "tmdb": 61450
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

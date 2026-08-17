@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_passing_bells",
+  "title": "The Passing Bells",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17013583",
+    "imdb": "tt3893044",
+    "tmdb": 61559
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 5
+}

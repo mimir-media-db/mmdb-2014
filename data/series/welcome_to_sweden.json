@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_welcome_to_sweden",
+  "title": "Welcome to Sweden",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q15633730",
+    "imdb": "tt3463606",
+    "tmdb": 60901
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

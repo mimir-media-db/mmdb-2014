@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boss_wants_a_happy_ending_2014",
+  "title": "Boss Wants a Happy Ending",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16442037",
+    "imdb": "tt3233224",
+    "tmdb": 258310
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 105
+}

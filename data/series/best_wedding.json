@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_best_wedding",
+  "title": "The best wedding",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q18119321",
+    "imdb": "tt5679600",
+    "tmdb": 61486
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

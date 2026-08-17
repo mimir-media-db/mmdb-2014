@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_un_natale_stupefacente_2014",
+  "title": "Un Natale Stupefacente",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18347020",
+    "imdb": "tt3985572",
+    "tmdb": 312428
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 100
+}

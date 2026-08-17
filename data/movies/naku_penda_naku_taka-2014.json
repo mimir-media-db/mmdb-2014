@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_naku_penda_naku_taka_2014",
+  "title": "Naku Penda Naku Taka",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252131",
+    "imdb": "tt3744098",
+    "tmdb": 397386
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

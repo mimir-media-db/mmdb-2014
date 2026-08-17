@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_best_chance_2014",
+  "title": "Best Chance",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17122457",
+    "imdb": "tt1198336",
+    "tmdb": 278488
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 100
+}

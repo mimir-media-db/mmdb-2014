@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_vatre_ivanjske",
+  "title": "Vatre ivanjske",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17641396",
+    "imdb": "tt3856016",
+    "tmdb": 245291
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 140
+}

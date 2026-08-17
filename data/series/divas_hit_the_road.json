@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_divas_hit_the_road",
+  "title": "Divas Hit the Road",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17028836",
+    "imdb": "tt4721732",
+    "tmdb": 121876
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 7,
+  "total_episodes": 83
+}

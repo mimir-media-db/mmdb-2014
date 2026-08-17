@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_shou_ye_seventh_2014",
+  "title": "Shǒu yè Seventh",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18652510",
+    "imdb": "tt4968628",
+    "tmdb": 386276
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

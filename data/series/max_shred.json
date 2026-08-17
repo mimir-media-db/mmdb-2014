@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_max_shred",
+  "title": "Max & Shred",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q18328086",
+    "imdb": "tt3946016",
+    "tmdb": 61825
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 34
+}

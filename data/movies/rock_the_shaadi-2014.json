@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_rock_the_shaadi_2014",
+  "title": "Rock the Shaadi",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7354902",
+    "imdb": "tt13128748"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

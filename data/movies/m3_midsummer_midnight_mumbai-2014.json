@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_m3_midsummer_midnight_mumbai_2014",
+  "title": "M3 - Midsummer Midnight Mumbai",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703175",
+    "imdb": "tt11591854"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 136
+}

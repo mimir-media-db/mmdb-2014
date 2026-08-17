@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ikaw_lamang",
+  "title": "Ikaw Lamang",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15858566",
+    "imdb": "tt9594300",
+    "tmdb": 206004
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 162
+}

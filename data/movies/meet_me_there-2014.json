@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_meet_me_there_2014",
+  "title": "Meet Me There",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17113689",
+    "imdb": "tt3043176",
+    "tmdb": 264480
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 93
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_apgujeong_midnight_sun",
+  "title": "Apgujeong Midnight Sun",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17500150",
+    "imdb": "tt5670870",
+    "tmdb": 124433
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 149
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_one_and_a_half_summer",
+  "title": "One and A Half Summer",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18357359",
+    "imdb": "tt6352830",
+    "tmdb": 110945
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 29
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dementia_2014",
+  "title": "Dementia",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17059816",
+    "imdb": "tt4035566",
+    "tmdb": 298389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

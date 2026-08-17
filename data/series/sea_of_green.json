@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_sea_of_green",
+  "title": "Sea of Green",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19613142",
+    "imdb": "tt4162900",
+    "tmdb": 85969
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 75
+}

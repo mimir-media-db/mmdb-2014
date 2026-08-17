@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_champions_2014",
+  "title": "The Champions",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16717686",
+    "imdb": "tt3507676",
+    "tmdb": 256226
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 100
+}

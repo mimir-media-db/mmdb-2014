@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_prince_william",
+  "title": "Prince William",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16690093",
+    "imdb": "tt6357250",
+    "tmdb": 91660
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 14
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_gortimer_gibbons_life_on_normal_street",
+  "title": "Gortimer Gibbon's Life on Normal Street",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q19593687",
+    "imdb": "tt3496764",
+    "tmdb": 60610
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 39
+}

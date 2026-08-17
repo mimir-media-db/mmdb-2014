@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_italia_90_la_pelicula_2014",
+  "title": "Italia 90: la película",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18737193",
+    "imdb": "tt3759256",
+    "tmdb": 313692
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

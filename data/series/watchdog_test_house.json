@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_watchdog_test_house",
+  "title": "Watchdog Test House",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17033935",
+    "imdb": "tt3811468",
+    "tmdb": 64878
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 30
+}

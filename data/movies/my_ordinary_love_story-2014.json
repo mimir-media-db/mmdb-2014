@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_ordinary_love_story_2014",
+  "title": "My Ordinary Love Story",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17488102",
+    "imdb": "tt4529450",
+    "tmdb": 303184
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 93
+}

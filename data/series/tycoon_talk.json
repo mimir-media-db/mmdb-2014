@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_tycoon_talk",
+  "title": "Tycoon Talk",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17499325",
+    "imdb": "tt3402800"
+  },
+  "last_updated": "2026-08-17"
+}

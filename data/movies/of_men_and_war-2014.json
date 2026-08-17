@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_of_men_and_war_2014",
+  "title": "Of Men and War",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18523850",
+    "imdb": "tt3704008",
+    "tmdb": 297421
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 142
+}

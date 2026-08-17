@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_living_soul_2014",
+  "title": "A Living Soul",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18289162",
+    "imdb": "tt3399776",
+    "tmdb": 272387
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 31
+}

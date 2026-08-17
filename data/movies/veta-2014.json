@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_veta_2014",
+  "title": "Veta",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170642",
+    "imdb": "tt29251466",
+    "tmdb": 307800
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

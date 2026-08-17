@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_shannons_legends_of_motorsport",
+  "title": "Shannons Legends of Motorsport",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q21160152",
+    "imdb": "tt3888812",
+    "tmdb": 210755
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_vinari",
+  "title": "Vinaři",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17505011",
+    "imdb": "tt4022284",
+    "tmdb": 63592
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 32
+}

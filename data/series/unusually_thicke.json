@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_unusually_thicke",
+  "title": "Unusually Thicke",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19593694",
+    "imdb": "tt3326032",
+    "tmdb": 67926
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 14
+}

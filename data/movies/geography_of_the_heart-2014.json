@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_geography_of_the_heart_2014",
+  "title": "Geography of the Heart",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15039697",
+    "imdb": "tt4565226"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 30
+}

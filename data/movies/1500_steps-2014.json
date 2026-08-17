@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_1500_steps_2014",
+  "title": "1500 Steps",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12100072",
+    "imdb": "tt2380942",
+    "tmdb": 429491
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 88
+}

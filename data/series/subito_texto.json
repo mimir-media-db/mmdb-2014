@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_subito_texto",
+  "title": "Subito texto",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q16678129",
+    "imdb": "tt4309896",
+    "tmdb": 89049
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 309
+}

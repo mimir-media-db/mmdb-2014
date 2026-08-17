@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_drop_of_the_grapevine_2014",
+  "title": "A Drop of the Grapevine",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17213276",
+    "imdb": "tt3198994",
+    "tmdb": 344107
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

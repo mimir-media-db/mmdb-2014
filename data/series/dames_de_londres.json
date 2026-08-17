@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_dames_de_londres",
+  "title": "Dames de Londres",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q16995816",
+    "imdb": "tt2815618",
+    "tmdb": 60939
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 18
+}

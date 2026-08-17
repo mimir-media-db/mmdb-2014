@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_monde_de_fred_2014",
+  "title": "Le monde de Fred",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17632687",
+    "imdb": "tt3456264",
+    "tmdb": 372388
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

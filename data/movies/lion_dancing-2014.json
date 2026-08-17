@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lion_dancing_2014",
+  "title": "Lion Dancing",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15903558",
+    "imdb": "tt4288532",
+    "tmdb": 317125
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

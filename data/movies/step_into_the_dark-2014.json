@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_step_into_the_dark_2014",
+  "title": "A Step Into the Dark",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18166439",
+    "imdb": "tt3804878",
+    "tmdb": 294646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

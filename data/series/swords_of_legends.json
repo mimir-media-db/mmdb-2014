@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_swords_of_legends",
+  "title": "Swords of Legends",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15905244",
+    "imdb": "tt4322550",
+    "tmdb": 68083
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 50
+}

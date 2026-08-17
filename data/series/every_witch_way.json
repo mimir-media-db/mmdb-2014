@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_every_witch_way",
+  "title": "Every Witch Way",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q15408538",
+    "imdb": "tt3443274",
+    "tmdb": 60998
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 88
+}

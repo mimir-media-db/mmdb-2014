@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_khola_hawa_2014",
+  "title": "Khola Hawa",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703162",
+    "imdb": "tt2781512",
+    "tmdb": 1135711
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

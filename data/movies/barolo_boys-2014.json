@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_barolo_boys_2014",
+  "title": "Barolo Boys",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18655700",
+    "imdb": "tt3792124",
+    "tmdb": 297784
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

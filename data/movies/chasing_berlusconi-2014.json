@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_chasing_berlusconi_2014",
+  "title": "Chasing Berlusconi",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19376054",
+    "imdb": "tt3892654",
+    "tmdb": 285172
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 82
+}

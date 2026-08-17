@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_three_touches_2014",
+  "title": "Three Touches",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18420617",
+    "imdb": "tt3711684",
+    "tmdb": 302802
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 100
+}

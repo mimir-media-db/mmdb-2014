@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_two_faces_of_january_2014",
+  "title": "The Two Faces of January",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q3523132",
+    "imdb": "tt1976000",
+    "tmdb": 192149
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 96
+}

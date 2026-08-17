@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lovesick_2014",
+  "title": "Lovesick",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15046565",
+    "imdb": "tt2404299",
+    "tmdb": 319389
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

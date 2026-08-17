@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_hell_to_pay_2014",
+  "title": "Hell to Pay",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5706852",
+    "imdb": "tt1861344"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

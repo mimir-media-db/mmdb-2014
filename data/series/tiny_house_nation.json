@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tiny_house_nation",
+  "title": "Tiny House Nation",
+  "start_year": 2014,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q23001048",
+    "imdb": "tt3869500",
+    "tmdb": 62415
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 49
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_im_a_fucking_panther_2014",
+  "title": "I'm a Fucking Panther",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18291016",
+    "imdb": "tt3529948",
+    "tmdb": 325785
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

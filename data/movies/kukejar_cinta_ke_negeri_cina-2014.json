@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kukejar_cinta_ke_negeri_cina_2014",
+  "title": "Kukejar Cinta ke Negeri Cina",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19728057",
+    "imdb": "tt6120690",
+    "tmdb": 458019
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 94
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_of_god_and_dogs_2014",
+  "title": "Of God and Dogs",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17182808",
+    "imdb": "tt3278940",
+    "tmdb": 350033
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

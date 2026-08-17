@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_roger_cormans_operation_rogue_2014",
+  "title": "Roger Corman's Operation Rogue",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18673193",
+    "imdb": "tt3560658",
+    "tmdb": 289535
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 88
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_discovery_of_love",
+  "title": "Discovery of Love",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17037998",
+    "imdb": "tt4128654",
+    "tmdb": 61218
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

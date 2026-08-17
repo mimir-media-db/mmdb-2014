@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_last_dance_2014",
+  "title": "The Last Dance",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17539174",
+    "imdb": "tt3712638",
+    "tmdb": 287677
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 96
+}

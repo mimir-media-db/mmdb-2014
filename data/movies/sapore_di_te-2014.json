@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_sapore_di_te_2014",
+  "title": "Sapore di te",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16600539",
+    "imdb": "tt3341170",
+    "tmdb": 249142
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

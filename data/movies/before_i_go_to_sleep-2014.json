@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_before_i_go_to_sleep_2014",
+  "title": "Before I Go to Sleep",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14467251",
+    "imdb": "tt1726592",
+    "tmdb": 204922
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 92
+}

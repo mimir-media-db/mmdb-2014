@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_dawn_at_midnight_2014",
+  "title": "Dawn at Midnight",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16989208",
+    "imdb": "tt3373746"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

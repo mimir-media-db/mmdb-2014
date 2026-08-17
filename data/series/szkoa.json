@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_szkoa",
+  "title": "Szkoła",
+  "start_year": 2014,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q18435084",
+    "imdb": "tt5732592",
+    "tmdb": 76102
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6
+}

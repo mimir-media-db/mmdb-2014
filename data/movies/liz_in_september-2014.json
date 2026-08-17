@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_liz_in_september_2014",
+  "title": "Liz in September",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18419755",
+    "imdb": "tt2325833",
+    "tmdb": 288129
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 92
+}

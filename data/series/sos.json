@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_sos",
+  "title": "S.O.S 나를 구해줘",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18531188",
+    "tmdb": 198907
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 12
+}

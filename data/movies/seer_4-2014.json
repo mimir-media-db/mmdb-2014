@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_seer_4_2014",
+  "title": "Seer 4",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170404",
+    "imdb": "tt6105888",
+    "tmdb": 331255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

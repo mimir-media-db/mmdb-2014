@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hello_birdy",
+  "title": "Hello Birdy",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17006431",
+    "imdb": "tt3539496",
+    "tmdb": 66936
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

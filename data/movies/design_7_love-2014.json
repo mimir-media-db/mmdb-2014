@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_design_7_love_2014",
+  "title": "Design 7 Love",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15932031",
+    "imdb": "tt3746842",
+    "tmdb": 286694
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 116
+}

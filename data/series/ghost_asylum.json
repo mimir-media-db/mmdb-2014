@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_ghost_asylum",
+  "title": "Ghost Asylum",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q18156701",
+    "imdb": "tt3967028",
+    "tmdb": 62594
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 10
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_major_case_squad",
+  "title": "Major Case Squad",
+  "start_year": 2014,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q15408542",
+    "imdb": "tt3450368",
+    "tmdb": 64376
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 35
+}

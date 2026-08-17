@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_two_tribes",
+  "title": "Two Tribes",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19593709",
+    "imdb": "tt7035300"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 90
+}

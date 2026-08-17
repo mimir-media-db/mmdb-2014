@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hours_of_my_life",
+  "title": "The Hours of My Life",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15408379",
+    "imdb": "tt3329352",
+    "tmdb": 68183
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 11
+}

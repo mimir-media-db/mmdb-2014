@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_software_ganda_2014",
+  "title": "Software Ganda",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18611445",
+    "imdb": "tt14085040",
+    "tmdb": 1565850
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

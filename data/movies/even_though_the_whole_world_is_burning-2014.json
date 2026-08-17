@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_even_though_the_whole_world_is_burning_2014",
+  "title": "Even Though the Whole World Is Burning",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18354319",
+    "imdb": "tt2231209",
+    "tmdb": 396656
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 85
+}

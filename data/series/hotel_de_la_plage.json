@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_hotel_de_la_plage",
+  "title": "Hôtel de la plage",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19961316",
+    "imdb": "tt3331564",
+    "tmdb": 79801
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 12
+}

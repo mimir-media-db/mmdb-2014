@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_deadly_revisions_2014",
+  "title": "Deadly Revisions",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18169983",
+    "imdb": "tt2386291",
+    "tmdb": 300902
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

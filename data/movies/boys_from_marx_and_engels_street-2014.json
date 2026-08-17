@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_boys_from_marx_and_engels_street_2014",
+  "title": "The Boys from Marx and Engels Street",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18163180",
+    "imdb": "tt2181917",
+    "tmdb": 293120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 94
+}

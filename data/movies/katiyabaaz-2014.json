@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_katiyabaaz_2014",
+  "title": "Katiyabaaz",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18126669",
+    "imdb": "tt2466678",
+    "tmdb": 168433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

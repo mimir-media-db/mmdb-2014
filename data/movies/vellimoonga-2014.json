@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vellimoonga_2014",
+  "title": "Vellimoonga",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170633",
+    "imdb": "tt4110972",
+    "tmdb": 296902
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

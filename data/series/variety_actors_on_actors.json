@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_variety_actors_on_actors",
+  "title": "Variety: Actors on Actors",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24521534",
+    "imdb": "tt4267324",
+    "tmdb": 105197
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 9
+}

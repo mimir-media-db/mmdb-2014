@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_scot_squad",
+  "title": "Scot Squad",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18712520",
+    "imdb": "tt2493352",
+    "tmdb": 55615
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 11
+}

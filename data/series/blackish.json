@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_blackish",
+  "title": "Black-ish",
+  "start_year": 2014,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q16868584",
+    "imdb": "tt3487356",
+    "tmdb": 61381
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 8,
+  "total_episodes": 175
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lion_2014",
+  "title": "Lion",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703171",
+    "imdb": "tt3235808",
+    "tmdb": 508261
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

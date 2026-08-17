@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_wild_australia",
+  "title": "Wild Australia",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q54833768",
+    "imdb": "tt8306270",
+    "tmdb": 70615
+  },
+  "last_updated": "2026-08-17"
+}

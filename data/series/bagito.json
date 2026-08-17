@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_bagito",
+  "title": "Bagito",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18559582",
+    "imdb": "tt4533232",
+    "tmdb": 126453
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 85
+}

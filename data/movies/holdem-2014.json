@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_holdem_2014",
+  "title": "Hold'em",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18150692",
+    "imdb": "tt3656414"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

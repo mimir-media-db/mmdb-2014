@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_someone_marry_barry_2014",
+  "title": "Someone Marry Barry",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17082304",
+    "imdb": "tt1978532",
+    "tmdb": 249923
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 87
+}

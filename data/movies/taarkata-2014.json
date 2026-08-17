@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_taarkata_2014",
+  "title": "Taarkata",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17071082",
+    "imdb": "tt4014472",
+    "tmdb": 273844
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

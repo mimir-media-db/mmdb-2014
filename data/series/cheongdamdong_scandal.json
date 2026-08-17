@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_cheongdamdong_scandal",
+  "title": "Cheongdam-dong Scandal",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17172375",
+    "imdb": "tt5690250",
+    "tmdb": 95887
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 119
+}

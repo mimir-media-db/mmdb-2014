@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_is_all_2014",
+  "title": "Love Is All",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18161615",
+    "imdb": "tt4401342",
+    "tmdb": 324573
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 74
+}

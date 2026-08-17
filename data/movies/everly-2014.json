@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_everly_2014",
+  "title": "Everly",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18354351",
+    "imdb": "tt1945084",
+    "tmdb": 277355
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 92
+}

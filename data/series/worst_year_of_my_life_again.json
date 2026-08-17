@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_worst_year_of_my_life_again",
+  "title": "Worst Year of My Life Again",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17040676",
+    "imdb": "tt3444278",
+    "tmdb": 70353
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 13
+}

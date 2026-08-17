@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_telltale_heart_2014",
+  "title": "The Tell-Tale Heart",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17029320",
+    "imdb": "tt2087989",
+    "tmdb": 391207
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 81
+}

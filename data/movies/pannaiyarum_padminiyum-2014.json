@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_pannaiyarum_padminiyum_2014",
+  "title": "Pannaiyarum Padminiyum",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7131373",
+    "imdb": "tt3426262",
+    "tmdb": 251636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

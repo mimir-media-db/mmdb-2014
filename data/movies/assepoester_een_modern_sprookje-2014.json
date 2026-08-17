@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_assepoester_een_modern_sprookje_2014",
+  "title": "Assepoester: een modern sprookje",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15872747",
+    "imdb": "tt3390724",
+    "tmdb": 258113
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 68
+}

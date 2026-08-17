@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_but_always_2014",
+  "title": "But Always",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18110294",
+    "imdb": "tt3906444",
+    "tmdb": 288788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 106
+}

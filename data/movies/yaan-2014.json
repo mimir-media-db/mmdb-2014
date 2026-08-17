@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_yaan_2014",
+  "title": "Yaan",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q8046312",
+    "imdb": "tt2571022",
+    "tmdb": 280142
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

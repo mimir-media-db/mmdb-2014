@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cam_girl_2014",
+  "title": "Cam Girl",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17478855",
+    "imdb": "tt3796120",
+    "tmdb": 301201
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

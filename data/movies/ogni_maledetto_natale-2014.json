@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_ogni_maledetto_natale_2014",
+  "title": "Ogni maledetto Natale",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18340938",
+    "imdb": "tt3860294",
+    "tmdb": 306523
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 96
+}

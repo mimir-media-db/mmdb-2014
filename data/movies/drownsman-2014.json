@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_drownsman_2014",
+  "title": "The Drownsman",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18389599",
+    "imdb": "tt3450134",
+    "tmdb": 263986
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 88
+}

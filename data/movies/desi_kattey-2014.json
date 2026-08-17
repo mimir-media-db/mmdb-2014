@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_desi_kattey_2014",
+  "title": "Desi Kattey",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16247883",
+    "imdb": "tt3877652",
+    "tmdb": 295350
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

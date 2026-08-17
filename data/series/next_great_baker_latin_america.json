@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_next_great_baker_latin_america",
+  "title": "Next Great Baker: Latin America",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q20807909",
+    "imdb": "tt4661282",
+    "tmdb": 222268
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

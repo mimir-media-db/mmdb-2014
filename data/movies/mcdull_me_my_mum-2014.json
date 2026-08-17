@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mcdull_me_my_mum_2014",
+  "title": "McDull: Me & My Mum",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18118240",
+    "imdb": "tt4179512",
+    "tmdb": 313616
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 81
+}

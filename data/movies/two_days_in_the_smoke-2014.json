@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_two_days_in_the_smoke_2014",
+  "title": "Two Days in the Smoke",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12129911",
+    "imdb": "tt2386353",
+    "tmdb": 299464
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 89
+}

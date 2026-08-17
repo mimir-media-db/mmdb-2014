@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_chasing_life",
+  "title": "Chasing Life",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q15072803",
+    "imdb": "tt2399794",
+    "tmdb": 60803
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 34
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_beam_me_up_sasha_2014",
+  "title": "Beam Me Up, Sasha!",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18192193",
+    "imdb": "tt2556756",
+    "tmdb": 495051
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 80
+}

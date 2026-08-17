@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_caregivers",
+  "title": "The Caregivers",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q28224304",
+    "imdb": "tt12312758",
+    "tmdb": 121805
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 20
+}

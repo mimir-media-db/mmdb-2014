@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_fuoco_amico_la_storia_di_davide_cervia_2014",
+  "title": "Fuoco amico - La storia di Davide Cervia",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18693071"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 85
+}

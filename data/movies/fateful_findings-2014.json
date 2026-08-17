@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_fateful_findings_2014",
+  "title": "Fateful Findings",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18611373",
+    "imdb": "tt2332623",
+    "tmdb": 197599
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

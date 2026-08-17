@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_blanik_office",
+  "title": "Blanik Office",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18915400",
+    "imdb": "tt4549934",
+    "tmdb": 63545
+  },
+  "last_updated": "2026-08-17"
+}

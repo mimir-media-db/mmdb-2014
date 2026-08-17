@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_sarabham_2014",
+  "title": "Sarabham",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18060869",
+    "imdb": "tt3824442",
+    "tmdb": 280174
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

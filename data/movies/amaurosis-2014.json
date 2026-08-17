@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_amaurosis_2014",
+  "title": "Amaurosis",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5671957",
+    "imdb": "tt16138328",
+    "tmdb": 1029908
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

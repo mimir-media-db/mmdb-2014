@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_misfit_garage",
+  "title": "Misfit Garage",
+  "start_year": 2014,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q18390755",
+    "imdb": "tt4167914",
+    "tmdb": 64906
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 20
+}

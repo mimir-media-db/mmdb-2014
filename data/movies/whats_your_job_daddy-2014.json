@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_whats_your_job_daddy_2014",
+  "title": "What's Your Job Daddy?",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18289434",
+    "imdb": "tt3904758",
+    "tmdb": 295102
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

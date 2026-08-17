@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maria_leonora_teresa_2014",
+  "title": "Maria Leonora Teresa",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170177",
+    "imdb": "tt3772364",
+    "tmdb": 297478
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

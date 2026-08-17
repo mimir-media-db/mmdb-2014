@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vellaikaara_durai_2014",
+  "title": "Vellaikaara Durai",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18358591",
+    "imdb": "tt4306702",
+    "tmdb": 280145
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

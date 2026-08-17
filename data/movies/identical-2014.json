@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_identical_2014",
+  "title": "The Identical",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18150966",
+    "imdb": "tt2326574",
+    "tmdb": 279914
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 107
+}

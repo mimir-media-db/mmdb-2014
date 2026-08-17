@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_jag_ar_inte_beredd_att_do_an_2014",
+  "title": "Jag är inte beredd att dö än",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18747090",
+    "imdb": "tt4226372",
+    "tmdb": 322819
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 75
+}

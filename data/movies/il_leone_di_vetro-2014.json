@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_leone_di_vetro_2014",
+  "title": "Il leone di vetro",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18536295",
+    "imdb": "tt3477744",
+    "tmdb": 302800
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 100
+}

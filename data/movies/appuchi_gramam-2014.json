@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_appuchi_gramam_2014",
+  "title": "Appuchi Gramam",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16829777",
+    "imdb": "tt3726006",
+    "tmdb": 305506
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

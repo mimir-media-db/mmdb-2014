@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_cristela",
+  "title": "Cristela",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16868393",
+    "imdb": "tt3729144",
+    "tmdb": 61510
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 22
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_dry_2014",
+  "title": "Dry",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18171042",
+    "imdb": "tt3780508",
+    "tmdb": 364443
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 115
+}

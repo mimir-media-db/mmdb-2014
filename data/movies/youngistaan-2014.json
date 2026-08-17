@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_youngistaan_2014",
+  "title": "Youngistaan",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15983039",
+    "imdb": "tt3514330",
+    "tmdb": 263828
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

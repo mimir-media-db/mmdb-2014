@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_empress_of_china",
+  "title": "The Empress of China",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q15978227",
+    "imdb": "tt4409784",
+    "tmdb": 61988
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 75
+}

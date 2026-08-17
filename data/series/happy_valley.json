@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_happy_valley",
+  "title": "Happy Valley",
+  "start_year": 2014,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q16993664",
+    "imdb": "tt3428912",
+    "tmdb": 61244
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 18
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_eila_rampe_and_likka_2014",
+  "title": "Eila, Rampe and Likka",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18674919",
+    "imdb": "tt3298522",
+    "tmdb": 315044
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 93
+}

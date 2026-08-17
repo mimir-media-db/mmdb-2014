@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_some_assembly_required",
+  "title": "Some Assembly Required",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q16854695",
+    "imdb": "tt3441810",
+    "tmdb": 62792
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 57
+}

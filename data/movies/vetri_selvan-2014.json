@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vetri_selvan_2014",
+  "title": "Vetri Selvan",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q7923768",
+    "imdb": "tt3824482",
+    "tmdb": 270782
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

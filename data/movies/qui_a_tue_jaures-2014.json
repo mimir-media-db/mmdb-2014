@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_qui_a_tue_jaures_2014",
+  "title": "Qui a tué Jaurès ?",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17276455",
+    "imdb": "tt3819128"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

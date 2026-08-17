@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_turn_washingtons_spies",
+  "title": "Turn: Washington's Spies",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q15072887",
+    "imdb": "tt2543328",
+    "tmdb": 57276
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 4,
+  "total_episodes": 40
+}

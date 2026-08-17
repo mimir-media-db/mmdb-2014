@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_ritu_2014",
+  "title": "Ritu",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16888912",
+    "imdb": "tt3451716",
+    "tmdb": 496065
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

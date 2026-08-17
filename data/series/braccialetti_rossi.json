@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_braccialetti_rossi",
+  "title": "Braccialetti rossi",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q15730485",
+    "imdb": "tt3499954",
+    "tmdb": 65655
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 19
+}

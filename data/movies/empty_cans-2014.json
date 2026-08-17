@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_empty_cans_2014",
+  "title": "Empty cans",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18821544",
+    "imdb": "tt4319490",
+    "tmdb": 302344
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 73
+}

@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "id": "s_100_people_100_songs",
+  "title": "100 People, 100 Songs",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18566674"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 44
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_katherine_of_alexandria_2014",
+  "title": "Katherine of Alexandria",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16851793",
+    "imdb": "tt1587685",
+    "tmdb": 272923
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 110
+}

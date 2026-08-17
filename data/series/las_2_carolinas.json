@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_las_2_carolinas",
+  "title": "Las 2 Carolinas",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15893893",
+    "imdb": "tt3576304",
+    "tmdb": 95833
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 136
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_field_of_lost_shoes_2014",
+  "title": "Field of Lost Shoes",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15046175",
+    "imdb": "tt2477218",
+    "tmdb": 291851
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 96
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_comicview",
+  "title": "ComicView",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q5151730",
+    "imdb": "tt0103356",
+    "tmdb": 42
+  },
+  "last_updated": "2026-08-17"
+}

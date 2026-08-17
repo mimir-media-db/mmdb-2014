@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tyger_takes_on",
+  "title": "Tyger Takes On...",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17426209",
+    "imdb": "tt3728098",
+    "tmdb": 98284
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 5
+}

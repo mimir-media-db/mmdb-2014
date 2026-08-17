@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_edge_of_heaven",
+  "title": "Edge of Heaven",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16991653",
+    "imdb": "tt3011234",
+    "tmdb": 123971
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

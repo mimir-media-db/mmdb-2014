@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_serena_2014",
+  "title": "Serena",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4417561",
+    "imdb": "tt1247690",
+    "tmdb": 164251
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 110
+}

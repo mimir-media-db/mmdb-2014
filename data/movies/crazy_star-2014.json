@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_crazy_star_2014",
+  "title": "Crazy Star",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703020",
+    "imdb": "tt14097228",
+    "tmdb": 463206
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

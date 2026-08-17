@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hi_opie",
+  "title": "Hi Opie!",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q18150644",
+    "imdb": "tt3986524"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 26
+}

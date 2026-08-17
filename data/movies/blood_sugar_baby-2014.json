@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_blood_sugar_baby_2014",
+  "title": "Blood Sugar Baby",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19516148",
+    "imdb": "tt3659528",
+    "tmdb": 573704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

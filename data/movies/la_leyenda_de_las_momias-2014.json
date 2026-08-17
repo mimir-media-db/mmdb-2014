@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_leyenda_de_las_momias_2014",
+  "title": "La Leyenda de las Momias",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18224539",
+    "imdb": "tt3881410",
+    "tmdb": 268690
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 83
+}

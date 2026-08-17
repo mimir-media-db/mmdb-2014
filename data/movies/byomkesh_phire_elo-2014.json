@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_byomkesh_phire_elo_2014",
+  "title": "Byomkesh Phire Elo",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18611359",
+    "imdb": "tt4282396",
+    "tmdb": 379672
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

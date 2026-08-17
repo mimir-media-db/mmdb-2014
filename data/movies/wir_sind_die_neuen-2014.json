@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_wir_sind_die_neuen_2014",
+  "title": "Wir sind die Neuen",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18029784",
+    "imdb": "tt3777462",
+    "tmdb": 271433
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 91
+}

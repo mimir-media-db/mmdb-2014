@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_gods_gift_14_days",
+  "title": "God's Gift: 14 Days",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15699448",
+    "imdb": "tt3580170",
+    "tmdb": 61143
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 16
+}

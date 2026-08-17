@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_nativity_3_dude_wheres_my_donkey_2014",
+  "title": "Nativity 3: Dude, Where's My Donkey?",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18611419",
+    "imdb": "tt3558642",
+    "tmdb": 295049
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 110
+}

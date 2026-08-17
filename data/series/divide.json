@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_divide",
+  "title": "The Divide",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15072810",
+    "imdb": "tt2392976",
+    "tmdb": 57277
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

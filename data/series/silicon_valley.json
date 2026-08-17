@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_silicon_valley",
+  "title": "Silicon Valley",
+  "start_year": 2014,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q15956708",
+    "imdb": "tt2575988",
+    "tmdb": 60573
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 6,
+  "total_episodes": 53
+}

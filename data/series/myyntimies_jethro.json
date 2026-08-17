@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_myyntimies_jethro",
+  "title": "Myyntimies Jethro",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q18679797",
+    "imdb": "tt3614904"
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 16
+}

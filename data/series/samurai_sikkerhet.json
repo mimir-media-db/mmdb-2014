@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_samurai_sikkerhet",
+  "title": "Samurai Sikkerhet",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q19387529",
+    "imdb": "tt3660002",
+    "tmdb": 114923
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

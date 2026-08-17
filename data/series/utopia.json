@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_utopia",
+  "title": "Utopia",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15474794",
+    "imdb": "tt3703500",
+    "tmdb": 61298
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 12
+}

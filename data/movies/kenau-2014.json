@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_kenau_2014",
+  "title": "Kenau",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13742747",
+    "imdb": "tt2512170",
+    "tmdb": 251619
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 107
+}

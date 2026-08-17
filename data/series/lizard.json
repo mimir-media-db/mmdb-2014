@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_lizard",
+  "title": "The Lizard",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19611683",
+    "imdb": "tt5843858",
+    "tmdb": 204681
+  },
+  "last_updated": "2026-08-17"
+}

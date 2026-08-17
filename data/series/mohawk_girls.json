@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_mohawk_girls",
+  "title": "Mohawk Girls",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19573035",
+    "imdb": "tt1755606",
+    "tmdb": 68929
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 15
+}

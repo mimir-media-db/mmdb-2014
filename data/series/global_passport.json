@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_global_passport",
+  "title": "Global Passport",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18712268",
+    "imdb": "tt4320456"
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 1
+}

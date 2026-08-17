@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_madime_2014",
+  "title": "Madime",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18611404",
+    "imdb": "tt43631354"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

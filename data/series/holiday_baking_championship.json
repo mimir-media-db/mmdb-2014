@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_holiday_baking_championship",
+  "title": "Holiday Baking Championship",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19798708",
+    "imdb": "tt4226226",
+    "tmdb": 68598
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 6
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_hotel_king",
+  "title": "Hotel King",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15739355",
+    "imdb": "tt3737080",
+    "tmdb": 61009
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 32
+}

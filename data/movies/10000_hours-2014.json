@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_10000_hours_2014",
+  "title": "10000 Hours",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16486114",
+    "imdb": "tt3013386",
+    "tmdb": 285245
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 94
+}

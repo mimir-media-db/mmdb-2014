@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_return_of_elias_urquijo_2014",
+  "title": "The Return of Elias Urquijo",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q5823103",
+    "imdb": "tt2180357",
+    "tmdb": 613908
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

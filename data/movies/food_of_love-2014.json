@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_food_of_love_2014",
+  "title": "The Food of Love",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q4271853",
+    "imdb": "tt2261551",
+    "tmdb": 517874
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

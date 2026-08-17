@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_horsemans_last_stand_2014",
+  "title": "The Horseman's Last Stand",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18242782",
+    "imdb": "tt3521232",
+    "tmdb": 280684
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

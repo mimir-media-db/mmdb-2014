@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_idhu_kathirvelan_kadhal_2014",
+  "title": "Idhu Kathirvelan Kadhal",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q13522825",
+    "imdb": "tt3215486",
+    "tmdb": 255421
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

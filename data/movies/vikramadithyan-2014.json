@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_vikramadithyan_2014",
+  "title": "Vikramadithyan",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16255218",
+    "imdb": "tt3895152",
+    "tmdb": 285736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

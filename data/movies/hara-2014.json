@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_hara_2014",
+  "title": "Hara",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17054517",
+    "imdb": "tt14090688"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

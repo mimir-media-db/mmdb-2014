@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_system_2014",
+  "title": "The System",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15983488",
+    "imdb": "tt3740152",
+    "tmdb": 412484
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

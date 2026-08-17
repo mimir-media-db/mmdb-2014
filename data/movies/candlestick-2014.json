@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_candlestick_2014",
+  "title": "Candlestick",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19320936",
+    "imdb": "tt2660294",
+    "tmdb": 150188
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 83
+}

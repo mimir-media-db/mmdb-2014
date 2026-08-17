@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_kings_face",
+  "title": "The King's Face",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17503873",
+    "imdb": "tt4275654",
+    "tmdb": 61830
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 23
+}

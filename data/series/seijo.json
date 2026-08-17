@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_seijo",
+  "title": "Seijo",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17220893",
+    "imdb": "tt3734920",
+    "tmdb": 62076
+  },
+  "last_updated": "2026-08-17"
+}

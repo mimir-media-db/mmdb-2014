@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_hornets_nest_2014",
+  "title": "The Hornet's Nest",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16926751",
+    "imdb": "tt2611026",
+    "tmdb": 263510
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 93
+}

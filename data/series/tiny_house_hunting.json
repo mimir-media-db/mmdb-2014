@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_tiny_house_hunting",
+  "title": "Tiny House Hunting",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q23001047",
+    "imdb": "tt4312418",
+    "tmdb": 61747
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 49
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_obvious_child_2014",
+  "title": "Obvious Child",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16253773",
+    "imdb": "tt2910274",
+    "tmdb": 248774
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 83
+}

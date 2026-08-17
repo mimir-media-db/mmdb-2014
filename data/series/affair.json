@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_affair",
+  "title": "The Affair",
+  "start_year": 2014,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q17985420",
+    "imdb": "tt2699110",
+    "tmdb": 61463
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 53
+}

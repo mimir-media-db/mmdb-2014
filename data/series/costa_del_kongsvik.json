@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_costa_del_kongsvik",
+  "title": "Costa del Kongsvik",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q17762798",
+    "imdb": "tt6214784",
+    "tmdb": 120033
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

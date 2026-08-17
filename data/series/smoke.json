@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_smoke",
+  "title": "The Smoke",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17020609",
+    "imdb": "tt3143398",
+    "tmdb": 62866
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 8
+}

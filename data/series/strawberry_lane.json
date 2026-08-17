@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_strawberry_lane",
+  "title": "Strawberry Lane",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18063286",
+    "imdb": "tt4906644",
+    "tmdb": 221507
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 80
+}

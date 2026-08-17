@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_words_with_gods_2014",
+  "title": "Words with Gods",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18156993",
+    "imdb": "tt2112337",
+    "tmdb": 268677
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 129
+}

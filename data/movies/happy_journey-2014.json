@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_happy_journey_2014",
+  "title": "Happy Journey",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16248804",
+    "imdb": "tt3686176",
+    "tmdb": 268479
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

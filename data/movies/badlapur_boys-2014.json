@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_badlapur_boys_2014",
+  "title": "Badlapur Boys",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18356086",
+    "imdb": "tt2767712",
+    "tmdb": 370235
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

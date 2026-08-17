@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_galipatam_2014",
+  "title": "Galipatam",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17107546",
+    "imdb": "tt3837160",
+    "tmdb": 285930
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

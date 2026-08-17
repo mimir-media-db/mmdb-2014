@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_pernicious_2014",
+  "title": "Pernicious",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16254085",
+    "imdb": "tt2187444",
+    "tmdb": 326441
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

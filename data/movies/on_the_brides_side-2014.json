@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_on_the_brides_side_2014",
+  "title": "On the bride's side",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18288433",
+    "imdb": "tt4076818",
+    "tmdb": 291364
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 89
+}

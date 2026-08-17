@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_odd_squad",
+  "title": "Odd Squad",
+  "start_year": 2014,
+  "end_year": 2022,
+  "external_ids": {
+    "wikidata": "Q18152960",
+    "imdb": "tt3900614",
+    "tmdb": 73549
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 108
+}

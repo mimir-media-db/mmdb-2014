@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_games_maker_2014",
+  "title": "The Games Maker",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17630207",
+    "imdb": "tt2766268",
+    "tmdb": 262788
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 111
+}

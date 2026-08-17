@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_december_1_2014",
+  "title": "December 1",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17051494",
+    "imdb": "tt3732958",
+    "tmdb": 1456935
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_les_gazelles_2014",
+  "title": "Les Gazelles",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16655017",
+    "imdb": "tt2792346",
+    "tmdb": 223946
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 100
+}

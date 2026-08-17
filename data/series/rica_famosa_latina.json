@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_rica_famosa_latina",
+  "title": "Rica, Famosa, Latina",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q22080020",
+    "imdb": "tt4591212",
+    "tmdb": 78814
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 151
+}

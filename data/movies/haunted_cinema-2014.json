@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_haunted_cinema_2014",
+  "title": "The Haunted Cinema",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18611383",
+    "imdb": "tt6448346",
+    "tmdb": 322786
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_outnumbered",
+  "title": "Outnumbered",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17019915",
+    "imdb": "tt3695158",
+    "tmdb": 243317
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 10
+}

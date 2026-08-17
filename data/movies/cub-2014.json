@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_cub_2014",
+  "title": "Cub",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18327423",
+    "imdb": "tt3061836",
+    "tmdb": 284270
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 84
+}

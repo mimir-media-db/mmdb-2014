@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_baari_tar_bangla_2014",
+  "title": "Baari Tar Bangla",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17514417",
+    "imdb": "tt3785070",
+    "tmdb": 578965
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

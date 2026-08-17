@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_naaigal_jaakirathai_2014",
+  "title": "Naaigal Jaakirathai",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252010",
+    "imdb": "tt3982448",
+    "tmdb": 280106
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 126
+}

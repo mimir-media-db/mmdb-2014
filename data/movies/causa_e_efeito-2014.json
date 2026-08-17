@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_causa_e_efeito_2014",
+  "title": "Causa e Efeito",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16986401",
+    "imdb": "tt3847450",
+    "tmdb": 278444
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

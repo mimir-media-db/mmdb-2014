@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_valio_la_pena",
+  "title": "Valió la Pena",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17079516",
+    "imdb": "tt3980724",
+    "tmdb": 107031
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 73
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_felix_and_meira_2014",
+  "title": "Felix and Meira",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18150883",
+    "imdb": "tt3685218",
+    "tmdb": 285848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 105
+}

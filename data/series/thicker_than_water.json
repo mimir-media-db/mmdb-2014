@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_thicker_than_water",
+  "title": "Thicker Than Water",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q25338999",
+    "imdb": "tt3139330",
+    "tmdb": 65344
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 20
+}

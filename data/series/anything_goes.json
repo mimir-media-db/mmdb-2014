@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_anything_goes",
+  "title": "Anything Goes",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q3555437",
+    "imdb": "tt7647514",
+    "tmdb": 68068
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 5,
+  "total_episodes": 13
+}

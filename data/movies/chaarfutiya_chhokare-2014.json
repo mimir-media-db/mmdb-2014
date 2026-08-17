@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_chaarfutiya_chhokare_2014",
+  "title": "Chaarfutiya Chhokare",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16247369",
+    "imdb": "tt3021244",
+    "tmdb": 307211
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

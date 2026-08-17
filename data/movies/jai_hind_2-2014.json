@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_jai_hind_2_2014",
+  "title": "Jai Hind 2",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17058499",
+    "imdb": "tt4087822",
+    "tmdb": 280884
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

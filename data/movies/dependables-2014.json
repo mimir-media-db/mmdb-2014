@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_dependables_2014",
+  "title": "The Dependables",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17151069",
+    "imdb": "tt2380560",
+    "tmdb": 272251
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

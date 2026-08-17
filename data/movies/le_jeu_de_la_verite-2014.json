@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_le_jeu_de_la_verite_2014",
+  "title": "Le Jeu de la vérité",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16653874",
+    "imdb": "tt3433668",
+    "tmdb": 248249
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

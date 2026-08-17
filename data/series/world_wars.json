@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_world_wars",
+  "title": "The World Wars",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17142462",
+    "imdb": "tt3543006",
+    "tmdb": 61132
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 6
+}

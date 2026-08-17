@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_evermoor_chronicles",
+  "title": "The Evermoor Chronicles",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q18190451",
+    "imdb": "tt3602560",
+    "tmdb": 62496
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 2,
+  "total_episodes": 24
+}

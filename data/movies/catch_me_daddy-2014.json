@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_catch_me_daddy_2014",
+  "title": "Catch Me Daddy",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16858417",
+    "imdb": "tt2626964",
+    "tmdb": 269747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 112
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_loves_whirlpool_2014",
+  "title": "Love's Whirlpool",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17190747",
+    "imdb": "tt3108170",
+    "tmdb": 279185
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 123
+}

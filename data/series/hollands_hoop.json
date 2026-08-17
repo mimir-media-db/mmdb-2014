@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_hollands_hoop",
+  "title": "Hollands Hoop",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18285916",
+    "imdb": "tt2707150",
+    "tmdb": 61507
+  },
+  "last_updated": "2026-08-17"
+}

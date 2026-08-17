@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_aibou_the_movie_iii_2014",
+  "title": "Aibou: The Movie III",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16826261",
+    "imdb": "tt2976472",
+    "tmdb": 343699
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

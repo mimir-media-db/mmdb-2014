@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_druid_peak_2014",
+  "title": "Druid Peak",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18611370",
+    "imdb": "tt2027091",
+    "tmdb": 263794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

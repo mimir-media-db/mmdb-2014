@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_zaguri",
+  "title": "Zaguri",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16131273",
+    "imdb": "tt3657702",
+    "tmdb": 75547
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 3,
+  "total_episodes": 51
+}

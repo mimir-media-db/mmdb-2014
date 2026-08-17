@@ -1,0 +1,11 @@
+{
+  "schema_version": 1,
+  "id": "s_cabinet",
+  "title": "The Cabinet",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20642736"
+  },
+  "last_updated": "2026-08-17"
+}

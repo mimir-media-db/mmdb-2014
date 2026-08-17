@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_virgin_territory",
+  "title": "Virgin Territory",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q18155548",
+    "imdb": "tt3891272",
+    "tmdb": 78113
+  },
+  "last_updated": "2026-08-17",
+  "total_seasons": 1,
+  "total_episodes": 6
+}

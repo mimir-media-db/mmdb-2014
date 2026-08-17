@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_quando_cera_berlinguer_2014",
+  "title": "Quando c'era Berlinguer",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15972211",
+    "imdb": "tt3607688",
+    "tmdb": 261529
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 117
+}

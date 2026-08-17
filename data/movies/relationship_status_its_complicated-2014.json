@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_relationship_status_its_complicated_2014",
+  "title": "Relationship Status: It's Complicated",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15695586",
+    "imdb": "tt3202408",
+    "tmdb": 255913
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

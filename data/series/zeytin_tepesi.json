@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_zeytin_tepesi",
+  "title": "Zeytin Tepesi",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q20476444",
+    "imdb": "tt6069196",
+    "tmdb": 221316
+  },
+  "last_updated": "2026-08-17"
+}

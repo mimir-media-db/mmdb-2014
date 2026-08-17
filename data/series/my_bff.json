@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_bff",
+  "title": "My BFF",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17081017",
+    "imdb": "tt3907416",
+    "tmdb": 221552
+  },
+  "last_updated": "2026-08-17",
+  "total_episodes": 70
+}

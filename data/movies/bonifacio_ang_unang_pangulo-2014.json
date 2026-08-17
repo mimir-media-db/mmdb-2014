@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_bonifacio_ang_unang_pangulo_2014",
+  "title": "Bonifacio: Ang Unang Pangulo",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18703091",
+    "imdb": "tt4304364",
+    "tmdb": 317161
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 100
+}

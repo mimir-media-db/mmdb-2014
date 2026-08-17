@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_connection_2014",
+  "title": "The Connection",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16314359",
+    "imdb": "tt2935564",
+    "tmdb": 197950
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 135
+}

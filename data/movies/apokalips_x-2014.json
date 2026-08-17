@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_apokalips_x_2014",
+  "title": "Apokalips X",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18352765",
+    "imdb": "tt3030514",
+    "tmdb": 267675
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

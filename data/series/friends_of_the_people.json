@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_friends_of_the_people",
+  "title": "Friends of the People",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17182687",
+    "imdb": "tt3893332",
+    "tmdb": 63319
+  },
+  "last_updated": "2026-08-17"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_zombeavers_2014",
+  "title": "Zombeavers",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18157191",
+    "imdb": "tt2784512",
+    "tmdb": 254474
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 85
+}

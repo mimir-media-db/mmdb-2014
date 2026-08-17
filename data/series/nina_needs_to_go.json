@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_nina_needs_to_go",
+  "title": "Nina Needs to Go!",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q19573330",
+    "imdb": "tt3747354",
+    "tmdb": 129786
+  },
+  "last_updated": "2026-08-17"
+}

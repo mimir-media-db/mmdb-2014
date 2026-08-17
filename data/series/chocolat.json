@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "s_chocolat",
+  "title": "Chocolat",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15898895",
+    "imdb": "tt2337458",
+    "tmdb": 48042
+  },
+  "last_updated": "2026-08-17"
+}

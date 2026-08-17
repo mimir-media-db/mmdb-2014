@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_under_the_bed_2_2014",
+  "title": "Under the Bed 2",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170580",
+    "imdb": "tt5875622",
+    "tmdb": 295636
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_icing_2014",
+  "title": "Icing",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q14458055",
+    "imdb": "tt3081696",
+    "tmdb": 299120
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 81
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_inside_the_girls_2014",
+  "title": "Inside the Girls",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18126011",
+    "imdb": "tt5036516",
+    "tmdb": 309794
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 103
+}

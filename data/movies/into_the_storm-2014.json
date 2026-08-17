@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_into_the_storm_2014",
+  "title": "Into the Storm",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15989191",
+    "imdb": "tt2106361",
+    "tmdb": 216282
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 89
+}

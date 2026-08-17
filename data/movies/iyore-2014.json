@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_iyore_2014",
+  "title": "Iyore",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18170091",
+    "imdb": "tt4512896",
+    "tmdb": 340082
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

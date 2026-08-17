@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_invasion_2014",
+  "title": "Invasion",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18151095",
+    "imdb": "tt3635712",
+    "tmdb": 294644
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 90
+}

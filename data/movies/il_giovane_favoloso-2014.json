@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_il_giovane_favoloso_2014",
+  "title": "Il giovane favoloso",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17605404",
+    "imdb": "tt3152602",
+    "tmdb": 283704
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 145
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_i_want_to_be_faithful_2014",
+  "title": "I Want to Be Faithful",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17274776",
+    "imdb": "tt3011934",
+    "tmdb": 264633
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 92
+}

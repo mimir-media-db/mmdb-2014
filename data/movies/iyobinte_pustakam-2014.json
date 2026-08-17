@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_iyobinte_pustakam_2014",
+  "title": "Iyobinte Pustakam",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16736330",
+    "imdb": "tt4186118",
+    "tmdb": 302638
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

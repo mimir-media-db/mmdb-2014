@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_italo_2014",
+  "title": "Italo",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18923678",
+    "imdb": "tt3406888",
+    "tmdb": 318364
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 104
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_mass_e_bhat_2014",
+  "title": "Mass E Bhat",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19572951",
+    "imdb": "tt5582556"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mad_sad_bad_2014",
+  "title": "Mad Sad Bad",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18381160",
+    "imdb": "tt3837066",
+    "tmdb": 269358
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-01",
+  "runtime_minutes": 117
+}

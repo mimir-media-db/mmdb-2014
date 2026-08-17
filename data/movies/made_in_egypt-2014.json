@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_made_in_egypt_2014",
+  "title": "Made in Egypt",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20393479",
+    "imdb": "tt3867086",
+    "tmdb": 300568
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-28",
+  "runtime_minutes": 102
+}

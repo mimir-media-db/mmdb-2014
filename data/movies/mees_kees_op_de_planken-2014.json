@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mees_kees_op_de_planken_2014",
+  "title": "Mees Kees op de planken",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18655575",
+    "imdb": "tt3474720",
+    "tmdb": 301238
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-03",
+  "runtime_minutes": 73
+}

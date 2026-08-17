@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miley_cyrus_tongue_tied_2014",
+  "title": "Miley Cyrus: Tongue Tied",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17113814",
+    "imdb": "tt26239780",
+    "tmdb": 324609
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-05-01",
+  "runtime_minutes": 2
+}

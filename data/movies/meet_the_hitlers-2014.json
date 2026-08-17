@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_meet_the_hitlers_2014",
+  "title": "Meet the Hitlers",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23755614",
+    "imdb": "tt2432918",
+    "tmdb": 326255
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 83
+}

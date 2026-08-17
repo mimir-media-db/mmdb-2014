@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_malini_22_palayamkottai_2014",
+  "title": "Malini 22 Palayamkottai",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15648500",
+    "imdb": "tt3161758",
+    "tmdb": 251635
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-24"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_match_2014",
+  "title": "Match",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18611406",
+    "imdb": "tt2637378",
+    "tmdb": 261036
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-18",
+  "runtime_minutes": 92
+}

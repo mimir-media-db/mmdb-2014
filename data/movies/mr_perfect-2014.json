@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_perfect_2014",
+  "title": "Mr. Perfect",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q12597940",
+    "imdb": "tt5219156",
+    "tmdb": 263033
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-03",
+  "runtime_minutes": 109
+}

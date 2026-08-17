@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mystical_traveler_the_life_and_times_of_dr_johnroger_2014",
+  "title": "Mystical Traveler: The Life and Times of Dr. John-Roger",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q135219274",
+    "imdb": "tt2195016",
+    "tmdb": 300848
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

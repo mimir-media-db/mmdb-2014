@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mike_the_knight_journey_to_dragon_mountain_2014",
+  "title": "Mike the Knight: Journey to Dragon Mountain",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20439364",
+    "imdb": "tt4537720",
+    "tmdb": 295545
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

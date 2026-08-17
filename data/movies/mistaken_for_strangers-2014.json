@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mistaken_for_strangers_2014",
+  "title": "Mistaken for Strangers",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q23000024",
+    "imdb": "tt2737310",
+    "tmdb": 173455
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-10"
+}

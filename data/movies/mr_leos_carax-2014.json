@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mr_leos_carax_2014",
+  "title": "Mr. Leos caraX",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17110724",
+    "imdb": "tt3384976",
+    "tmdb": 252403
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-20"
+}

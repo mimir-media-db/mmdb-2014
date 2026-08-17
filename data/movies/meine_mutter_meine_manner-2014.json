@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_meine_mutter_meine_manner_2014",
+  "title": "Meine Mutter, meine Männer",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q29189245",
+    "imdb": "tt3575372",
+    "tmdb": 349395
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-28",
+  "runtime_minutes": 89
+}

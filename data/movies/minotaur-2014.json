@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_minotaur_2014",
+  "title": "Minotaur",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q61968385",
+    "imdb": "tt12458710",
+    "tmdb": 576157
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 7
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_socalled_father_2014",
+  "title": "My So-Called Father",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15695282",
+    "imdb": "tt2923652",
+    "tmdb": 289278
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-19",
+  "runtime_minutes": 127
+}

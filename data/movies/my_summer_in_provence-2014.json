@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_summer_in_provence_2014",
+  "title": "My Summer in Provence",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16529759",
+    "imdb": "tt3013588",
+    "tmdb": 263281
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-04-02",
+  "runtime_minutes": 105
+}

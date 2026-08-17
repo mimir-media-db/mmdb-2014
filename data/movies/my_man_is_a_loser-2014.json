@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_man_is_a_loser_2014",
+  "title": "My Man Is a Loser",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q6946009",
+    "imdb": "tt2166934",
+    "tmdb": 272160
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-25"
+}

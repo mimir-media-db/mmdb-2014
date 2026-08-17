@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_memories_of_a_vagabound_2014",
+  "title": "Memories of a Vagabound",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q39071623",
+    "imdb": "tt3875544",
+    "tmdb": 301870
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-17"
+}

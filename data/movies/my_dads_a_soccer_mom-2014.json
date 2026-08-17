@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_dads_a_soccer_mom_2014",
+  "title": "My Dad's a Soccer Mom",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q131443717",
+    "imdb": "tt3794422",
+    "tmdb": 289229
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-06-21"
+}

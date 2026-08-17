@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_my_love_my_bride_2014",
+  "title": "My Love, My Bride",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18128354",
+    "imdb": "tt4038966",
+    "tmdb": 297558
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-08"
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_my_bromance_2014",
+  "title": "My Bromance",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19694702",
+    "imdb": "tt3522738",
+    "tmdb": 285307
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-02-20",
+  "runtime_minutes": 115
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_manshin_ten_thousand_spirits_2014",
+  "title": "MANSHIN: Ten Thousand Spirits",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20444348",
+    "imdb": "tt3520318",
+    "tmdb": 241928
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-03-06",
+  "runtime_minutes": 144
+}

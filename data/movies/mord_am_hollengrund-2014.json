@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mord_am_hollengrund_2014",
+  "title": "Mord am Höllengrund",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q56375672",
+    "imdb": "tt4023074",
+    "tmdb": 317000
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

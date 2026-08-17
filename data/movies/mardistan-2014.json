@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_mardistan_2014",
+  "title": "Mardistan",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q27964326",
+    "imdb": "tt3677140",
+    "tmdb": 581553
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

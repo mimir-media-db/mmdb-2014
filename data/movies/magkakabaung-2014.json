@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_magkakabaung_2014",
+  "title": "Magkakabaung",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18786619",
+    "imdb": "tt3989186",
+    "tmdb": 313667
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-17"
+}

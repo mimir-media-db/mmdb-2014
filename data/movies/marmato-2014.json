@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_marmato_2014",
+  "title": "Marmato",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17078302",
+    "imdb": "tt3197558",
+    "tmdb": 250662
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-17",
+  "runtime_minutes": 87
+}

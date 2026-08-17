@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miron_a_man_returned_from_outside_the_world_2014",
+  "title": "Miron: a man returned from outside the world",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q65055309",
+    "imdb": "tt4265748",
+    "tmdb": 559871
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 75
+}

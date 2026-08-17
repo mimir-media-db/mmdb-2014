@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_mirage_2014",
+  "title": "Mirage",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q18128085",
+    "imdb": "tt2016242",
+    "tmdb": 287503
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-05",
+  "runtime_minutes": 85
+}

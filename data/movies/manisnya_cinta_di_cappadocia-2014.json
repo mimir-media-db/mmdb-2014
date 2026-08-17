@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_manisnya_cinta_di_cappadocia_2014",
+  "title": "Manisnya Cinta di Cappadocia",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20455832",
+    "imdb": "tt4510826",
+    "tmdb": 315100
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-12-11",
+  "runtime_minutes": 110
+}

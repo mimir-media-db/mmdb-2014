@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_man_in_love_2014",
+  "title": "Man in Love",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15982923",
+    "imdb": "tt3479250",
+    "tmdb": 258313
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-22",
+  "runtime_minutes": 120
+}

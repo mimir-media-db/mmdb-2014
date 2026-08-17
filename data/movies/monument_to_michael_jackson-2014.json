@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_monument_to_michael_jackson_2014",
+  "title": "Monument to Michael Jackson",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16088152",
+    "imdb": "tt1597725",
+    "tmdb": 268121
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-07-08",
+  "runtime_minutes": 95
+}

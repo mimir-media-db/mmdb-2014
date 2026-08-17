@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_masters_of_suspense_2014",
+  "title": "The Masters of Suspense",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q21027537",
+    "imdb": "tt3212002",
+    "tmdb": 312993
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

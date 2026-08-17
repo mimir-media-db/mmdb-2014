@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_miss_sixty_2014",
+  "title": "Miss Sixty",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20850854",
+    "imdb": "tt3478536",
+    "tmdb": 262642
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 98
+}

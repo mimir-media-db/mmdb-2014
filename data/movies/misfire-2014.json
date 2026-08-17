@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_misfire_2014",
+  "title": "Misfire",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q20649731",
+    "imdb": "tt3207160",
+    "tmdb": 294736
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-10-06"
+}

@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_maichan_no_nichijo_2014",
+  "title": "Mai-chan no nichijô",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q128600841",
+    "imdb": "tt5627260",
+    "tmdb": 372962
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

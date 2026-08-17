@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_murderdrome_2014",
+  "title": "MurderDrome",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q28943857",
+    "imdb": "tt2338708",
+    "tmdb": 262087
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-09-09",
+  "runtime_minutes": 73
+}

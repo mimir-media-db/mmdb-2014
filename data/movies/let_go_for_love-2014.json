@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_let_go_for_love_2014",
+  "title": "Let Go for Love",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17020442",
+    "imdb": "tt28610897",
+    "tmdb": 626140
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

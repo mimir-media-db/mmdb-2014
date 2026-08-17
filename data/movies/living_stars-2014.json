@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_living_stars_2014",
+  "title": "Living Stars",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17076875",
+    "imdb": "tt3458730",
+    "tmdb": 265680
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 73
+}

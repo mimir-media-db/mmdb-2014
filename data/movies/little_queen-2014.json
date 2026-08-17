@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_little_queen_2014",
+  "title": "The Little Queen",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17632127",
+    "imdb": "tt3025410",
+    "tmdb": 273632
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 108
+}

@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_gente_che_sta_bene_2014",
+  "title": "La gente che sta bene",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15984014",
+    "imdb": "tt3485114",
+    "tmdb": 249457
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 105
+}

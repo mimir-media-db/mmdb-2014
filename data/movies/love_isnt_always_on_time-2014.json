@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_love_isnt_always_on_time_2014",
+  "title": "Love Isn't Always on Time",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16232069",
+    "imdb": "tt3404234",
+    "tmdb": 339240
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 105
+}

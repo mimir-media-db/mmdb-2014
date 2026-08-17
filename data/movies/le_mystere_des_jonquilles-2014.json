@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_le_mystere_des_jonquilles_2014",
+  "title": "Le mystère des jonquilles",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15714136",
+    "imdb": "tt3414950",
+    "tmdb": 612919
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 80
+}

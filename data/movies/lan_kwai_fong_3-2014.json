@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_lan_kwai_fong_3_2014",
+  "title": "Lan Kwai Fong 3",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q15921145",
+    "imdb": "tt3426810",
+    "tmdb": 247236
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

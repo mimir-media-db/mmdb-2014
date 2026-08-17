@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_latitudes_2014",
+  "title": "Latitudes",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17068560",
+    "imdb": "tt3579082",
+    "tmdb": 266723
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

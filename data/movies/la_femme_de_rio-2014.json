@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_la_femme_de_rio_2014",
+  "title": "La femme de Rio",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q19544602",
+    "imdb": "tt3101752",
+    "tmdb": 264747
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 20
+}

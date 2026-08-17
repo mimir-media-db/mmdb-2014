@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_lex_de_ma_vie_2014",
+  "title": "L'ex de ma vie",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17354511",
+    "imdb": "tt3624624",
+    "tmdb": 278646
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 80
+}

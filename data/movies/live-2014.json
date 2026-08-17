@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "m_live_2014",
+  "title": "Live",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q17023186",
+    "imdb": "tt3556584",
+    "tmdb": 282800
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01",
+  "runtime_minutes": 105
+}

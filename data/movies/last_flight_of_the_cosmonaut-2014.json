@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "m_last_flight_of_the_cosmonaut_2014",
+  "title": "Last Flight of the Cosmonaut",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16252349",
+    "imdb": "tt3586612"
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

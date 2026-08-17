@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "m_land_of_the_bears_2014",
+  "title": "Land of the Bears",
+  "year": 2014,
+  "type": "movie",
+  "external_ids": {
+    "wikidata": "Q16679328",
+    "imdb": "tt2705326",
+    "tmdb": 236827
+  },
+  "last_updated": "2026-08-17",
+  "release_date": "2014-01-01"
+}

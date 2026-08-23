@@ -14,5 +14,15 @@
     "Biography",
     "History"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "AR",
+    "CA",
+    "CL",
+    "DE",
+    "ES",
+    "GB",
+    "PH",
+    "PT"
+  ]
 }

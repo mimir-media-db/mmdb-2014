@@ -17,5 +17,9 @@
     "Short",
     "Thriller"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "SE",
+    "US"
+  ]
 }

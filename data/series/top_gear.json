@@ -14,5 +14,8 @@
     "reality television",
     "automotive television show"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
 }

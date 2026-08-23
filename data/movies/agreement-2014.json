@@ -16,5 +16,11 @@
     "Documentary",
     "History"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "BE",
+    "DK",
+    "GB",
+    "RS"
+  ]
 }

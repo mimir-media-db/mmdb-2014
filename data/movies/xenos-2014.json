@@ -17,5 +17,10 @@
     "Documentary",
     "Drama"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "DK",
+    "GB",
+    "GR"
+  ]
 }

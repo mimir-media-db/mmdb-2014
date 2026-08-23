@@ -17,5 +17,10 @@
     "Documentary",
     "Romance"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "BG",
+    "DE",
+    "FI"
+  ]
 }

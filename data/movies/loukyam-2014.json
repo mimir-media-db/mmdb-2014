@@ -9,7 +9,12 @@
     "imdb": "tt3982436",
     "tmdb": 295587
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2014-09-26",
-  "runtime_minutes": 149
+  "runtime_minutes": 149,
+  "genres": [
+    "Action",
+    "Comedy"
+  ],
+  "is_adult": false
 }

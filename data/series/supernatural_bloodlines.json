@@ -8,7 +8,13 @@
     "wikidata": "Q15924143",
     "imdb": "tt3182892"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 1,
-  "total_episodes": 1
+  "total_episodes": 1,
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Horror"
+  ],
+  "is_adult": false
 }

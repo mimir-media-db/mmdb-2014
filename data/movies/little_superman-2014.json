@@ -9,6 +9,10 @@
     "imdb": "tt2961118",
     "tmdb": 537657
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2014-11-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2014-11-01",
+  "genres": [
+    "Fantasy"
+  ],
+  "is_adult": false
 }

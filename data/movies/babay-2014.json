@@ -8,7 +8,12 @@
     "wikidata": "Q18647095",
     "imdb": "tt6971342"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2014-01-01",
-  "runtime_minutes": 70
+  "runtime_minutes": 70,
+  "genres": [
+    "Animation",
+    "Fantasy"
+  ],
+  "is_adult": false
 }

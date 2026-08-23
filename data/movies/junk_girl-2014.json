@@ -8,6 +8,12 @@
     "wikidata": "Q20987854",
     "imdb": "tt4105504"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2014-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2014-01-01",
+  "genres": [
+    "Adventure",
+    "Animation",
+    "Drama"
+  ],
+  "is_adult": false
 }

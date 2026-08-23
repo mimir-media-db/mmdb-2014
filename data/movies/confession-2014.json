@@ -9,6 +9,12 @@
     "imdb": "tt3957986",
     "tmdb": 284152
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2014-07-10"
+  "last_updated": "2026-08-23",
+  "release_date": "2014-07-10",
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false
 }

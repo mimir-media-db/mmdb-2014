@@ -9,7 +9,13 @@
     "imdb": "tt3800894",
     "tmdb": 334616
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2014-06-01",
-  "runtime_minutes": 54
+  "runtime_minutes": 54,
+  "genres": [
+    "Biography",
+    "Documentary",
+    "Sport"
+  ],
+  "is_adult": false
 }

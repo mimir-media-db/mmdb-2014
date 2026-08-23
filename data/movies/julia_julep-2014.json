@@ -8,7 +8,13 @@
     "wikidata": "Q65055301",
     "imdb": "tt2949946"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2014-01-01",
-  "runtime_minutes": 8
+  "runtime_minutes": 8,
+  "genres": [
+    "Drama",
+    "Family",
+    "Fantasy"
+  ],
+  "is_adult": false
 }

@@ -9,7 +9,11 @@
     "imdb": "tt8396336",
     "tmdb": 79924
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 5,
-  "total_episodes": 32
+  "total_episodes": 32,
+  "genres": [
+    "Music"
+  ],
+  "is_adult": false
 }

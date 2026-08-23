@@ -9,7 +9,13 @@
     "imdb": "tt4215350",
     "tmdb": 338360
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2014-01-01",
-  "runtime_minutes": 3
+  "runtime_minutes": 3,
+  "genres": [
+    "Animation",
+    "Music",
+    "Short"
+  ],
+  "is_adult": false
 }

@@ -8,5 +8,9 @@
     "wikidata": "Q17217554",
     "tmdb": 258302
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false
 }

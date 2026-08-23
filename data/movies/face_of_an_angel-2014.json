@@ -9,7 +9,13 @@
     "imdb": "tt2967008",
     "tmdb": 254024
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2014-01-01",
-  "runtime_minutes": 101
+  "runtime_minutes": 101,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false
 }

@@ -9,7 +9,13 @@
     "imdb": "tt3231010",
     "tmdb": 240704
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2014-04-04",
-  "runtime_minutes": 39
+  "runtime_minutes": 39,
+  "genres": [
+    "Adventure",
+    "Biography",
+    "Documentary"
+  ],
+  "is_adult": false
 }

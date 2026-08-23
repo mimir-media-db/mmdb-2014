@@ -7,7 +7,13 @@
   "external_ids": {
     "wikidata": "Q24955432"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 8,
-  "total_episodes": 107
+  "total_episodes": 107,
+  "genres": [
+    "reality television",
+    "drama television series",
+    "comedy television series"
+  ],
+  "is_adult": false
 }

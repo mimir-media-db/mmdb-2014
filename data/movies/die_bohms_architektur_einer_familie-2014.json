@@ -9,7 +9,13 @@
     "imdb": "tt3845142",
     "tmdb": 336427
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2014-10-30",
-  "runtime_minutes": 87
+  "runtime_minutes": 87,
+  "genres": [
+    "Biography",
+    "Documentary",
+    "Drama"
+  ],
+  "is_adult": false
 }

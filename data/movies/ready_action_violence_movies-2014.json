@@ -8,6 +8,10 @@
     "wikidata": "Q18683968",
     "tmdb": 490060
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2014-06-05"
+  "last_updated": "2026-08-23",
+  "release_date": "2014-06-05",
+  "genres": [
+    "Action"
+  ],
+  "is_adult": false
 }

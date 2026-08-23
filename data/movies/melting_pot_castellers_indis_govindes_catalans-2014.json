@@ -8,7 +8,13 @@
     "wikidata": "Q43371608",
     "imdb": "tt4425054"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2014-07-06",
-  "runtime_minutes": 70
+  "runtime_minutes": 70,
+  "genres": [
+    "Action",
+    "Documentary",
+    "Sport"
+  ],
+  "is_adult": false
 }

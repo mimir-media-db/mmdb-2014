@@ -9,7 +9,13 @@
     "imdb": "tt3747574",
     "tmdb": 63635
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 2,
-  "total_episodes": 13
+  "total_episodes": 13,
+  "genres": [
+    "History",
+    "Reality-TV",
+    "Thriller"
+  ],
+  "is_adult": false
 }

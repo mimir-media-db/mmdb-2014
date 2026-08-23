@@ -9,7 +9,13 @@
     "imdb": "tt4038408",
     "tmdb": 476725
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2014-09-29",
-  "runtime_minutes": 60
+  "runtime_minutes": 60,
+  "genres": [
+    "Documentary",
+    "Drama",
+    "Sci-Fi"
+  ],
+  "is_adult": false
 }

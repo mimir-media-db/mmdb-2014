@@ -8,7 +8,13 @@
     "wikidata": "Q19361259",
     "imdb": "tt3584130"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 3,
-  "total_episodes": 24
+  "total_episodes": 24,
+  "genres": [
+    "Comedy",
+    "Short",
+    "Talk-Show"
+  ],
+  "is_adult": false
 }

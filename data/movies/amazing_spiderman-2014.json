@@ -9,7 +9,12 @@
     "imdb": "tt0948470",
     "tmdb": 1930
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2014-05-01",
-  "runtime_minutes": 136
+  "runtime_minutes": 136,
+  "genres": [
+    "Action",
+    "Sci-Fi"
+  ],
+  "is_adult": false
 }

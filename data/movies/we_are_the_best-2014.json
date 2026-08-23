@@ -9,7 +9,12 @@
     "imdb": "tt2364975",
     "tmdb": 191294
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2014-06-19",
-  "runtime_minutes": 102
+  "runtime_minutes": 102,
+  "genres": [
+    "Drama",
+    "Music"
+  ],
+  "is_adult": false
 }

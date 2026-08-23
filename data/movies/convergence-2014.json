@@ -9,6 +9,12 @@
     "imdb": "tt3148552",
     "tmdb": 341050
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2014-04-26"
+  "last_updated": "2026-08-23",
+  "release_date": "2014-04-26",
+  "genres": [
+    "Action",
+    "Horror",
+    "Thriller"
+  ],
+  "is_adult": false
 }

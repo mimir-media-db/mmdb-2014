@@ -9,6 +9,11 @@
     "imdb": "tt3889092",
     "tmdb": 434351
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2014-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2014-01-01",
+  "genres": [
+    "Action",
+    "Crime"
+  ],
+  "is_adult": false
 }

@@ -9,6 +9,10 @@
     "imdb": "tt4173346",
     "tmdb": 375168
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2014-11-04"
+  "last_updated": "2026-08-23",
+  "release_date": "2014-11-04",
+  "genres": [
+    "Short"
+  ],
+  "is_adult": false
 }

@@ -7,6 +7,10 @@
   "external_ids": {
     "wikidata": "Q17304851"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 20
+  "last_updated": "2026-08-23",
+  "total_episodes": 20,
+  "genres": [
+    "talk show"
+  ],
+  "is_adult": false
 }

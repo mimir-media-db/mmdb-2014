@@ -9,6 +9,10 @@
     "imdb": "tt4331778",
     "tmdb": 221248
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 13
+  "last_updated": "2026-08-23",
+  "total_episodes": 13,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false
 }

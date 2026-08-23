@@ -9,6 +9,11 @@
     "imdb": "tt3221480",
     "tmdb": 520255
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2014-11-13"
+  "last_updated": "2026-08-23",
+  "release_date": "2014-11-13",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false
 }

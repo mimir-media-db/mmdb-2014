@@ -9,6 +9,12 @@
     "imdb": "tt3828220",
     "tmdb": 316505
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2014-12-25"
+  "last_updated": "2026-08-23",
+  "release_date": "2014-12-25",
+  "genres": [
+    "Action",
+    "Comedy",
+    "Fantasy"
+  ],
+  "is_adult": false
 }

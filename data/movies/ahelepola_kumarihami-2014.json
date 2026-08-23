@@ -9,6 +9,10 @@
     "imdb": "tt3471388",
     "tmdb": 936620
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2014-08-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2014-08-01",
+  "genres": [
+    "History"
+  ],
+  "is_adult": false
 }

@@ -9,6 +9,11 @@
     "imdb": "tt3709344",
     "tmdb": 277223
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2014-05-30"
+  "last_updated": "2026-08-23",
+  "release_date": "2014-05-30",
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false
 }

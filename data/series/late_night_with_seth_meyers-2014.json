@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_late_night_with_seth_meyers_2014",
+  "title": "Late Night with Seth Meyers",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15274593",
+    "imdb": "tt3513388",
+    "tmdb": 61818
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 12,
+  "total_episodes": 1635,
+  "genres": [
+    "Comedy",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

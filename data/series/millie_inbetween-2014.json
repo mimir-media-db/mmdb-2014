@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_millie_inbetween_2014",
+  "title": "Millie Inbetween",
+  "start_year": 2014,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q18326274",
+    "imdb": "tt4205332",
+    "tmdb": 97342
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 26,
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

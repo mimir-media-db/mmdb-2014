@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_satria_garuda_bimax_2014",
+  "title": "Satria Garuda BIMA-X",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17291949"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 50,
+  "genres": [
+    "science fiction",
+    "Drama",
+    "Fantasy",
+    "Action",
+    "Adventure",
+    "Biography"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ID"
+  ]
+}

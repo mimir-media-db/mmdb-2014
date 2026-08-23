@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_nino_2014",
+  "title": "Niño",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17082265",
+    "imdb": "tt3909244",
+    "tmdb": 221653
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 80,
+  "genres": [
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

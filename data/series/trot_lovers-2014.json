@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_trot_lovers_2014",
+  "title": "Trot Lovers",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16726783",
+    "imdb": "tt3865702",
+    "tmdb": 61182
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "Comedy",
+    "Music",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

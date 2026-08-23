@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_senora_acero_2014",
+  "title": "Señora Acero",
+  "start_year": 2014,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q17047801",
+    "imdb": "tt3904068",
+    "tmdb": 63764
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 387,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

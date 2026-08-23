@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_katch_it_with_khanyi_2014",
+  "title": "Katch It With Khanyi",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19792286",
+    "imdb": "tt4672024"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 91,
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ZA"
+  ]
+}

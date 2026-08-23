@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_reckless_2014",
+  "title": "Reckless",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15140455",
+    "imdb": "tt2734804",
+    "tmdb": 58951
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

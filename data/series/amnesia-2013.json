@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_amnesia_2013",
+  "title": "Amnesia",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q124661750",
+    "imdb": "tt4088814"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AM"
+  ]
+}

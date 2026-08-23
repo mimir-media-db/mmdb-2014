@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_james_mays_cars_of_the_people_2014",
+  "title": "James May's Cars of the People",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q18160368",
+    "imdb": "tt3772506",
+    "tmdb": 61285
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 6,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

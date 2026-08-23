@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_doll_em_2014",
+  "title": "Doll & Em",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q15949537",
+    "imdb": "tt2561882",
+    "tmdb": 61059
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 12,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

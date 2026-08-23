@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_yam_hain_hum_2014",
+  "title": "Yam Hain Hum",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q18636870",
+    "imdb": "tt4526110"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 283,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

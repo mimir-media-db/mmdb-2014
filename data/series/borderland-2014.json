@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_borderland_2014",
+  "title": "Borderland",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q108503073",
+    "imdb": "tt3300988",
+    "tmdb": 62106
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

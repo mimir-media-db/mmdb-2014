@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_appalachian_outlaws_2014",
+  "title": "Appalachian Outlaws",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q27645650",
+    "imdb": "tt3451690",
+    "tmdb": 64883
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 16,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

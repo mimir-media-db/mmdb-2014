@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_fizruk_2014",
+  "title": "Fizruk",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q16711724",
+    "imdb": "tt3656076",
+    "tmdb": 61256
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 77,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

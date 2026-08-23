@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_fashion_planet_2014",
+  "title": "Fashion Planet",
+  "start_year": 2014,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q16068943",
+    "imdb": "tt3422496",
+    "tmdb": 232114
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 12,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": []
+}

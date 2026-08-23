@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_la_sombra_del_pasado_2014",
+  "title": "La sombra del pasado",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18341045",
+    "imdb": "tt4165878",
+    "tmdb": 78293
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 136,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

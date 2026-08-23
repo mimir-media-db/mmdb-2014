@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_heartless_2014",
+  "title": "Heartless",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17165595",
+    "imdb": "tt2151454",
+    "tmdb": 62288
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 8,
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DK"
+  ]
+}

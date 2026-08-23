@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_love_cheque_charge_2014",
+  "title": "Love Cheque Charge",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17499134",
+    "imdb": "tt6357262",
+    "tmdb": 101329
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 74,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TW"
+  ]
+}

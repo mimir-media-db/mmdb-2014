@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_transparent_2014",
+  "title": "Transparent",
+  "start_year": 2014,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q17014382",
+    "imdb": "tt3502262",
+    "tmdb": 61406
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 40,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

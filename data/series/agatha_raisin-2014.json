@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_agatha_raisin_2014",
+  "title": "Agatha Raisin",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20718353",
+    "imdb": "tt5015548",
+    "tmdb": 66671
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 16,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

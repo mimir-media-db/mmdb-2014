@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_craftsmans_legacy_2013",
+  "title": "A Craftsman's Legacy",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20715223",
+    "imdb": "tt4958538",
+    "tmdb": 71808
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 13,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

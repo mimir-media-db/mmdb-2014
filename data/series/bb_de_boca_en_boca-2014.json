@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_bb_de_boca_en_boca_2014",
+  "title": "B&b, de boca en boca",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q15966843",
+    "imdb": "tt3214648",
+    "tmdb": 62429
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 29,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

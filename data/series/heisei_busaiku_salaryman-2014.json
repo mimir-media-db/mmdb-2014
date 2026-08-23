@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_heisei_busaiku_salaryman_2014",
+  "title": "Heisei Busaiku Salaryman",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18231057",
+    "imdb": "tt4114206",
+    "tmdb": 84413
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 12,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

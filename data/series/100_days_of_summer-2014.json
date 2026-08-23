@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_100_days_of_summer_2014",
+  "title": "100 Days of Summer",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15526795",
+    "imdb": "tt2817214",
+    "tmdb": 226743
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

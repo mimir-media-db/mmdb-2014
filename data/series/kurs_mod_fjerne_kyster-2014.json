@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_kurs_mod_fjerne_kyster_2014",
+  "title": "Kurs mod fjerne kyster",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q140696037",
+    "imdb": "tt5636492",
+    "tmdb": 67543
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 32,
+  "genres": [
+    "Adventure",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DK"
+  ]
+}

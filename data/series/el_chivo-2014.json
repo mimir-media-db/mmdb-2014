@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_el_chivo_2014",
+  "title": "El Chivo",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17478509",
+    "imdb": "tt4078708",
+    "tmdb": 82611
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 70,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PE"
+  ]
+}

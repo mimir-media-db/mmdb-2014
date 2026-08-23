@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_henry_danger_2014",
+  "title": "Henry Danger",
+  "start_year": 2014,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q17328326",
+    "imdb": "tt3596174",
+    "tmdb": 61852
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 121,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

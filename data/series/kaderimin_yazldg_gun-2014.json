@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_kaderimin_yazldg_gun_2014",
+  "title": "Kaderimin Yazıldığı Gün",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19611573",
+    "imdb": "tt4075196",
+    "tmdb": 70929
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 50,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

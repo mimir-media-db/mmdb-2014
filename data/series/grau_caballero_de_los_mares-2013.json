@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_grau_caballero_de_los_mares_2013",
+  "title": "Grau, caballero de los mares",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q92740532"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 2,
+  "genres": [
+    "biographical film",
+    "drama television series",
+    "documentary television program",
+    "historical television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PE"
+  ]
+}

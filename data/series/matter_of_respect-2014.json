@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_matter_of_respect_2014",
+  "title": "Matter of Respect",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19520516",
+    "imdb": "tt4312318",
+    "tmdb": 107075
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 26,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

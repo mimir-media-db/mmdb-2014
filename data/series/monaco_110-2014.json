@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_monaco_110_2014",
+  "title": "Monaco 110",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15992057",
+    "imdb": "tt3657748",
+    "tmdb": 60850
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 14,
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

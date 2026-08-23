@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_simply_laura_2014",
+  "title": "Simply Laura",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q26812635",
+    "imdb": "tt4225938",
+    "tmdb": 85497
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 14,
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

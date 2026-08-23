@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_high_school_king_of_savvy_2014",
+  "title": "High School King of Savvy",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16691455",
+    "imdb": "tt3798374",
+    "tmdb": 61543
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 17,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

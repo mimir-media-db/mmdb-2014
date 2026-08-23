@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_cosmos_a_spacetime_odyssey_2014",
+  "title": "Cosmos: A Spacetime Odyssey",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q5174583",
+    "imdb": "tt2395695",
+    "tmdb": 58474
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Documentary",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

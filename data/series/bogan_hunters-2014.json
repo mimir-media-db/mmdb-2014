@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_bogan_hunters_2014",
+  "title": "Bogan Hunters",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16966776",
+    "imdb": "tt3885408",
+    "tmdb": 61756
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

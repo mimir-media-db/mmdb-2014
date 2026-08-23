@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_holiday_of_my_lifetime_2014",
+  "title": "Holiday of My Lifetime",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18160954",
+    "imdb": "tt5903370"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 41,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

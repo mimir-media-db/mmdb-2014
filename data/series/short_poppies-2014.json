@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_short_poppies_2014",
+  "title": "Short Poppies",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17064231",
+    "imdb": "tt3317064",
+    "tmdb": 67270
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "NZ",
+    "US"
+  ]
+}

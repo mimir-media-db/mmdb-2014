@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_bens_menu_2014",
+  "title": "Ben's Menu",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18162809",
+    "imdb": "tt4651886"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 180,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

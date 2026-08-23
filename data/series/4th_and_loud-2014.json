@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_4th_and_loud_2014",
+  "title": "4th and Loud",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17985353",
+    "imdb": "tt3784176",
+    "tmdb": 230384
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

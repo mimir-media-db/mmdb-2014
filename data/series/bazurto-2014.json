@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_bazurto_2014",
+  "title": "Bazurto",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q5723820",
+    "imdb": "tt2381284",
+    "tmdb": 107222
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 63,
+  "genres": [
+    "Action",
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

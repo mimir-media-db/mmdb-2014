@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_bad_guys_2014",
+  "title": "Bad Guys",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17987202",
+    "imdb": "tt3914520",
+    "tmdb": 61700
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 11,
+  "genres": [
+    "Action",
+    "Crime",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

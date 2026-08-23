@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_obsession_dark_desires_2014",
+  "title": "Obsession: Dark Desires",
+  "start_year": 2014,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q17109164",
+    "imdb": "tt2892016",
+    "tmdb": 47986
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 21,
+  "genres": [
+    "Crime",
+    "Documentary",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

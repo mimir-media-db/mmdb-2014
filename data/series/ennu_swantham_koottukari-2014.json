@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_ennu_swantham_koottukari_2014",
+  "title": "Ennu Swantham Koottukari",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q20800468",
+    "imdb": "tt12320006"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 158,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

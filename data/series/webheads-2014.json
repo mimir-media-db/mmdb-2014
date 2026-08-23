@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_webheads_2014",
+  "title": "Webheads",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17151644",
+    "imdb": "tt3716894"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 40,
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

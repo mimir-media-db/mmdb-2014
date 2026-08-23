@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_kim_of_queens_2013",
+  "title": "Kim of Queens",
+  "start_year": 2013,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16998386"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 22,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

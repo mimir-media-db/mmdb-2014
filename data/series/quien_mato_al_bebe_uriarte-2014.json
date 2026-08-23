@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_quien_mato_al_bebe_uriarte_2014",
+  "title": "¿Quién mató al Bebe Uriarte?",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q106768730",
+    "imdb": "tt4918026",
+    "tmdb": 294616
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AR"
+  ]
+}

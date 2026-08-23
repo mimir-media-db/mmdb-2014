@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_roy_and_hgs_russian_revolution_2014",
+  "title": "Roy and HG's Russian Revolution",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16971495"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 15,
+  "genres": [
+    "comedy television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

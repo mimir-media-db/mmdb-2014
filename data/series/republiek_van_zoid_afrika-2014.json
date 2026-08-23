@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_republiek_van_zoid_afrika_2014",
+  "title": "Republiek van Zoid Afrika",
+  "start_year": 2014,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q25614765",
+    "imdb": "tt12725000",
+    "tmdb": 230118
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 78,
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ZA"
+  ]
+}

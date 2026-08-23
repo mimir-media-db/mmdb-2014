@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_la_gata_2014",
+  "title": "La Gata",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15215805",
+    "imdb": "tt3596316",
+    "tmdb": 60640
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 121,
+  "genres": [
+    "Action",
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

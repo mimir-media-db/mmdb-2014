@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_pawnography_2014",
+  "title": "Pawnography",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18153113"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 30,
+  "genres": [
+    "game show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

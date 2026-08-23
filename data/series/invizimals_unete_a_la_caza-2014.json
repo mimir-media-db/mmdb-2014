@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_invizimals_unete_a_la_caza_2014",
+  "title": "¡Invizimals! Únete a la caza",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18716264",
+    "imdb": "tt4900224",
+    "tmdb": 80277
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 26,
+  "genres": [
+    "Animation",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

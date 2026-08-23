@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_sports_jeopardy_2014",
+  "title": "Sports Jeopardy!",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q26966299",
+    "imdb": "tt4067972",
+    "tmdb": 74122
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 101,
+  "genres": [
+    "Game-Show",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

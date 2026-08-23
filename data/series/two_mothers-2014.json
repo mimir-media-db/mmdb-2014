@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_two_mothers_2014",
+  "title": "Two Mothers",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16726465",
+    "imdb": "tt4993938",
+    "tmdb": 68992
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 102,
+  "genres": [
+    "Drama",
+    "Family",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

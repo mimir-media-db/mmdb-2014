@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_jawai_vikat_ghene_aahe_2014",
+  "title": "Jawai Vikat Ghene Aahe",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q110120093",
+    "imdb": "tt14028210"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 283,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

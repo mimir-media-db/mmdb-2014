@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_snake_city_2014",
+  "title": "Snake City",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q60751751",
+    "imdb": "tt7349460",
+    "tmdb": 82981
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ZA"
+  ]
+}

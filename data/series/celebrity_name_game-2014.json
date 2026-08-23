@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_celebrity_name_game_2014",
+  "title": "Celebrity Name Game",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q16956271",
+    "imdb": "tt2112923",
+    "tmdb": 65123
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 257,
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_andys_dinosaur_adventures_2013",
+  "title": "Andy's Dinosaur Adventures",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q20438939",
+    "imdb": "tt3609100",
+    "tmdb": 95548
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

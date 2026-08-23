@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_walshes_2014",
+  "title": "The Walshes",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17030641",
+    "imdb": "tt3541344",
+    "tmdb": 87627
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 3,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

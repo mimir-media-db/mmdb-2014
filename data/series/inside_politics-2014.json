@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_inside_politics_2014",
+  "title": "Inside Politics",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q6037788"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "talk show",
+    "news program"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

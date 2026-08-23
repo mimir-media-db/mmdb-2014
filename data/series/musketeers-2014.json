@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_musketeers_2014",
+  "title": "The Musketeers",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q15632463",
+    "imdb": "tt2733252",
+    "tmdb": 57736
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 30,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

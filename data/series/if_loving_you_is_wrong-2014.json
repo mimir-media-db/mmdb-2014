@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_if_loving_you_is_wrong_2014",
+  "title": "If Loving You Is Wrong",
+  "start_year": 2014,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q17167614",
+    "imdb": "tt3645318",
+    "tmdb": 62251
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 42,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

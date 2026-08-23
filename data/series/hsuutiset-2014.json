@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_hsuutiset_2014",
+  "title": "HS-uutiset",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q18680099"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "news program"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FI"
+  ]
+}

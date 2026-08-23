@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_berlin_models_2014",
+  "title": "Berlin Models",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19835366"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 75,
+  "countries": [
+    "DE"
+  ]
+}

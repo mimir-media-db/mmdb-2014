@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_kumkum_bhagya_2014",
+  "title": "Kumkum Bhagya",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17068098",
+    "imdb": "tt3911870",
+    "tmdb": 71734
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 2335,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

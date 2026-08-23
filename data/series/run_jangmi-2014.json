@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_run_jangmi_2014",
+  "title": "Run, Jang-mi",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18328477",
+    "imdb": "tt5672194",
+    "tmdb": 62067
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 123,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

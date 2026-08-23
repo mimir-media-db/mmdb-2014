@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_just_keke_2014",
+  "title": "Just Keke",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17518329",
+    "imdb": "tt3847884"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 20,
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

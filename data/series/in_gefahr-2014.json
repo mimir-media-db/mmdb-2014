@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_in_gefahr_2014",
+  "title": "In Gefahr",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18021034",
+    "imdb": "tt3905630",
+    "tmdb": 82200
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 302,
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_idol_school_2014",
+  "title": "Idol School",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q23023247"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "variety show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

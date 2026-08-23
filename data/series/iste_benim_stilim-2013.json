@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_iste_benim_stilim_2013",
+  "title": "İşte Benim Stilim",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18921235",
+    "imdb": "tt29115970",
+    "tmdb": 308027
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 7,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

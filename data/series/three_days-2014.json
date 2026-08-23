@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_three_days_2014",
+  "title": "Three Days",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15149232",
+    "imdb": "tt3580142",
+    "tmdb": 61157
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "Action",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

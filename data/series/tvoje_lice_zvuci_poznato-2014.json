@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_tvoje_lice_zvuci_poznato_2014",
+  "title": "Tvoje lice zvuči poznato",
+  "start_year": 2014,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q18355231",
+    "imdb": "tt4129448",
+    "tmdb": 285160
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 63,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "HR"
+  ]
+}

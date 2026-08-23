@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_uff_meri_family_2014",
+  "title": "Uff Meri Family",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q20800651",
+    "imdb": "tt10441778"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 26,
+  "is_adult": false,
+  "countries": [
+    "PK"
+  ]
+}

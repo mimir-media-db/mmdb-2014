@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_deadline_255_2014",
+  "title": "Deadline 25/5",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q13571673",
+    "imdb": "tt2859920",
+    "tmdb": 79344
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 8,
+  "genres": [
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE"
+  ]
+}

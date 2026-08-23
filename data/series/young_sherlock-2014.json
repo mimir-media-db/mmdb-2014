@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_young_sherlock_2014",
+  "title": "Young Sherlock",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15917244",
+    "imdb": "tt5868554",
+    "tmdb": 80163
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 40,
+  "genres": [
+    "Fantasy",
+    "History",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

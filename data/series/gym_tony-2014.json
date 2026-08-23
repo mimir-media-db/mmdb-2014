@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_gym_tony_2014",
+  "title": "Gym Tony",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q18641666",
+    "imdb": "tt4068834",
+    "tmdb": 62865
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 373,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

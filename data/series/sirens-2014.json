@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_sirens_2014",
+  "title": "Sirens",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17034872",
+    "imdb": "tt2484950",
+    "tmdb": 60766
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 23,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

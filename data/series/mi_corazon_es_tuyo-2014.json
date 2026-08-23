@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_mi_corazon_es_tuyo_2014",
+  "title": "Mi corazón es tuyo",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16942035",
+    "imdb": "tt3825904",
+    "tmdb": 63407
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 177,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_dreamland_2014",
+  "title": "Dreamland",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q5814238",
+    "imdb": "tt3044680",
+    "tmdb": 82709
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Musical"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

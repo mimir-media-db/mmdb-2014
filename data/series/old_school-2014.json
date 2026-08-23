@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_old_school_2014",
+  "title": "Old School",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16613412",
+    "imdb": "tt3164100",
+    "tmdb": 50841
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

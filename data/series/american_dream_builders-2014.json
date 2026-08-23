@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_american_dream_builders_2014",
+  "title": "American Dream Builders",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16002845",
+    "imdb": "tt3038126",
+    "tmdb": 64866
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

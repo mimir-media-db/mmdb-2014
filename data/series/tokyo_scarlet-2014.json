@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_tokyo_scarlet_2014",
+  "title": "Tokyo Scarlet",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17219908",
+    "imdb": "tt3777088",
+    "tmdb": 86884
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

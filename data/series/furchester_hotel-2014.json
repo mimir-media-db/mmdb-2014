@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_furchester_hotel_2014",
+  "title": "The Furchester Hotel",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q18154938",
+    "imdb": "tt3562366",
+    "tmdb": 70089
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 52,
+  "genres": [
+    "Family",
+    "Horror"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

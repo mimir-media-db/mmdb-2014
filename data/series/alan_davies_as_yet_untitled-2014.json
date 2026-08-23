@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_alan_davies_as_yet_untitled_2014",
+  "title": "Alan Davies: As Yet Untitled",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17510458",
+    "imdb": "tt4460168",
+    "tmdb": 70952
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 38,
+  "genres": [
+    "Comedy",
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

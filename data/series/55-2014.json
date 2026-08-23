@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_55_2014",
+  "title": "55歳からのハローライフ",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q140470811",
+    "imdb": "tt3783250",
+    "tmdb": 127040
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

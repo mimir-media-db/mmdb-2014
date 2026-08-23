@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_north_star_2014",
+  "title": "North Star",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q18387825",
+    "imdb": "tt7828056",
+    "tmdb": 66058
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 100,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

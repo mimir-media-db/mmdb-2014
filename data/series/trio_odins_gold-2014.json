@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_trio_odins_gold_2014",
+  "title": "TRIO: Odin's Gold",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q20111861",
+    "imdb": "tt3426404",
+    "tmdb": 75443
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 30,
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "NO"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_syke_2014",
+  "title": "Syke",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18679875",
+    "imdb": "tt3871822",
+    "tmdb": 66585
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 16,
+  "total_episodes": 382,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FI"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_livre_ouvert_2014",
+  "title": "À livre ouvert",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112032380",
+    "imdb": "tt3375350",
+    "tmdb": 116999
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CH"
+  ]
+}

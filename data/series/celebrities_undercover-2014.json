@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_celebrities_undercover_2014",
+  "title": "Celebrities Undercover",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q20925528",
+    "imdb": "tt3612584",
+    "tmdb": 64980
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 7,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

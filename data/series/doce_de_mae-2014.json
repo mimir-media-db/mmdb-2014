@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_doce_de_mae_2014",
+  "title": "Doce de Mãe",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q18246027",
+    "imdb": "tt3528326",
+    "tmdb": 86061
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 14,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

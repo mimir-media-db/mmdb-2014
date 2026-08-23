@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_pituca_sin_lucas_2014",
+  "title": "Pituca Sin Lucas",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18259583",
+    "imdb": "tt4065592",
+    "tmdb": 105452
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 153,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_give_love_on_christmas_2014",
+  "title": "Give Love on Christmas",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18702173"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 35,
+  "genres": [
+    "Christmas film"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

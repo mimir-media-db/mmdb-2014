@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_laut_aao_trisha_2014",
+  "title": "Laut Aao Trisha",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q25539750"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 175,
+  "genres": [
+    "LGBT-related television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

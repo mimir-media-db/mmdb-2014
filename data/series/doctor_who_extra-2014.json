@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_doctor_who_extra_2014",
+  "title": "Doctor Who Extra",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18159798",
+    "imdb": "tt4147332",
+    "tmdb": 61643
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

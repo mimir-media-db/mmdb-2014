@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_i_ekdromi_2013",
+  "title": "I ekdromi",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q105620879",
+    "imdb": "tt4427088",
+    "tmdb": 108859
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 16,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GR"
+  ]
+}

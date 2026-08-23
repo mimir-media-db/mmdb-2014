@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_aftermath_2014",
+  "title": "Aftermath",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16184477",
+    "imdb": "tt3591956",
+    "tmdb": 63823
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Action",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_la_chucara_2014",
+  "title": "La chúcara",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18353278",
+    "imdb": "tt4299758",
+    "tmdb": 293527
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 190,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}

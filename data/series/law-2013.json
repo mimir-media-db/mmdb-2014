@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_law_2013",
+  "title": "Law",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q20394755",
+    "imdb": "tt5263898",
+    "tmdb": 113474
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "SY"
+  ]
+}

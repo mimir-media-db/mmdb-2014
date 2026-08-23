@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_sherlock_holmes_2014",
+  "title": "Sherlock Holmes",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17227667",
+    "imdb": "tt6357770"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 28,
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_complexe_g_2014",
+  "title": "Complexe G",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q18289166",
+    "imdb": "tt4248300",
+    "tmdb": 89658
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 23,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

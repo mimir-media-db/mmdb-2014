@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_vuelve_temprano_2014",
+  "title": "Vuelve temprano",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15612974"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 118,
+  "genres": [
+    "telenovela"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}

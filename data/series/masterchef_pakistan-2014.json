@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_masterchef_pakistan_2014",
+  "title": "MasterChef Pakistan",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16997427",
+    "imdb": "tt33049413"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 26,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PK"
+  ]
+}

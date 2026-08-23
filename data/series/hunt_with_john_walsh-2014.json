@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_hunt_with_john_walsh_2014",
+  "title": "The Hunt With John Walsh",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q17512743",
+    "imdb": "tt3872824",
+    "tmdb": 64917
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 16,
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

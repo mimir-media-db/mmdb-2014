@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_caught_on_camera_with_nick_cannon_2014",
+  "title": "Caught on Camera with Nick Cannon",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q20642665",
+    "imdb": "tt4295320",
+    "tmdb": 67784
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 17,
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

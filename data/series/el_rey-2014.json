@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_el_rey_2014",
+  "title": "El Rey",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q18507129",
+    "imdb": "tt2522778",
+    "tmdb": 75606
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 3,
+  "genres": [
+    "Biography"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

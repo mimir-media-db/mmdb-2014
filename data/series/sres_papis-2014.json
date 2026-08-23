@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_sres_papis_2014",
+  "title": "Sres. Papis",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15948432",
+    "imdb": "tt3452080",
+    "tmdb": 152392
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 184,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AR"
+  ]
+}

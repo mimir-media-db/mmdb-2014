@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_what_happens_to_my_family_2014",
+  "title": "What Happens to My Family?",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16299261",
+    "imdb": "tt4412686",
+    "tmdb": 70525
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 53,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

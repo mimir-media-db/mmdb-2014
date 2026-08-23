@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_shadows_2014",
+  "title": "Shadows",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q24044975",
+    "imdb": "tt4269716",
+    "tmdb": 62111
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 21,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RO"
+  ]
+}

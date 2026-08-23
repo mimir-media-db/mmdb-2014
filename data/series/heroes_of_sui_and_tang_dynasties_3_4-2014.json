@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_heroes_of_sui_and_tang_dynasties_3_4_2014",
+  "title": "Heroes of Sui and Tang Dynasties 3 & 4",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15897471",
+    "tmdb": 136651
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 130,
+  "countries": [
+    "CN"
+  ]
+}

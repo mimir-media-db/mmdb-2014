@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_eh_les_hommes_eh_les_femmes_2013",
+  "title": "Eh les Hommes, Eh Les Femmes !",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q135919422"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 100,
+  "genres": [
+    "Disaster"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BF"
+  ]
+}

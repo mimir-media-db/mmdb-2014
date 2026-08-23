@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_skin_wars_2014",
+  "title": "Skin Wars",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q17143660",
+    "imdb": "tt3231286",
+    "tmdb": 62923
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 30,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

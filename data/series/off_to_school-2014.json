@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_off_to_school_2014",
+  "title": "Off to School",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18381415",
+    "tmdb": 137318
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 68,
+  "genres": [
+    "variety show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

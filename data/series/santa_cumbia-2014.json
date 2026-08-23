@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_santa_cumbia_2014",
+  "title": "Santa cumbia",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q23011184",
+    "imdb": "tt5612272"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 27,
+  "is_adult": false,
+  "countries": [
+    "PY"
+  ]
+}

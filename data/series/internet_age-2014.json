@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_internet_age_2014",
+  "title": "The Internet Age",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q18011566",
+    "tmdb": 62030
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 10,
+  "genres": [
+    "documentary television program"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

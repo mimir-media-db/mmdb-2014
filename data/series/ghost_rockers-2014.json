@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_ghost_rockers_2014",
+  "title": "Ghost Rockers",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q18654942",
+    "imdb": "tt4340960",
+    "tmdb": 64085
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Family",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_interventions_2013",
+  "title": "Interventions",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18636816",
+    "imdb": "tt4108336",
+    "tmdb": 82460
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_cubic_2013",
+  "title": "Cubic",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16307182",
+    "imdb": "tt8805588",
+    "tmdb": 56007
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TH"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_annedroids_2014",
+  "title": "Annedroids",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q19593679",
+    "imdb": "tt3012532",
+    "tmdb": 62683
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 26,
+  "genres": [
+    "Action",
+    "Family",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

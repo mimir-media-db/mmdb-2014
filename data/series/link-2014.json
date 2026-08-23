@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_link_2014",
+  "title": "The Link",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16996360",
+    "imdb": "tt3734728"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 65,
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_warren_united_2014",
+  "title": "Warren United",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17033429",
+    "imdb": "tt3763540",
+    "tmdb": 214965
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Animation",
+    "Comedy",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

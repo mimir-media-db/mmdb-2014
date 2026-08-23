@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_zio_gianni_2014",
+  "title": "Zio Gianni",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q21190716",
+    "imdb": "tt4302566",
+    "tmdb": 97332
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 61,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IT"
+  ]
+}

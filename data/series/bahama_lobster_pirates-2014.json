@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_bahama_lobster_pirates_2014",
+  "title": "Bahama Lobster Pirates",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q48780643"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 10,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

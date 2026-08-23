@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_kingdom_2014",
+  "title": "Kingdom",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q18328031",
+    "imdb": "tt3673794",
+    "tmdb": 61427
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 40,
+  "genres": [
+    "Drama",
+    "Sport"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_chasing_life_2014",
+  "title": "Chasing Life",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q15072803",
+    "imdb": "tt2399794",
+    "tmdb": 60803
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 34,
+  "genres": [
+    "Drama",
+    "Family",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

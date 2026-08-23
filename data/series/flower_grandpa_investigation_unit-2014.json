@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_flower_grandpa_investigation_unit_2014",
+  "title": "Flower Grandpa Investigation Unit",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16766808",
+    "imdb": "tt5216880",
+    "tmdb": 110010
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 12,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_gold_coast_cops_2014",
+  "title": "Gold Coast Cops",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18165594",
+    "tmdb": 62368
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 20,
+  "genres": [
+    "documentary television program"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

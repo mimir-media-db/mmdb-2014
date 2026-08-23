@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_o_beijo_do_escorpiao_2014",
+  "title": "O Beijo do Escorpião",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q18478877",
+    "imdb": "tt3351520",
+    "tmdb": 70209
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 194,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PT"
+  ]
+}

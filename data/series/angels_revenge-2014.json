@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_angels_revenge_2014",
+  "title": "Angel's Revenge",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15208988",
+    "imdb": "tt3541074",
+    "tmdb": 63945
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 103,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

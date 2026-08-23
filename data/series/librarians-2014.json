@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_librarians_2014",
+  "title": "The Librarians",
+  "start_year": 2014,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q18608417",
+    "imdb": "tt3663490",
+    "tmdb": 61599
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 42,
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

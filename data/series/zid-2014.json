@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_zid_2014",
+  "title": "Zid",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18712649",
+    "imdb": "tt10443688"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 19,
+  "is_adult": false,
+  "countries": [
+    "PK"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_aim_high_2014",
+  "title": "Aim High",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17498897",
+    "imdb": "tt6420672",
+    "tmdb": 122051
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 20,
+  "is_adult": false,
+  "countries": [
+    "TW"
+  ]
+}

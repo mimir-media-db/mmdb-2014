@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_inside_politics_sunday_with_john_king_2014",
+  "title": "Inside Politics Sunday with John King",
+  "start_year": 2014,
+  "end_year": 2021,
+  "external_ids": {
+    "wikidata": "Q125828686",
+    "imdb": "tt32314957"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "News"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

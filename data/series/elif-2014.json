@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_elif_2014",
+  "title": "Elif",
+  "start_year": 2014,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q19611103",
+    "imdb": "tt4745726",
+    "tmdb": 49347
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 940,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

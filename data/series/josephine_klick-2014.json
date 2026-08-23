@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_josephine_klick_2014",
+  "title": "Josephine Klick",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16832304",
+    "imdb": "tt3544978",
+    "tmdb": 60869
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 12,
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

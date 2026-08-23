@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_mulaney_2014",
+  "title": "Mulaney",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17007751",
+    "imdb": "tt2753110",
+    "tmdb": 61429
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

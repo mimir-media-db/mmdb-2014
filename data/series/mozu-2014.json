@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_mozu_2014",
+  "title": "MOZU",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15814052",
+    "imdb": "tt3267222",
+    "tmdb": 64914
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

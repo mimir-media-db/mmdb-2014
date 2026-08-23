@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_wild_canada_2014",
+  "title": "Wild Canada",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q19600390",
+    "imdb": "tt3690362",
+    "tmdb": 61409
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 4,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

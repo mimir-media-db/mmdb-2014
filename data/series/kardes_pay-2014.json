@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_kardes_pay_2014",
+  "title": "Kardeş Payı",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15912478",
+    "imdb": "tt3671754",
+    "tmdb": 61516
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 35,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

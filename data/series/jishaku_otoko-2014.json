@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_jishaku_otoko_2014",
+  "title": "Jishaku Otoko",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17992573"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "drama television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

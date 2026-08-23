@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_smeris_2014",
+  "title": "Smeris",
+  "start_year": 2014,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q16736620",
+    "imdb": "tt3487478",
+    "tmdb": 62637
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 43,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": []
+}

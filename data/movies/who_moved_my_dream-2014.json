@@ -14,5 +14,8 @@
     "Western",
     "romantic comedy film"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
 }

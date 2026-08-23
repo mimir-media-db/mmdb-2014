@@ -17,5 +17,15 @@
     "Documentary",
     "History"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "DE",
+    "DK",
+    "FI",
+    "FR",
+    "GB",
+    "ID",
+    "NO",
+    "US"
+  ]
 }

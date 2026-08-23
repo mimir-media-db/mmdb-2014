@@ -14,5 +14,8 @@
     "Fantasy",
     "Thriller"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "LK"
+  ]
 }

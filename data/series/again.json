@@ -12,5 +12,8 @@
   "genres": [
     "school anime and manga"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
 }

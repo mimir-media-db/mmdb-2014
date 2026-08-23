@@ -15,5 +15,8 @@
     "drama television series",
     "Westerns on television"
   ],
-  "is_adult": false
+  "is_adult": false,
+  "countries": [
+    "AR"
+  ]
 }

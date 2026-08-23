@@ -7,7 +7,10 @@
   "external_ids": {
     "wikidata": "Q18387818"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 3,
-  "total_episodes": 66
+  "total_episodes": 66,
+  "countries": [
+    "GR"
+  ]
 }

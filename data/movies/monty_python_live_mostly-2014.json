@@ -9,6 +9,12 @@
     "imdb": "tt3872778",
     "tmdb": 282268
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2014-07-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2014-07-01",
+  "genres": [
+    "Comedy",
+    "Documentary",
+    "Musical"
+  ],
+  "is_adult": false
 }

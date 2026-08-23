@@ -9,6 +9,12 @@
     "imdb": "tt3794422",
     "tmdb": 289229
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2014-06-21"
+  "last_updated": "2026-08-23",
+  "release_date": "2014-06-21",
+  "genres": [
+    "Drama",
+    "Family",
+    "Sport"
+  ],
+  "is_adult": false
 }

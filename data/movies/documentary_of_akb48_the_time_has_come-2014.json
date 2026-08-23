@@ -9,7 +9,12 @@
     "imdb": "tt3841490",
     "tmdb": 314146
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2014-07-04",
-  "runtime_minutes": 120
+  "runtime_minutes": 120,
+  "genres": [
+    "Documentary",
+    "Music"
+  ],
+  "is_adult": false
 }

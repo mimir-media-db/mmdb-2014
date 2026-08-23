@@ -8,7 +8,13 @@
     "wikidata": "Q52063167",
     "imdb": "tt3576248"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2014-01-01",
-  "runtime_minutes": 61
+  "runtime_minutes": 61,
+  "genres": [
+    "Biography",
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false
 }

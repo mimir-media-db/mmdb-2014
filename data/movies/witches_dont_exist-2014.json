@@ -9,6 +9,12 @@
     "imdb": "tt3477734",
     "tmdb": 265693
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2014-04-18"
+  "last_updated": "2026-08-23",
+  "release_date": "2014-04-18",
+  "genres": [
+    "Adventure",
+    "Family",
+    "Fantasy"
+  ],
+  "is_adult": false
 }

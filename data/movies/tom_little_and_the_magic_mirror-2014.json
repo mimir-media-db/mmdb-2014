@@ -9,7 +9,12 @@
     "imdb": "tt3644570",
     "tmdb": 309002
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2014-07-20",
-  "runtime_minutes": 78
+  "runtime_minutes": 78,
+  "genres": [
+    "Adventure",
+    "Animation"
+  ],
+  "is_adult": false
 }

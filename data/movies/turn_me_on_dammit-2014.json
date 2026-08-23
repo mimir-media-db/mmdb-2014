@@ -9,7 +9,12 @@
     "imdb": "tt1650407",
     "tmdb": 62564
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2014-05-08",
-  "runtime_minutes": 75
+  "runtime_minutes": 75,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false
 }

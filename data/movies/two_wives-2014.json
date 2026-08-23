@@ -8,6 +8,12 @@
     "wikidata": "Q20444189",
     "tmdb": 276489
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2014-03-13"
+  "last_updated": "2026-08-23",
+  "release_date": "2014-03-13",
+  "genres": [
+    "Drama",
+    "Musical",
+    "Spy"
+  ],
+  "is_adult": false
 }

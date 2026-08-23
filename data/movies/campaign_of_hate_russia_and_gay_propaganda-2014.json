@@ -9,6 +9,11 @@
     "imdb": "tt3569014",
     "tmdb": 305019
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2014-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2014-01-01",
+  "genres": [
+    "Documentary",
+    "News"
+  ],
+  "is_adult": false
 }

@@ -8,6 +8,12 @@
     "wikidata": "Q18648404",
     "tmdb": 318752
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2014-12-04"
+  "last_updated": "2026-08-23",
+  "release_date": "2014-12-04",
+  "genres": [
+    "Drama",
+    "Musical",
+    "crime thriller film"
+  ],
+  "is_adult": false
 }

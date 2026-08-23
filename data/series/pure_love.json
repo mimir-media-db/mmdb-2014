@@ -7,6 +7,10 @@
   "external_ids": {
     "wikidata": "Q12961019"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 93
+  "last_updated": "2026-08-23",
+  "total_episodes": 93,
+  "genres": [
+    "Spy"
+  ],
+  "is_adult": false
 }

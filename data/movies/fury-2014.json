@@ -9,7 +9,13 @@
     "imdb": "tt2713180",
     "tmdb": 228150
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2014-10-15",
-  "runtime_minutes": 135
+  "runtime_minutes": 135,
+  "genres": [
+    "Action",
+    "Drama",
+    "War"
+  ],
+  "is_adult": false
 }

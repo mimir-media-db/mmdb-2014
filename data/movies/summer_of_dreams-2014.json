@@ -8,6 +8,12 @@
     "wikidata": "Q47209571",
     "imdb": "tt1758771"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2014-05-08"
+  "last_updated": "2026-08-23",
+  "release_date": "2014-05-08",
+  "genres": [
+    "Drama",
+    "Family",
+    "Music"
+  ],
+  "is_adult": false
 }

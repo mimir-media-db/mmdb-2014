@@ -9,5 +9,11 @@
     "imdb": "tt5067190",
     "tmdb": 92398
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false
 }

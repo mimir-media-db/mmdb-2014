@@ -9,7 +9,12 @@
     "imdb": "tt2945504",
     "tmdb": 285938
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2014-04-10",
-  "runtime_minutes": 84
+  "runtime_minutes": 84,
+  "genres": [
+    "Crime",
+    "Family"
+  ],
+  "is_adult": false
 }

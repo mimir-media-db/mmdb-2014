@@ -9,7 +9,13 @@
     "imdb": "tt2463692",
     "tmdb": 230714
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2014-01-01",
-  "runtime_minutes": 108
+  "runtime_minutes": 108,
+  "genres": [
+    "Drama",
+    "Horror",
+    "Musical"
+  ],
+  "is_adult": false
 }

@@ -8,5 +8,11 @@
     "wikidata": "Q17067934",
     "imdb": "tt4320080"
   },
-  "last_updated": "2026-08-17"
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Action",
+    "Adventure",
+    "Comedy"
+  ],
+  "is_adult": false
 }

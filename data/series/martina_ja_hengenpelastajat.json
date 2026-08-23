@@ -8,7 +8,11 @@
     "wikidata": "Q18679782",
     "imdb": "tt4025984"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "total_seasons": 2,
-  "total_episodes": 20
+  "total_episodes": 20,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false
 }

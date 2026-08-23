@@ -7,6 +7,10 @@
   "external_ids": {
     "wikidata": "Q24669487"
   },
-  "last_updated": "2026-08-17",
-  "total_episodes": 20
+  "last_updated": "2026-08-23",
+  "total_episodes": 20,
+  "genres": [
+    "dating game show"
+  ],
+  "is_adult": false
 }

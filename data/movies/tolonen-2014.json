@@ -9,6 +9,12 @@
     "imdb": "tt3428308",
     "tmdb": 293487
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2014-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2014-01-01",
+  "genres": [
+    "Biography",
+    "Documentary",
+    "Music"
+  ],
+  "is_adult": false
 }

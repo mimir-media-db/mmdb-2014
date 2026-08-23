@@ -8,7 +8,13 @@
     "wikidata": "Q72882180",
     "imdb": "tt3826394"
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2014-01-01",
-  "runtime_minutes": 3
+  "runtime_minutes": 3,
+  "genres": [
+    "Documentary",
+    "Musical",
+    "Short"
+  ],
+  "is_adult": false
 }

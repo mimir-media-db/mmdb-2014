@@ -8,6 +8,11 @@
     "wikidata": "Q17991908",
     "tmdb": 267484
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2014-07-31"
+  "last_updated": "2026-08-23",
+  "release_date": "2014-07-31",
+  "genres": [
+    "Drama",
+    "Martial Arts"
+  ],
+  "is_adult": false
 }

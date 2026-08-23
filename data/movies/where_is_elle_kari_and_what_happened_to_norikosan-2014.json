@@ -8,6 +8,12 @@
     "wikidata": "Q73280122",
     "imdb": "tt4043916"
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2014-01-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2014-01-01",
+  "genres": [
+    "Documentary",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false
 }

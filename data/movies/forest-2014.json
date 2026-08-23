@@ -9,6 +9,11 @@
     "imdb": "tt3592218",
     "tmdb": 314471
   },
-  "last_updated": "2026-08-17",
-  "release_date": "2014-05-01"
+  "last_updated": "2026-08-23",
+  "release_date": "2014-05-01",
+  "genres": [
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false
 }

@@ -9,7 +9,12 @@
     "imdb": "tt1920861",
     "tmdb": 142622
   },
-  "last_updated": "2026-08-17",
+  "last_updated": "2026-08-23",
   "release_date": "2014-11-13",
-  "runtime_minutes": 85
+  "runtime_minutes": 85,
+  "genres": [
+    "Family",
+    "Fantasy"
+  ],
+  "is_adult": false
 }

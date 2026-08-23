@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_zinko_2014",
+  "title": "Zinko",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q137363679",
+    "imdb": "tt35139370",
+    "tmdb": 284650
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PS"
+  ]
+}

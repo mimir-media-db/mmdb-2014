@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_i_never_knew_that_about_britain_2014",
+  "title": "I Never Knew That About Britain",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16994593",
+    "imdb": "tt11377404",
+    "tmdb": 85979
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

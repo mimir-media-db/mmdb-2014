@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_divino_nino_2014",
+  "title": "Divino niño",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17629290"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 60,
+  "countries": [
+    "CO"
+  ]
+}

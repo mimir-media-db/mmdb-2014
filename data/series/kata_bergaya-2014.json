@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_kata_bergaya_2014",
+  "title": "Kata Bergaya",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19752148"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 56,
+  "genres": [
+    "game show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ID"
+  ]
+}

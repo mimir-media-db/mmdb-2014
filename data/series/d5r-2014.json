@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_d5r_2014",
+  "title": "D5R",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19328641",
+    "imdb": "tt4056114",
+    "tmdb": 153999
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 159,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BE"
+  ]
+}

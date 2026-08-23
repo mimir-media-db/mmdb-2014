@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_heiter_bis_todlich_morden_im_norden_2014",
+  "title": "Heiter bis tödlich: Morden im Norden",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q1601382",
+    "imdb": "tt2052932",
+    "tmdb": 50180
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 12,
+  "total_episodes": 182,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

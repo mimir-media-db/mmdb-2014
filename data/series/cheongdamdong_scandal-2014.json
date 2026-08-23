@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_cheongdamdong_scandal_2014",
+  "title": "Cheongdam-dong Scandal",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17172375",
+    "imdb": "tt5690250",
+    "tmdb": 95887
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 119,
+  "genres": [
+    "Drama",
+    "Mystery",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

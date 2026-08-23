@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_almost_royal_2014",
+  "title": "Almost Royal",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q17280919",
+    "imdb": "tt3727552",
+    "tmdb": 60932
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 15,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB",
+    "US"
+  ]
+}

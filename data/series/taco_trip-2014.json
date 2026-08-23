@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_taco_trip_2014",
+  "title": "Taco Trip",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20800626",
+    "imdb": "tt4491940"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_yalla_ny_2014",
+  "title": "Yalla NY",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q22690841",
+    "imdb": "tt3595308"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AE",
+    "US"
+  ]
+}

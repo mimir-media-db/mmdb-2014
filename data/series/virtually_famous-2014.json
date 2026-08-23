@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_virtually_famous_2014",
+  "title": "Virtually Famous",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q18163825",
+    "imdb": "tt3977574",
+    "tmdb": 78255
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 28,
+  "genres": [
+    "Comedy",
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

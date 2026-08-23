@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_roommates_2013",
+  "title": "Roommates",
+  "start_year": 2013,
+  "end_year": 2013,
+  "external_ids": {
+    "wikidata": "Q104847219",
+    "imdb": "tt4842652",
+    "tmdb": 79510
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}

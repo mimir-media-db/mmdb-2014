@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_hangar_1_the_ufo_files_2014",
+  "title": "Hangar 1: The UFO Files",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16247030",
+    "imdb": "tt3552688",
+    "tmdb": 64900
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 20,
+  "genres": [
+    "Mystery",
+    "Reality-TV",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

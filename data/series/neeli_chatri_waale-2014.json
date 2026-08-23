@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_neeli_chatri_waale_2014",
+  "title": "Neeli Chatri Waale",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q18128623",
+    "imdb": "tt8377874",
+    "tmdb": 315728
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 148,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

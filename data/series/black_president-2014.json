@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_black_president_2014",
+  "title": "Black President",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15963317",
+    "imdb": "tt3567788",
+    "tmdb": 83884
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 11,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

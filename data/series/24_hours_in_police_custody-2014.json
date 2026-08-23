@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_24_hours_in_police_custody_2014",
+  "title": "24 Hours in Police Custody",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18349024",
+    "imdb": "tt4116046",
+    "tmdb": 61956
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 20,
+  "genres": [
+    "Crime",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

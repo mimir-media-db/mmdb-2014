@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_candidly_nicole_2014",
+  "title": "Candidly Nicole",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q23001023"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 16,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

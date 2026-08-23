@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_grey_mates_2014",
+  "title": "Grey Mates",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q16993375",
+    "imdb": "tt3261308",
+    "tmdb": 66029
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 13,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

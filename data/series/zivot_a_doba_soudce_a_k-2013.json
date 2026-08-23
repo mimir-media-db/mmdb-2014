@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_zivot_a_doba_soudce_a_k_2013",
+  "title": "Život a doba soudce A. K.",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15124385",
+    "imdb": "tt3296146",
+    "tmdb": 74537
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 26,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CZ"
+  ]
+}

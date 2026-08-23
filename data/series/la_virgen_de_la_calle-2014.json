@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_la_virgen_de_la_calle_2014",
+  "title": "La Virgen de la Calle",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15890282",
+    "imdb": "tt3475192",
+    "tmdb": 58432
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 120,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

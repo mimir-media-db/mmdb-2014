@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_el_fin_de_la_comedia_2014",
+  "title": "El fin de la comedia",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q18416110",
+    "imdb": "tt4162922",
+    "tmdb": 71091
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 12,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

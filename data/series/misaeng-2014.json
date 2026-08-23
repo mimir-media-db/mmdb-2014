@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_misaeng_2014",
+  "title": "Misaeng",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17564506",
+    "imdb": "tt4240730",
+    "tmdb": 61678
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 20,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

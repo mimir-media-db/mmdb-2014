@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_permission_impossible_britains_planners_2014",
+  "title": "Permission Impossible: Britain's Planners",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17017580",
+    "imdb": "tt3218370",
+    "tmdb": 65098
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

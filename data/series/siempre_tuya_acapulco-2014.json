@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_siempre_tuya_acapulco_2014",
+  "title": "Siempre Tuya Acapulco",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15725956",
+    "imdb": "tt3526872",
+    "tmdb": 107159
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 136,
+  "genres": [
+    "Adventure",
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

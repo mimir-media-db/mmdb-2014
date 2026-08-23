@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_floortje_to_the_end_of_the_world_2014",
+  "title": "Floortje to the end of the world",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q20828242",
+    "imdb": "tt5451182",
+    "tmdb": 65685
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 13,
+  "genres": [
+    "Adventure",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": []
+}

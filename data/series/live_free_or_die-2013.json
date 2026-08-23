@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_live_free_or_die_2013",
+  "title": "Live Free or Die",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q28403242",
+    "imdb": "tt4118110",
+    "tmdb": 64844
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

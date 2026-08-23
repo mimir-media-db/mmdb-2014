@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_benim_adm_gultepe_2014",
+  "title": "Benim Adım Gültepe",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q97233612",
+    "imdb": "tt5165824",
+    "tmdb": 204164
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "TR"
+  ]
+}

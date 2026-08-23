@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_tuubi_2014",
+  "title": "Tuubi",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q16904539",
+    "imdb": "tt3719844"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 30,
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FI"
+  ]
+}

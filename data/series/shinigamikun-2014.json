@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_shinigamikun_2014",
+  "title": "Shinigami-kun",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q11546974",
+    "imdb": "tt3538674",
+    "tmdb": 65068
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 9,
+  "genres": [
+    "Comedy",
+    "Fantasy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_collection_mary_higgins_clark_la_reine_du_suspense_2013",
+  "title": "Collection Mary Higgins Clark, la reine du suspense",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q106128970",
+    "imdb": "tt8270716",
+    "tmdb": 117631
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

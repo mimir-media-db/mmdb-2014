@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_marasim_2013",
+  "title": "Marasim",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18127836",
+    "imdb": "tt35726091"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 23,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PK"
+  ]
+}

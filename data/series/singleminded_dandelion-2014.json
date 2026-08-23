@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_singleminded_dandelion_2014",
+  "title": "Single-minded Dandelion",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16690805",
+    "imdb": "tt5690198",
+    "tmdb": 128669
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 134,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

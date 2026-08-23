@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_24_hour_rental_2014",
+  "title": "24 Hour Rental",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q21159986",
+    "imdb": "tt2525290",
+    "tmdb": 64183
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Comedy",
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

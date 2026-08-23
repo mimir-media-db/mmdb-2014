@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_spookiz_2013",
+  "title": "Spookiz",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q31837396"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 49,
+  "genres": [
+    "comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

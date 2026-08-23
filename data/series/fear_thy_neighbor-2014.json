@@ -1,0 +1,25 @@
+{
+  "schema_version": 1,
+  "id": "s_fear_thy_neighbor_2014",
+  "title": "Fear Thy Neighbor",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16993175",
+    "imdb": "tt3951130",
+    "tmdb": 62416
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 19,
+  "genres": [
+    "Action",
+    "Crime",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "US"
+  ]
+}

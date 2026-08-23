@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_el_capo_3_2014",
+  "title": "El capo 3",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q20751215"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 57,
+  "genres": [
+    "telenovela"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

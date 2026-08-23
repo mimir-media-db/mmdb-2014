@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_holiday_baking_championship_2014",
+  "title": "Holiday Baking Championship",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q19798708",
+    "imdb": "tt4226226",
+    "tmdb": 68598
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 6,
+  "genres": [
+    "Family",
+    "Game-Show",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

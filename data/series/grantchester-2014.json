@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_grantchester_2014",
+  "title": "Grantchester",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18345914",
+    "imdb": "tt3747572",
+    "tmdb": 61457
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 11,
+  "total_episodes": 75,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

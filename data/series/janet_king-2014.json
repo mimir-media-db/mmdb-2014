@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_janet_king_2014",
+  "title": "Janet King",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q5926089",
+    "imdb": "tt2645122",
+    "tmdb": 46621
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 24,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

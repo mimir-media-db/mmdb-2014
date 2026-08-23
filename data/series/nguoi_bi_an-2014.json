@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_nguoi_bi_an_2014",
+  "title": "Người bí ẩn",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q16998966"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 13,
+  "countries": [
+    "GB",
+    "VN"
+  ]
+}

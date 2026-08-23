@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_moment_in_peking_2013",
+  "title": "Moment in Peking",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15910305",
+    "imdb": "tt6917402",
+    "tmdb": 90020
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Romance",
+    "War"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

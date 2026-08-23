@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_192_2014",
+  "title": "19-2",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q38255822",
+    "imdb": "tt3340712",
+    "tmdb": 61546
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 38,
+  "genres": [
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

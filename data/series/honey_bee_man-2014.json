@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_honey_bee_man_2014",
+  "title": "Honey Bee Man",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16690102",
+    "imdb": "tt6362554",
+    "tmdb": 95589
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 34,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

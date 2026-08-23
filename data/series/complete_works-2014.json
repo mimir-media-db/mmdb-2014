@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_complete_works_2014",
+  "title": "Complete Works",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17510761",
+    "imdb": "tt3439236",
+    "tmdb": 61645
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

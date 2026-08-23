@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_cara_fi_2014",
+  "title": "Cara Fi",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q18712151",
+    "imdb": "tt3693996",
+    "tmdb": 331501
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

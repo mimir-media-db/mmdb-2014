@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_i_need_romance_3_2014",
+  "title": "I Need Romance 3",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15623744",
+    "imdb": "tt3340752",
+    "tmdb": 43236
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 16,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

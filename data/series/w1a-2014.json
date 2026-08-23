@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_w1a_2014",
+  "title": "W1A",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q15732968",
+    "imdb": "tt3610926",
+    "tmdb": 62479
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 4,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

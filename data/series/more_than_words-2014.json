@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_more_than_words_2014",
+  "title": "More Than Words",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18391171",
+    "imdb": "tt4906422",
+    "tmdb": 210380
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 80,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

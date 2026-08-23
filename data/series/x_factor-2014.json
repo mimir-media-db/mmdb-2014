@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_x_factor_2014",
+  "title": "X Factor",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16875459"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "countries": [
+    "TR"
+  ]
+}

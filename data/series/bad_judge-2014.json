@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_bad_judge_2014",
+  "title": "Bad Judge",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16983503",
+    "imdb": "tt2769470",
+    "tmdb": 60783
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

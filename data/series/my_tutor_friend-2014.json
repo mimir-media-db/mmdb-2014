@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_my_tutor_friend_2014",
+  "title": "My Tutor Friend",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18683961"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 21,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

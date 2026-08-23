@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_camino_al_amor_2014",
+  "title": "Camino al Amor",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16540752",
+    "imdb": "tt3735248",
+    "tmdb": 107044
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 120,
+  "genres": [
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AR"
+  ]
+}

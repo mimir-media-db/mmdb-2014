@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_biker_battleground_phoenix_2014",
+  "title": "Biker Battleground Phoenix",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17509867",
+    "imdb": "tt3729744",
+    "tmdb": 61196
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 9,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

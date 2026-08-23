@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_la_impostora_2014",
+  "title": "La Impostora",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q13219010",
+    "imdb": "tt3356508",
+    "tmdb": 50864
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 120,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

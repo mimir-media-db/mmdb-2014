@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_sixties_2014",
+  "title": "The Sixties",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q21160156",
+    "imdb": "tt3268200",
+    "tmdb": 60909
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 10,
+  "genres": [
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

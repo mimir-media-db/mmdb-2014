@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_que_talento_2014",
+  "title": "¡Qué Talento!",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q17458389"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 52,
+  "genres": [
+    "comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

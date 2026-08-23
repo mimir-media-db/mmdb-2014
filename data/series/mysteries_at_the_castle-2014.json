@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_mysteries_at_the_castle_2014",
+  "title": "Mysteries at the Castle",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q16956074",
+    "imdb": "tt3478210",
+    "tmdb": 65015
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 31,
+  "genres": [
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

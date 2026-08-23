@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_meri_aashiqui_tum_hi_se_2014",
+  "title": "Meri Aashiqui Tum Hi Se",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q17073126",
+    "imdb": "tt3911894",
+    "tmdb": 72648
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 446,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

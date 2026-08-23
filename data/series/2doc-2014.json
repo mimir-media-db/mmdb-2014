@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "id": "s_2doc_2014",
+  "title": "2Doc",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q21333956"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 385,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": []
+}

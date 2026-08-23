@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_seijo_2014",
+  "title": "Seijo",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17220893",
+    "imdb": "tt3734920",
+    "tmdb": 62076
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

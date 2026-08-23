@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_lizzie_borden_chronicles_2014",
+  "title": "The Lizzie Borden Chronicles",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q19798726",
+    "imdb": "tt4145760",
+    "tmdb": 62231
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

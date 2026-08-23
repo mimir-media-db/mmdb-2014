@@ -1,0 +1,18 @@
+{
+  "schema_version": 1,
+  "id": "s_alles_verbrecher_2014",
+  "title": "Alles Verbrecher",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q66574309"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

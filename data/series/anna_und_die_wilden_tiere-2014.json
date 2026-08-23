@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_anna_und_die_wilden_tiere_2014",
+  "title": "Anna und die wilden Tiere",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q55945683"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 82,
+  "genres": [
+    "nature documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

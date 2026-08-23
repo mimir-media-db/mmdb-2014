@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_wahlburgers_2014",
+  "title": "Wahlburgers",
+  "start_year": 2014,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q56220679",
+    "imdb": "tt3333880",
+    "tmdb": 60951
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 10,
+  "total_episodes": 95,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

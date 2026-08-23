@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_rich_kids_of_beverly_hills_2014",
+  "title": "Rich Kids of Beverly Hills",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q17078459",
+    "imdb": "tt3485248",
+    "tmdb": 62535
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 35,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

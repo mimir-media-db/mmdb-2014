@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_suspects_2014",
+  "title": "Suspects",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q17022528",
+    "imdb": "tt3149010",
+    "tmdb": 61448
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 23,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_endless_love_2014",
+  "title": "Endless Love",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16690547",
+    "imdb": "tt5196024",
+    "tmdb": 63203
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 37,
+  "genres": [
+    "Action",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

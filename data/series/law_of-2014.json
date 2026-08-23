@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_law_of_2014",
+  "title": "The law of ...",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q30738597",
+    "imdb": "tt3355088",
+    "tmdb": 100063
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

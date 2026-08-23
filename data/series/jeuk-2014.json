@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_jeuk_2014",
+  "title": "Jeuk",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15907013",
+    "imdb": "tt3588596",
+    "tmdb": 79339
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 28,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": []
+}

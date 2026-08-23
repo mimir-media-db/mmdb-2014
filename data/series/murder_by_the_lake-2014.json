@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_murder_by_the_lake_2014",
+  "title": "Murder by the Lake",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24574689",
+    "imdb": "tt8648176",
+    "tmdb": 81238
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 24,
+  "genres": [
+    "Crime"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AT",
+    "DE"
+  ]
+}

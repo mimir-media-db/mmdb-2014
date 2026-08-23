@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_jane_the_virgin_2014",
+  "title": "Jane the Virgin",
+  "start_year": 2014,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q16913682",
+    "imdb": "tt3566726",
+    "tmdb": 61418
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 100,
+  "genres": [
+    "Comedy",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

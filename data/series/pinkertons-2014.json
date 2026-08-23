@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_pinkertons_2014",
+  "title": "The Pinkertons",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18645274",
+    "imdb": "tt4089276",
+    "tmdb": 70276
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 22,
+  "genres": [
+    "Biography",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_alex_hugo_2014",
+  "title": "Alex Hugo",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15918411",
+    "imdb": "tt4964074",
+    "tmdb": 67691
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 11,
+  "total_episodes": 33,
+  "genres": [
+    "Adventure",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

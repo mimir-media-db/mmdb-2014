@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_chicago_pd_2014",
+  "title": "Chicago P.D.",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q13218686",
+    "imdb": "tt2805096",
+    "tmdb": 58841
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 13,
+  "total_episodes": 264,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

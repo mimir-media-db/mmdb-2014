@@ -1,0 +1,15 @@
+{
+  "schema_version": 1,
+  "id": "s_sonohinomaeni_2014",
+  "title": "Sonohinomaeni",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11270409",
+    "tmdb": 258203
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "JP"
+  ]
+}

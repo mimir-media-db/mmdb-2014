@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_half_sisters_2014",
+  "title": "The Half Sisters",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q17072294",
+    "imdb": "tt3907562",
+    "tmdb": 221608
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 418,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Thriller"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

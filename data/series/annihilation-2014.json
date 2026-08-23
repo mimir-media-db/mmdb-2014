@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_annihilation_2014",
+  "title": "Annihilation",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q19593747",
+    "imdb": "tt4336672",
+    "tmdb": 75837
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 9,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "FR"
+  ]
+}

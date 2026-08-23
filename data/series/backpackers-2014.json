@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_backpackers_2014",
+  "title": "Backpackers",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15994916",
+    "imdb": "tt3147542",
+    "tmdb": 9386
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "US"
+  ]
+}

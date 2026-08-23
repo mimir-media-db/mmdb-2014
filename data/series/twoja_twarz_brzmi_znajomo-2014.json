@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_twoja_twarz_brzmi_znajomo_2014",
+  "title": "Twoja twarz brzmi znajomo",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q15952386",
+    "imdb": "tt6229766",
+    "tmdb": 89091
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 57,
+  "genres": [
+    "Game-Show",
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PL"
+  ]
+}

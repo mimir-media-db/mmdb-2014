@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_trying_again_2014",
+  "title": "Trying Again",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16966565",
+    "imdb": "tt3621220",
+    "tmdb": 129245
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 8,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

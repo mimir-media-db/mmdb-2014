@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_superstar_2014",
+  "title": "Superstar",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q10374905"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 40,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

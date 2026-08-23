@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "id": "s_history_detectives_special_investigations_2014",
+  "title": "History Detectives Special Investigations",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q106533339",
+    "imdb": "tt14477204"
+  },
+  "last_updated": "2026-08-23",
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

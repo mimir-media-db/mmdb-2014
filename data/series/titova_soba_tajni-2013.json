@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_titova_soba_tajni_2013",
+  "title": "Titova soba tajni",
+  "start_year": 2013,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q127788419",
+    "imdb": "tt5611898"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Biography",
+    "Documentary",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RS"
+  ]
+}

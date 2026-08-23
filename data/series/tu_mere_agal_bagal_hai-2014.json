@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_tu_mere_agal_bagal_hai_2014",
+  "title": "Tu Mere Agal Bagal Hai",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q18324473",
+    "imdb": "tt20195498"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 60,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IN"
+  ]
+}

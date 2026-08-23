@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_down_east_dickering_2014",
+  "title": "Down East Dickering",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q20642668",
+    "imdb": "tt3762958",
+    "tmdb": 64943
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 16,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

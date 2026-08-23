@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_human_universe_2014",
+  "title": "Human Universe",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16994435",
+    "imdb": "tt4162128",
+    "tmdb": 61592
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 5,
+  "genres": [
+    "Documentary",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

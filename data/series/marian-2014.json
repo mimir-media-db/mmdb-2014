@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_marian_2014",
+  "title": "Marian",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q18352687",
+    "imdb": "tt3914782"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 25,
+  "genres": [
+    "Musical",
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "PH"
+  ]
+}

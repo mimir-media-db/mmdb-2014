@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_marry_me_2014",
+  "title": "Marry Me",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17006449",
+    "imdb": "tt3460454",
+    "tmdb": 61499
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 18,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

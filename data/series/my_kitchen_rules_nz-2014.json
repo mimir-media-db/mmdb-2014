@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_my_kitchen_rules_nz_2014",
+  "title": "My Kitchen Rules NZ",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q22079954",
+    "imdb": "tt5199124",
+    "tmdb": 74437
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 50,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "NZ"
+  ]
+}

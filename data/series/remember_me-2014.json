@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_remember_me_2014",
+  "title": "Remember Me",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17018809",
+    "imdb": "tt3484180",
+    "tmdb": 61635
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 3,
+  "genres": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

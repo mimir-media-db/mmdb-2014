@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_pauw_2014",
+  "title": "Pauw",
+  "start_year": 2014,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q18012293",
+    "imdb": "tt3947934",
+    "tmdb": 105637
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 11,
+  "genres": [
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": []
+}

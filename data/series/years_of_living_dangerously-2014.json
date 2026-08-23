@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_years_of_living_dangerously_2014",
+  "title": "Years of Living Dangerously",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q15711705",
+    "imdb": "tt2963070",
+    "tmdb": 52684
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 9,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

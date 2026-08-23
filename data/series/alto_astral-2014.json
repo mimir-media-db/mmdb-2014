@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_alto_astral_2014",
+  "title": "Alto Astral",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18285172",
+    "imdb": "tt4295280",
+    "tmdb": 86198
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 161,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

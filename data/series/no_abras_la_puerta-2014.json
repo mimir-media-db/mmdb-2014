@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_no_abras_la_puerta_2014",
+  "title": "No Abras la Puerta",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17082326",
+    "imdb": "tt3901950",
+    "tmdb": 290457
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 74,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CL"
+  ]
+}

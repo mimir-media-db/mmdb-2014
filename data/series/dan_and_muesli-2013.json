@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_dan_and_muesli_2013",
+  "title": "Dan and Muesli",
+  "start_year": 2013,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q20501878",
+    "imdb": "tt4668040"
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "IL"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_are_you_the_one_2014",
+  "title": "Are You the One?",
+  "start_year": 2014,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q16159810",
+    "imdb": "tt3484274",
+    "tmdb": 61535
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 30,
+  "genres": [
+    "Game-Show",
+    "Reality-TV",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

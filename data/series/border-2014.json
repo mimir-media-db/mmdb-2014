@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_border_2014",
+  "title": "BORDER",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q112428910",
+    "imdb": "tt3512088",
+    "tmdb": 64031
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

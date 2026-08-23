@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_ronan_farrow_daily_2014",
+  "title": "Ronan Farrow Daily",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17048640"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "US"
+  ]
+}

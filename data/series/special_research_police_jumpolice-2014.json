@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_special_research_police_jumpolice_2014",
+  "title": "Special research police JUMPolice",
+  "start_year": 2014,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q17213595"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "JP"
+  ]
+}

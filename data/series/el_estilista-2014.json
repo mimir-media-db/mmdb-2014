@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_el_estilista_2014",
+  "title": "El estilista",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17994278"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 84,
+  "genres": [
+    "telenovela"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CO"
+  ]
+}

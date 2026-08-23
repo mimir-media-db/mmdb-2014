@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_bubu_jingqing_2014",
+  "title": "Bubu Jingqing",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q9005867",
+    "imdb": "tt2475848",
+    "tmdb": 37681
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 35,
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CN"
+  ]
+}

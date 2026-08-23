@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_hi_school_love_on_2014",
+  "title": "Hi! School: Love On",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17161407",
+    "imdb": "tt4119504",
+    "tmdb": 61738
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 20,
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

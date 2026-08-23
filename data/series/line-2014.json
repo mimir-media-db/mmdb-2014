@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_line_2014",
+  "title": "The Line",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18389956",
+    "imdb": "tt4355802"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 2,
+  "genres": [
+    "Game-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

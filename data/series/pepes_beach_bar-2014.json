@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_pepes_beach_bar_2014",
+  "title": "Pepe's Beach Bar",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q16492258",
+    "imdb": "tt3749022",
+    "tmdb": 61224
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 26,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

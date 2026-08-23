@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_cant_pay_well_take_it_away_2014",
+  "title": "Can't Pay? We'll Take It Away!",
+  "start_year": 2014,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q20800437",
+    "imdb": "tt3574652",
+    "tmdb": 64091
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 29,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

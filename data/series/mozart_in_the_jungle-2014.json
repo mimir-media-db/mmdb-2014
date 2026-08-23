@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_mozart_in_the_jungle_2014",
+  "title": "Mozart in the Jungle",
+  "start_year": 2014,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q17070012",
+    "imdb": "tt3502172",
+    "tmdb": 61744
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 40,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Music"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

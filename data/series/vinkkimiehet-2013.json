@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_vinkkimiehet_2013",
+  "title": "Vinkkimiehet",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q25451094"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "FI"
+  ]
+}

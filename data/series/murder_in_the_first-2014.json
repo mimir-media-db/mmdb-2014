@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_murder_in_the_first_2014",
+  "title": "Murder in the First",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q14931565",
+    "imdb": "tt2402061",
+    "tmdb": 60129
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 32,
+  "genres": [
+    "Crime",
+    "Drama",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

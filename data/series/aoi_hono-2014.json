@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_aoi_hono_2014",
+  "title": "Aoi Honō",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q11282655"
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 11,
+  "genres": [
+    "school anime and manga"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

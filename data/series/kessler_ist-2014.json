@@ -1,0 +1,19 @@
+{
+  "schema_version": 1,
+  "id": "s_kessler_ist_2014",
+  "title": "Kessler ist …",
+  "start_year": 2014,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q23775136",
+    "imdb": "tt5575902",
+    "tmdb": 69492
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 5,
+  "total_episodes": 24,
+  "is_adult": false,
+  "countries": [
+    "DE"
+  ]
+}

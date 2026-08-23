@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_little_women_la_2014",
+  "title": "Little Women: LA",
+  "start_year": 2014,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q21160077",
+    "imdb": "tt3761278",
+    "tmdb": 61782
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 46,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_esse_artista_sou_eu_2014",
+  "title": "Esse Artista Sou Eu",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q18010847"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 18,
+  "genres": [
+    "reality television"
+  ],
+  "is_adult": false,
+  "countries": [
+    "BR"
+  ]
+}

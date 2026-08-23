@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_from_there_to_here_2014",
+  "title": "From There to Here",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q16992537",
+    "imdb": "tt3190722",
+    "tmdb": 61609
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 3,
+  "genres": [
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

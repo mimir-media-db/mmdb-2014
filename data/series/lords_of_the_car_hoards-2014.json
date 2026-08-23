@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_lords_of_the_car_hoards_2014",
+  "title": "Lords of the Car Hoards",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17109012",
+    "imdb": "tt3578904",
+    "tmdb": 64103
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 12,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

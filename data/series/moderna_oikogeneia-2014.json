@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_moderna_oikogeneia_2014",
+  "title": "Moderna Oikogeneia",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17636554",
+    "imdb": "tt3649128",
+    "tmdb": 102126
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 43,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CY",
+    "GR"
+  ]
+}

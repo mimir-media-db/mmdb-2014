@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_391_2014",
+  "title": "39+1",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q28501268",
+    "imdb": "tt3672398",
+    "tmdb": 62467
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "ES"
+  ]
+}

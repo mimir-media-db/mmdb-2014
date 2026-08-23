@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_bride_of_the_century_2014",
+  "title": "Bride of the Century",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15748741",
+    "imdb": "tt3726584",
+    "tmdb": 61544
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 16,
+  "genres": [
+    "Drama",
+    "Fantasy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

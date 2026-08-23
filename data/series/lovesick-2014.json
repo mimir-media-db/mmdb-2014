@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_lovesick_2014",
+  "title": "Lovesick",
+  "start_year": 2014,
+  "end_year": 2017,
+  "external_ids": {
+    "wikidata": "Q18356285",
+    "imdb": "tt4051832",
+    "tmdb": 62668
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 3,
+  "total_episodes": 22,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GB"
+  ]
+}

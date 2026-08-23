@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_gunshi_kanbei_2014",
+  "title": "Gunshi Kanbei",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q1275104",
+    "imdb": "tt2465992",
+    "tmdb": 65968
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 50,
+  "genres": [
+    "Drama",
+    "History",
+    "War"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

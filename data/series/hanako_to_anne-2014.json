@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_hanako_to_anne_2014",
+  "title": "Hanako to Anne",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15094683",
+    "imdb": "tt3018048",
+    "tmdb": 88435
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 156,
+  "genres": [
+    "Comedy",
+    "Drama",
+    "Family"
+  ],
+  "is_adult": false,
+  "countries": [
+    "JP"
+  ]
+}

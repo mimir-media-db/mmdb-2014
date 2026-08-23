@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_love_hip_hop_hollywood_2014",
+  "title": "Love & Hip Hop: Hollywood",
+  "start_year": 2014,
+  "end_year": 2019,
+  "external_ids": {
+    "wikidata": "Q18151941",
+    "imdb": "tt3706642",
+    "tmdb": 61582
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 6,
+  "total_episodes": 78,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

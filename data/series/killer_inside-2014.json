@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_killer_inside_2014",
+  "title": "The Killer Inside",
+  "start_year": 2014,
+  "end_year": 2018,
+  "external_ids": {
+    "wikidata": "Q26810494",
+    "imdb": "tt3668326",
+    "tmdb": 64767
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Crime",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

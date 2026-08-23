@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_thank_god_youre_here_2014",
+  "title": "Thank God You're Here",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q24955432"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 8,
+  "total_episodes": 107,
+  "genres": [
+    "reality television",
+    "drama television series",
+    "comedy television series"
+  ],
+  "is_adult": false,
+  "countries": [
+    "VN"
+  ]
+}

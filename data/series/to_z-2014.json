@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_to_z_2014",
+  "title": "A to Z",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16974089",
+    "imdb": "tt3216682",
+    "tmdb": 61268
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Comedy",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

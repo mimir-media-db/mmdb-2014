@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_snl_quebec_2014",
+  "title": "SNL Québec",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18384455",
+    "imdb": "tt12888246",
+    "tmdb": 89807
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 9,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA"
+  ]
+}

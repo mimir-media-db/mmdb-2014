@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_mlb_whiparound_2014",
+  "title": "MLB Whiparound",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q18151597"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "US"
+  ]
+}

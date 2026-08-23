@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "id": "s_raising_asia_2014",
+  "title": "Raising Asia",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q104880361",
+    "imdb": "tt4007534",
+    "tmdb": 64999
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Biography",
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

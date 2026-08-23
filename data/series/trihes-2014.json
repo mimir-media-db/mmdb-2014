@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_trihes_2014",
+  "title": "Trihes",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q109354533",
+    "imdb": "tt4427046",
+    "tmdb": 115877
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 22,
+  "genres": [
+    "Comedy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "GR"
+  ]
+}

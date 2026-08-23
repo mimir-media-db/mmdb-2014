@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "id": "s_my_tiny_terror_2014",
+  "title": "My Tiny Terror",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q17082286"
+  },
+  "last_updated": "2026-08-23",
+  "countries": [
+    "US"
+  ]
+}

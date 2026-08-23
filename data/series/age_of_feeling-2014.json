@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_age_of_feeling_2014",
+  "title": "Age of Feeling",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q14701400",
+    "imdb": "tt3112622",
+    "tmdb": 61140
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 24,
+  "genres": [
+    "Action",
+    "Crime",
+    "Drama"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

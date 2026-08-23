@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_las_bravo_2014",
+  "title": "Las Bravo",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q16959851",
+    "imdb": "tt3973120",
+    "tmdb": 107151
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "MX"
+  ]
+}

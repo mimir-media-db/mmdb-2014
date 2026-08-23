@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_ekaterina_2014",
+  "title": "Ekaterina",
+  "start_year": 2014,
+  "end_year": 2023,
+  "external_ids": {
+    "wikidata": "Q2941802",
+    "imdb": "tt4231140",
+    "tmdb": 71152
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 4,
+  "total_episodes": 56,
+  "genres": [
+    "Biography",
+    "Drama",
+    "History"
+  ],
+  "is_adult": false,
+  "countries": [
+    "RU"
+  ]
+}

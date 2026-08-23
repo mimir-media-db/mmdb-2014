@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_reid_report_2014",
+  "title": "The Reid Report",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q17048632",
+    "imdb": "tt6199682",
+    "tmdb": 86183
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "News"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

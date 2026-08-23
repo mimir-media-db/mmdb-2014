@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "id": "s_pride_and_prejudice_2014",
+  "title": "Pride and Prejudice",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q18344497",
+    "imdb": "tt4284162",
+    "tmdb": 61786
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 21,
+  "genres": [
+    "Drama",
+    "Romance"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

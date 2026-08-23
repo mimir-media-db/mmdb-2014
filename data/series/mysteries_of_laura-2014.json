@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_mysteries_of_laura_2014",
+  "title": "The Mysteries of Laura",
+  "start_year": 2014,
+  "end_year": 2016,
+  "external_ids": {
+    "wikidata": "Q16915631",
+    "imdb": "tt3187578",
+    "tmdb": 61367
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 38,
+  "genres": [
+    "Comedy",
+    "Crime",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

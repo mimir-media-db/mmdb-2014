@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_blue_zoo_2013",
+  "title": "Blue Zoo",
+  "start_year": 2013,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q25339014",
+    "imdb": "tt3133386"
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 13,
+  "genres": [
+    "Documentary"
+  ],
+  "is_adult": false,
+  "countries": [
+    "AU"
+  ]
+}

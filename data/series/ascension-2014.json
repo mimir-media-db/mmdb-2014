@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_ascension_2014",
+  "title": "Ascension",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q17454120",
+    "imdb": "tt3696720",
+    "tmdb": 60741
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 1,
+  "total_episodes": 6,
+  "genres": [
+    "Drama",
+    "Sci-Fi"
+  ],
+  "is_adult": false,
+  "countries": [
+    "CA",
+    "US"
+  ]
+}

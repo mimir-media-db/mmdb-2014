@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "id": "s_helix_2014",
+  "title": "Helix",
+  "start_year": 2014,
+  "end_year": 2015,
+  "external_ids": {
+    "wikidata": "Q15146232",
+    "imdb": "tt2758950",
+    "tmdb": 58811
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 2,
+  "total_episodes": 26,
+  "genres": [
+    "Drama",
+    "Horror",
+    "Mystery"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

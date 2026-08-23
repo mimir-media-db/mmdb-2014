@@ -1,0 +1,20 @@
+{
+  "schema_version": 1,
+  "id": "s_land_of_gold_2014",
+  "title": "Land of Gold",
+  "start_year": 2014,
+  "end_year": 2014,
+  "external_ids": {
+    "wikidata": "Q15690441",
+    "tmdb": 197611
+  },
+  "last_updated": "2026-08-23",
+  "total_episodes": 163,
+  "genres": [
+    "Spy"
+  ],
+  "is_adult": false,
+  "countries": [
+    "KR"
+  ]
+}

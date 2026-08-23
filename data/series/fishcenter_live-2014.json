@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_fishcenter_live_2014",
+  "title": "FishCenter Live",
+  "start_year": 2014,
+  "end_year": 2020,
+  "external_ids": {
+    "wikidata": "Q19593686",
+    "imdb": "tt4512424",
+    "tmdb": 276057
+  },
+  "last_updated": "2026-08-23",
+  "genres": [
+    "Comedy",
+    "Talk-Show"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "id": "s_dr_oakley_yukon_vet_2014",
+  "title": "Dr. Oakley, Yukon Vet",
+  "start_year": 2014,
+  "end_year": null,
+  "external_ids": {
+    "wikidata": "Q75728693",
+    "imdb": "tt3593456",
+    "tmdb": 65927
+  },
+  "last_updated": "2026-08-23",
+  "total_seasons": 11,
+  "genres": [
+    "Reality-TV"
+  ],
+  "is_adult": false,
+  "countries": [
+    "US"
+  ]
+}
